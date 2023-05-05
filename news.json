@@ -1,0 +1,5383 @@
+[
+  {
+    "id": 1,
+    "title": "hyper-nostr",
+    "link": "www.npmjs.com/package/hyper-nostr",
+    "metadata": "77 sats \\ 0 comments \\ @melvincarvalho 57m nostr"
+  },
+  {
+    "id": 2,
+    "title": "The Best of Nostr - May the 4th, 2023",
+    "link": "111 sats \\ 0 comments \\ @cstack 10h nostr",
+    "metadata": "3"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/nostr-control-core-lightning-plugin/",
+    "link": "0 sats \\ 1 comments \\ @kepford 10h nostr",
+    "metadata": "4"
+  },
+  {
+    "id": null,
+    "title": "nostrsovrn.com",
+    "link": "1739 sats \\ 3 comments \\ @BitcoinNostr 10h nostr",
+    "metadata": "5"
+  },
+  {
+    "id": null,
+    "title": "opensats.org/blog",
+    "link": "3631 sats \\ 7 comments new \\ @nvk 14h nostr",
+    "metadata": "6"
+  },
+  {
+    "id": null,
+    "title": "iris.to/note1dyfs5gdjn4ja6ua5kp6gqu2wssu4432lgcmzpck20433pl8daztq9uev6l",
+    "link": "182 sats \\ 0 comments \\ @Rsync25 14h nostr",
+    "metadata": "7"
+  },
+  {
+    "id": null,
+    "title": "828 sats \\ 12 comments \\ @grayruby 15h nostr",
+    "link": "8",
+    "metadata": "NIP-90: Bitcoin PSBTs"
+  },
+  {
+    "id": null,
+    "title": "30 sats \\ 1 comments \\ @arminsdev 18h nostr freebie",
+    "link": "9",
+    "metadata": "Prediction markets on nostr?"
+  },
+  {
+    "id": 567,
+    "title": "10",
+    "link": "Nostr Wallet Connect Comes to Umbrel",
+    "metadata": "blog.getalby.com/nostr-wallet-connect-comes-to-umbrel/"
+  },
+  {
+    "id": 0,
+    "title": "11",
+    "link": "Introducing Zapit Marketplace - Demo",
+    "metadata": "pay.zapit.live/market/stalls/AFakFbB9XB7xAVSUy3G3oN"
+  },
+  {
+    "id": 151,
+    "title": "12",
+    "link": "Uncle Bob's video guide to the more-speech client",
+    "metadata": "www.youtube.com/watch?v=q3gQ42aUhls"
+  },
+  {
+    "id": 2618,
+    "title": "13",
+    "link": "Kind3: Replace Your Nostr Follow List",
+    "metadata": "www.nobsbitcoin.com/kind3/"
+  },
+  {
+    "id": 0,
+    "title": "14",
+    "link": "Best of Nostr 3 May 2023",
+    "metadata": "1016 sats \\ 3 comments \\ @cstack 3 May nostr"
+  },
+  {
+    "id": 15,
+    "title": "Danny on Nostr, bitcoin, lightning and Deezy",
+    "link": "www.youtube.com/watch?v=fccyhSxp0js",
+    "metadata": "10 sats \\ 0 comments \\ @TheWildHustle 3 May nostr"
+  },
+  {
+    "id": 16,
+    "title": "My CLN Plugin you can interact with over Nostr DM",
+    "link": "github.com/joelklabo/nostr-control",
+    "metadata": "4430 sats \\ 0 comments \\ @joelklabo 3 May nostr"
+  },
+  {
+    "id": 17,
+    "title": "NIP-05 is not Verification",
+    "link": "6372 sats \\ 8 comments \\ @AR0w 3 May nostr",
+    "metadata": "18"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @AR0w 3 May nostr",
+    "link": "19",
+    "metadata": "Ephemerelay: How to setup a Nostr relay that doesn’t store data"
+  },
+  {
+    "id": null,
+    "title": "1478 sats \\ 1 comments \\ @AR0w 3 May nostr",
+    "link": "20",
+    "metadata": "what tools do you want as a nostr developer???"
+  },
+  {
+    "id": 3384,
+    "title": "21",
+    "link": "Nostr Paywall example",
+    "metadata": "github.com/blakejakopovic/nostr_paywall_example"
+  },
+  {
+    "id": 151,
+    "title": "22",
+    "link": "deleted by author",
+    "metadata": "0 sats \\ 0 comments \\ @siggy47 3 May nostr"
+  },
+  {
+    "id": 23,
+    "title": "nblog v0.4.0: New UI and Authors Page",
+    "link": "www.nobsbitcoin.com/nblog-v0-4-0/",
+    "metadata": "1226 sats \\ 0 comments \\ @kepford 3 May nostr"
+  },
+  {
+    "id": 24,
+    "title": "Alby Launches Nostr Wallet Connect, Now Available on Umbrel",
+    "link": "www.nobsbitcoin.com/nostr-wallet-connect-by-alby-now-available-on-umbrel/",
+    "metadata": "328 sats \\ 0 comments \\ @kepford 3 May nostr"
+  },
+  {
+    "id": 25,
+    "title": "Zapvertise – Footstr",
+    "link": "footstr.com/zapvertise/",
+    "metadata": "211 sats \\ 1 comments \\ @kr 2 May nostr"
+  },
+  {
+    "id": 26,
+    "title": "Top 10 Nostr Clients - Updated May 1",
+    "link": "693 sats \\ 3 comments \\ @cstack 2 May nostr",
+    "metadata": "27"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @AR0w 2 May nostr",
+    "link": "28",
+    "metadata": "Repost: Nostr public keys of Twitter Accounts"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @AR0w 2 May nostr",
+    "link": "29",
+    "metadata": "Update on https://relay.nostr.band"
+  },
+  {
+    "id": 204,
+    "title": "30",
+    "link": "Nostr-ings: discover the universe of nostr clients",
+    "metadata": "nostr-ings.com/index.html"
+  },
+  {
+    "id": 219,
+    "title": "31",
+    "link": "Nostr Wallet Connect Comes to Umbrel",
+    "metadata": "blog.getalby.com/nostr-wallet-connect-comes-to-umbrel/"
+  },
+  {
+    "id": 2392,
+    "title": "32",
+    "link": "Can we make nostr.news ?",
+    "metadata": "667 sats \\ 17 comments \\ @AR0w 2 May nostr"
+  },
+  {
+    "id": 33,
+    "title": "Kind3: Tool to change your Nostr follow list.",
+    "link": "kind3.xyz/",
+    "metadata": "21 sats \\ 1 comments \\ @Rsync25 2 May nostr"
+  },
+  {
+    "id": 34,
+    "title": "Nostr-Hooks: React hooks for developing Nostr clients. Simple yet intelligent!",
+    "link": "www.npmjs.com/package/nostr-hooks",
+    "metadata": "21 sats \\ 5 comments \\ @sepehr 2 May nostr"
+  },
+  {
+    "id": 35,
+    "title": "Chess over nostr where players can post rewards using cashu tokens (nuts)",
+    "link": "github.com/hzrd149/chessnut",
+    "metadata": "409 sats \\ 1 comments \\ @Rsync25 2 May nostr"
+  },
+  {
+    "id": 36,
+    "title": "Pollstr: Polls on Nostr",
+    "link": "pollstr.online/",
+    "metadata": "343 sats \\ 3 comments \\ @Rsync25 2 May nostr"
+  },
+  {
+    "id": 37,
+    "title": "Nostr – Decentralized social network",
+    "link": "nostr.com",
+    "metadata": "0 sats \\ 1 comments \\ @hn 2 May nostr"
+  },
+  {
+    "id": 38,
+    "title": "'DM Reporter Bot' Serves A Reminder About The Current State of Nostr DMs",
+    "link": "www.nobsbitcoin.com/dm-reporter-bot-nostr/",
+    "metadata": "512 sats \\ 10 comments \\ @kepford 2 May nostr"
+  },
+  {
+    "id": 39,
+    "title": "learn more and get nostr https://getnostr.xyz",
+    "link": "getnostr.xyz/",
+    "metadata": "1 sats \\ 0 comments \\ @zatzby 2 May nostr"
+  },
+  {
+    "id": 40,
+    "title": "Nostr Web Client Primal Adds Search Functionality",
+    "link": "www.nobsbitcoin.com/primal-added-search-functionality/",
+    "metadata": "606 sats \\ 2 comments \\ @kepford 1 May nostr"
+  },
+  {
+    "id": 41,
+    "title": "Twitter co-founder Rabble talks Nostr and other stuff",
+    "link": "www.youtube.com/watch?v=YhCfMn43uaA",
+    "metadata": "202 sats \\ 0 comments \\ @fiatjaf 1 May nostr"
+  },
+  {
+    "id": 42,
+    "title": "nostr-relaypool-fork",
+    "link": "www.npmjs.com/package/nostr-relaypool-fork",
+    "metadata": "0 sats \\ 1 comments \\ @BitcoinIsTheFuture 1 May nostr"
+  },
+  {
+    "id": 43,
+    "title": "Introducing Nostr Wallet Connect",
+    "link": "blog.getalby.com/introducing-nostr-wallet-connect/",
+    "metadata": "32 sats \\ 0 comments \\ @squatopia 1 May nostr"
+  },
+  {
+    "id": 44,
+    "title": "Alby Buzz: Nostr Wallet Connect",
+    "link": "blog.getalby.com/alby-buzz-nostr-wallet-connect/",
+    "metadata": "4 sats \\ 0 comments \\ @squatopia 1 May nostr"
+  },
+  {
+    "id": 45,
+    "title": "Nostr Vocabulary",
+    "link": "w3id.org/nostr",
+    "metadata": "1 sats \\ 0 comments \\ @Rsync25 1 May nostr"
+  },
+  {
+    "id": 46,
+    "title": "Hyper-Nostr: Local Relay between Nostr and Hyperswarm",
+    "link": "github.com/Ruulul/hyper-nostr",
+    "metadata": "0 sats \\ 0 comments \\ @Rsync25 1 May nostr"
+  },
+  {
+    "id": 47,
+    "title": "Nostr + AI + Zaps idea with Danny from Deezy",
+    "link": "www.youtube.com/watch?v=Y4z9JpwKYbw",
+    "metadata": "30 sats \\ 0 comments \\ @TheWildHustle 1 May nostr"
+  },
+  {
+    "id": 48,
+    "title": "nostr-control: A CLN Plugin you can interact with over Nostr DM",
+    "link": "github.com/joelklabo/nostr-control",
+    "metadata": "0 sats \\ 0 comments \\ @joelklabo 1 May nostr"
+  },
+  {
+    "id": 49,
+    "title": "OstrichGram: Free, Open-Source Chat Software for Nostr",
+    "link": "ostrichgram.com/",
+    "metadata": "253 sats \\ 0 comments \\ @Rsync25 1 May nostr"
+  },
+  {
+    "id": 50,
+    "title": "nostr-relaypool. Check it out!",
+    "link": "www.npmjs.com/package/nostr-relaypool",
+    "metadata": "20 sats \\ 0 comments \\ @BitcoinIsTheFuture 1 May nostr"
+  },
+  {
+    "id": 51,
+    "title": "Nostr Filter: Nostr relay server that filters messages",
+    "link": "github.com/imksoo/nostr-filter",
+    "metadata": "0 sats \\ 2 comments \\ @Rsync25 1 May nostr"
+  },
+  {
+    "id": 52,
+    "title": "Here’s how to fetch on Nostr",
+    "link": "www.npmjs.com/package/nostr-fetch",
+    "metadata": "20 sats \\ 0 comments \\ @BitcoinIsTheFuture 1 May nostr"
+  },
+  {
+    "id": 53,
+    "title": "Nostr: All Your (Advertising) Models are Broken",
+    "link": "www.btctimes.com/news/nostr-all-your-advertising-models-are-broken",
+    "metadata": "51 sats \\ 0 comments \\ @zatzby 1 May nostr"
+  },
+  {
+    "id": 54,
+    "title": "Munstr: MuSig + Nostr",
+    "link": "www.nobsbitcoin.com/munstr-musig-nostr/",
+    "metadata": "2919 sats \\ 3 comments \\ @lpop4254 1 May nostr"
+  },
+  {
+    "id": 55,
+    "title": "nostr-web3js - use away!",
+    "link": "www.npmjs.com/package/nostr-web3js",
+    "metadata": "20 sats \\ 0 comments \\ @BitcoinIsTheFuture 1 May nostr"
+  },
+  {
+    "id": 56,
+    "title": "Is Nostr going to be the next best thing?",
+    "link": "0 sats \\ 2 comments \\ @bossrosschild 1 May nostr",
+    "metadata": "57"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/swap-service-submarine-swaps-over-nostr/",
+    "link": "20 sats \\ 3 comments \\ @kepford 1 May nostr",
+    "metadata": "58"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=vw5SZyYBuPk",
+    "link": "21 sats \\ 0 comments \\ @TheWildHustle 30 Apr nostr",
+    "metadata": "59"
+  },
+  {
+    "id": null,
+    "title": "snort.social/p/npub1ukxrw8r5gv5ezymvunxy70prcq7u7wedejymazxksz2x5277fwnqr7ef4m",
+    "link": "0 sats \\ 0 comments \\ @coisasleveszona 30 Apr nostr",
+    "metadata": "60"
+  },
+  {
+    "id": null,
+    "title": "80 sats \\ 5 comments \\ @designsats 30 Apr nostr",
+    "link": "61",
+    "metadata": "Nostr Is a Hydra"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @BitcoinIsTheFuture 30 Apr nostr",
+    "link": "62",
+    "metadata": "Nostr Development Kit with gossip-style behavior"
+  },
+  {
+    "id": null,
+    "title": "20 sats \\ 0 comments \\ @Rsync25 29 Apr nostr",
+    "link": "63",
+    "metadata": "Highlighter for Nostr - A way to highlight content on Nostr"
+  },
+  {
+    "id": 20,
+    "title": "64",
+    "link": "Nostr fixes podcast notifications",
+    "metadata": "0 sats \\ 0 comments \\ @02c533cbfe 28 Apr nostr"
+  },
+  {
+    "id": 65,
+    "title": "Nostr Highlighter built by PabloF7z",
+    "link": "www.youtube.com/watch?v=BoJetSxZZM0",
+    "metadata": "137 sats \\ 0 comments \\ @TheWildHustle 28 Apr nostr"
+  },
+  {
+    "id": 66,
+    "title": "Swap service: a nostr orderbook for submarine swaps and earning yield on bitcoin",
+    "link": "www.youtube.com/watch?v=mVWufwzQ_RI",
+    "metadata": "10.1k sats \\ 19 comments \\ @super_testnet 28 Apr nostr"
+  },
+  {
+    "id": 67,
+    "title": "NostrChat: Global Chat on Nostr",
+    "link": "www.nostrchat.io/",
+    "metadata": "20 sats \\ 0 comments \\ @Rsync25 28 Apr nostr"
+  },
+  {
+    "id": 68,
+    "title": "Munstr: MuSig + Nostr",
+    "link": "github.com/0xBEEFCAF3/munstr",
+    "metadata": "77 sats \\ 2 comments \\ @Rsync25 28 Apr nostr"
+  },
+  {
+    "id": 69,
+    "title": "nostr-tx-broadcast",
+    "link": "github.com/benthecarman/nostr-tx-broadcast",
+    "metadata": "0 sats \\ 0 comments \\ @AR0w 27 Apr nostr"
+  },
+  {
+    "id": 70,
+    "title": "Feed your cat with NOSTR notes 😂😂",
+    "link": "213 sats \\ 0 comments \\ @DarthCoin 27 Apr nostr",
+    "metadata": "71"
+  },
+  {
+    "id": null,
+    "title": "github.com/nostr-protocol/nips/pull/476",
+    "link": "3538 sats \\ 19 comments \\ @benthecarman 27 Apr nostr",
+    "metadata": "72"
+  },
+  {
+    "id": null,
+    "title": "primal.net/thread/note19xveqm7en4n6zph72qjd5g83e28whnhunmqf3u20gv6jpx2c7cnq3kk0pu",
+    "link": "0 sats \\ 0 comments \\ @AR0w 27 Apr nostr",
+    "metadata": "73"
+  },
+  {
+    "id": null,
+    "title": "melvincarvalho.com/nosdav/md.html",
+    "link": "20 sats \\ 1 comments \\ @edblock 27 Apr nostr",
+    "metadata": "74"
+  },
+  {
+    "id": null,
+    "title": "github.com/adamritter/nostr-relaypool-ts",
+    "link": "20 sats \\ 0 comments \\ @Rsync25 27 Apr nostr",
+    "metadata": "75"
+  },
+  {
+    "id": null,
+    "title": "github.com/monty888/monstr",
+    "link": "20 sats \\ 0 comments \\ @Rsync25 27 Apr nostr",
+    "metadata": "76"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/arcbtc/status/1635358422781808640",
+    "link": "61 sats \\ 0 comments \\ @AR0w 27 Apr nostr",
+    "metadata": "77"
+  },
+  {
+    "id": null,
+    "title": "blog.getalby.com/the-2-minute-alby-guide-to-nostr/",
+    "link": "5 sats \\ 0 comments \\ @squatopia 26 Apr nostr",
+    "metadata": "78"
+  },
+  {
+    "id": null,
+    "title": "bitcoin.review/podcast/episode-34/",
+    "link": "211 sats \\ 0 comments \\ @cypher_funk 26 Apr nostr",
+    "metadata": "79"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=HniAZ1v59is",
+    "link": "30 sats \\ 2 comments \\ @TheWildHustle 26 Apr nostr",
+    "metadata": "80"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/Dhzl7TopWoE",
+    "link": "882 sats \\ 5000 boost \\ 1 comments \\ @NostrRelays 26 Apr nostr",
+    "metadata": "81"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/coinstr-app/",
+    "link": "110 sats \\ 1 comments \\ @phygit 25 Apr nostr",
+    "metadata": "82"
+  },
+  {
+    "id": null,
+    "title": "3 sats \\ 0 comments \\ @astronaut 25 Apr nostr",
+    "link": "83",
+    "metadata": "Is Stacker news run over the btc blockchain or nostr or another thing ?"
+  },
+  {
+    "id": 20,
+    "title": "84",
+    "link": "Nostr.lc - 3x upgrade to our free Nostr relay after just 1 week in biz! PR Link",
+    "metadata": "www.prlog.org/12961503-btcpay-increases-its-nostr-messaging-relay-capacity-300-after-one-week-of-operations.html"
+  },
+  {
+    "id": 0,
+    "title": "85",
+    "link": "Start your NOSTR-Market with LNbits",
+    "metadata": "darthcoin.substack.com/p/lnbits-nostr-market"
+  },
+  {
+    "id": 44,
+    "title": "86",
+    "link": "Nostr (“Notes and Other Stuff Transmitted by Relays.”) – An Introduction",
+    "metadata": "wiki.wellorder.net/post/nostr-intro/"
+  },
+  {
+    "id": 0,
+    "title": "87",
+    "link": "Just live 1 week, demand off the charts! Upgraded 3x to our free Nostr relay.",
+    "metadata": "1840 sats \\ 0 comments \\ @NostrRelays 24 Apr nostr"
+  },
+  {
+    "id": 88,
+    "title": "A lightning paid nostr relay for bitcoin enthusiasts - btc-italia.online",
+    "link": "btc-italia.online/welcome/",
+    "metadata": "0 sats \\ 0 comments \\ @edblock 24 Apr nostr"
+  },
+  {
+    "id": 89,
+    "title": "A nostr directory for your client",
+    "link": "purplepag.es/what",
+    "metadata": "0 sats \\ 0 comments \\ @edblock 24 Apr nostr"
+  },
+  {
+    "id": 90,
+    "title": "Bitcoin Collaborative Custody using Nostr",
+    "link": "www.youtube.com/watch?v=FyyMz259AZY",
+    "metadata": "30 sats \\ 0 comments \\ @edblock 24 Apr nostr"
+  },
+  {
+    "id": 91,
+    "title": "Anyone know or have experience with with nostr (decentralized social media)",
+    "link": "60 sats \\ 4 comments \\ @AR0w 24 Apr nostr freebie",
+    "metadata": "92"
+  },
+  {
+    "id": null,
+    "title": "decrypt.co/137589/decentralized-twitter-alternatives-bluesky-and-nostr-are-growing-with-some-growing-pains",
+    "link": "51 sats \\ 0 comments \\ @KeynesianClowns 23 Apr nostr",
+    "metadata": "93"
+  },
+  {
+    "id": null,
+    "title": "nostref.punkhub.me",
+    "link": "660 sats \\ 0 comments \\ @gzuuus_ 23 Apr nostr",
+    "metadata": "94"
+  },
+  {
+    "id": null,
+    "title": "github.com/sepehr-safari/nostr-hooks",
+    "link": "129 sats \\ 3 comments \\ @Rsync25 23 Apr nostr",
+    "metadata": "95"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @Chep 22 Apr nostr",
+    "link": "96",
+    "metadata": "@NostrRelays's bio"
+  },
+  {
+    "id": 20,
+    "title": "97",
+    "link": "Announcement: Free Instant Verified Nostr Username Goes Live! (blue-checkmark)",
+    "metadata": "2190 sats \\ 0 comments \\ @NostrRelays 22 Apr nostr"
+  },
+  {
+    "id": 98,
+    "title": "superstore - A simple bitcoin webstore with Nostr integration hosted on GitHub",
+    "link": "github.com/supertestnet/superstore",
+    "metadata": "0 sats \\ 0 comments \\ @astronaut 22 Apr nostr"
+  },
+  {
+    "id": 99,
+    "title": "Nostr.lc Relays goes live, check out our free and premium relay service!",
+    "link": "5694 sats \\ 0 comments \\ @NostrRelays 21 Apr nostr",
+    "metadata": "100"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 3 comments \\ @criptopanas 21 Apr nostr",
+    "link": "101",
+    "metadata": "Jack Spirko of thesurvivalpodcast.com talks about the \"GrowNostr Initiative\""
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @02c0869267 21 Apr nostr",
+    "link": "102",
+    "metadata": "NOSTR TOOLKIT: Linking To Your Own Lightning Node With Voltage"
+  },
+  {
+    "id": null,
+    "title": "1208 sats \\ 1 comments \\ @BTCsessions 21 Apr nostr",
+    "link": "103",
+    "metadata": "Wallet from Shocknet: Connect to multiple Lightning Nodes via LNURL and NOSTR"
+  },
+  {
+    "id": null,
+    "title": "21 sats \\ 0 comments \\ @Rsync25 20 Apr nostr",
+    "link": "104",
+    "metadata": "nostr-java, the first nostr implementation in java"
+  },
+  {
+    "id": 621,
+    "title": "105",
+    "link": "[Request] Nostr Comments: a plugin for WordPress",
+    "metadata": "351 sats \\ 0 comments \\ @supratic 20 Apr nostr"
+  },
+  {
+    "id": 106,
+    "title": "Please advise useful services on Nostr",
+    "link": "3087 sats \\ 10 comments \\ @Monotone 20 Apr nostr",
+    "metadata": "107"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/storm-lightning-nostr-enabled-ocpp-bridge/",
+    "link": "20 sats \\ 0 comments \\ @kepford 20 Apr nostr",
+    "metadata": "108"
+  },
+  {
+    "id": null,
+    "title": "markets.financialcontent.com/stocks/article/prlog-2023-4-18-btcpay-systems-llc-announces-business-class-nostr-relay-messaging-services",
+    "link": "730 sats \\ 0 comments \\ @KeynesianClowns 20 Apr nostr",
+    "metadata": "109"
+  },
+  {
+    "id": null,
+    "title": "protos.com/explained-civ-kit-the-nostr-marketplace-created-by-bitcoin-devs/",
+    "link": "0 sats \\ 0 comments \\ @KeynesianClowns 20 Apr nostr",
+    "metadata": "110"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/technical/bitcoin-researchers-introduce-civ-kit-p2p-marketplace?utm_source=carrot&utm_medium=partner&utm_campaign=carrot_share",
+    "link": "20 sats \\ 0 comments \\ @BitcoinIsTheFuture 19 Apr nostr",
+    "metadata": "111"
+  },
+  {
+    "id": null,
+    "title": "www.wavman.app/",
+    "link": "194 sats \\ 0 comments \\ @BeardedSaintRef 19 Apr nostr",
+    "metadata": "112"
+  },
+  {
+    "id": null,
+    "title": "zine.wavlake.com/introducing-wavman/",
+    "link": "754 sats \\ 2 comments \\ @kr 19 Apr nostr",
+    "metadata": "113"
+  },
+  {
+    "id": null,
+    "title": "egodeath.capital/blog/nostrica-the-start-of-something-big",
+    "link": "101 sats \\ 0 comments \\ @kr 19 Apr nostr",
+    "metadata": "114"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/ananostr/",
+    "link": "135 sats \\ 0 comments \\ @kepford 19 Apr nostr",
+    "metadata": "115"
+  },
+  {
+    "id": null,
+    "title": "ananostr.com/",
+    "link": "3440 sats \\ 3 comments \\ @byzantine 19 Apr nostr",
+    "metadata": "116"
+  },
+  {
+    "id": null,
+    "title": "github.com/satimoto/strom",
+    "link": "86 sats \\ 0 comments \\ @Rsync25 19 Apr nostr",
+    "metadata": "117"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/n3xb-exchange/",
+    "link": "40 sats \\ 0 comments \\ @POTUS 19 Apr nostr",
+    "metadata": "118"
+  },
+  {
+    "id": null,
+    "title": "www.nobsbitcoin.com/n3xb-exchange/",
+    "link": "20 sats \\ 0 comments \\ @kepford 18 Apr nostr",
+    "metadata": "119"
+  },
+  {
+    "id": null,
+    "title": "github.com/nobu-maeda/n3xb",
+    "link": "41 sats \\ 0 comments \\ @And1 18 Apr nostr",
+    "metadata": "120"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/bQu5gB9YvTE",
+    "link": "55 sats \\ 0 comments \\ @davidw 18 Apr nostr",
+    "metadata": "121"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=GeeULEkOScY",
+    "link": "10 sats \\ 0 comments \\ @TheWildHustle 17 Apr nostr",
+    "metadata": "122"
+  },
+  {
+    "id": null,
+    "title": "nostrkid.com/",
+    "link": "0 sats \\ 0 comments \\ @BeardedSaintRef 17 Apr nostr",
+    "metadata": "123"
+  },
+  {
+    "id": null,
+    "title": "maxbit.cc/nostr-a-decentralized-censorship-resistant-twitter-alternative-thanks-elon-crypto-projects-to-watch-2023/",
+    "link": "0 sats \\ 0 comments \\ @max 17 Apr nostr",
+    "metadata": "124"
+  },
+  {
+    "id": null,
+    "title": "snort.social/e/note1j63n795ywr7xk24pkgcrstpty26j4kae8yz0svc78gmgdq5zyw4suy34qm",
+    "link": "20 sats \\ 0 comments \\ @astronaut 17 Apr nostr",
+    "metadata": "125"
+  },
+  {
+    "id": null,
+    "title": "protos.com/explained-civ-kit-the-nostr-marketplace-created-by-bitcoin-devs/",
+    "link": "0 sats \\ 0 comments \\ @rujgev 17 Apr nostr",
+    "metadata": "126"
+  },
+  {
+    "id": null,
+    "title": "1832 sats \\ 18 comments \\ @max 16 Apr nostr",
+    "link": "127",
+    "metadata": "A list of nostr relays"
+  },
+  {
+    "id": null,
+    "title": "20 sats \\ 0 comments \\ @halalmoney 15 Apr nostr",
+    "link": "128",
+    "metadata": "Nostr discussed on Joe Rogan Experience"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @TheWildHustle 15 Apr nostr",
+    "link": "129",
+    "metadata": "n3xB - naive Nostr no-KYC exchange for Bitcoin"
+  },
+  {
+    "id": null,
+    "title": "2240 sats \\ 6 comments \\ @Rsync25 15 Apr nostr",
+    "link": "130",
+    "metadata": "Build your Spending Policy from Nostr Contacts"
+  },
+  {
+    "id": null,
+    "title": "81 sats \\ 0 comments \\ @Rsync25 15 Apr nostr",
+    "link": "131",
+    "metadata": "Plebstr - Beautiful nostr client for android, ios"
+  },
+  {
+    "id": null,
+    "title": "3515 sats \\ 21 comments \\ @Monotone 15 Apr nostr",
+    "link": "132",
+    "metadata": "Purple Text, Orange Highlights - How nostr can benefit readers and writers"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @Roll 14 Apr nostr",
+    "link": "133",
+    "metadata": "Nostr Protocol Lets Users Earn Bitcoin For Content"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @BitcoinNewsCom 14 Apr nostr",
+    "link": "134",
+    "metadata": "Nostrnest con Verbiricha creador de habla.news in 10 mins"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @Lou 14 Apr nostr",
+    "link": "135",
+    "metadata": "Start your NOSTR Market with LNbits"
+  },
+  {
+    "id": 2970,
+    "title": "136",
+    "link": "Civ Kit: A Peer-to-Peer Electronic Market System on Nostr",
+    "metadata": "lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html"
+  },
+  {
+    "id": 7674,
+    "title": "137",
+    "link": "Nostr on Joe Rogan podcast!",
+    "metadata": "286 sats \\ 4 comments \\ @muteness11 13 Apr nostr"
+  },
+  {
+    "id": 138,
+    "title": "We Went Ahead and Raised the Bounty on Every Single Nostr Project.You're Welcome",
+    "link": "loveisbitcoin.com/we-went-ahead-and-raised-the-bounty-on-every-single-nostr-project-youre-welcome/",
+    "metadata": "119 sats \\ 0 comments \\ @LoveIsBitcoin 13 Apr nostr"
+  },
+  {
+    "id": 139,
+    "title": "Nostr support on Voltage with NIP05, Lightning Address, and Zaps - Voltage",
+    "link": "voltage.cloud/blog/news/non-custodial-nostr-zaps-nip05-ln-addresses/",
+    "metadata": "10.3k sats \\ 1 comments \\ @byzantine 13 Apr nostr"
+  },
+  {
+    "id": 140,
+    "title": "Hack-Nostr-On | Hackathon | DoraHacks",
+    "link": "dorahacks.io/hackathon/hack-nostr-on/",
+    "metadata": "70 sats \\ 0 comments \\ @edblock 13 Apr nostr"
+  },
+  {
+    "id": 141,
+    "title": "[Tutorial] Nostr Tools Flutter: Implementing Key Generation and Event Publishing",
+    "link": "20 sats \\ 0 comments \\ @anipy 13 Apr nostr",
+    "metadata": "142"
+  },
+  {
+    "id": null,
+    "title": "github.com/vishalxl/Nostr-Clients-Features-List",
+    "link": "171 sats \\ 0 comments \\ @KeynesianClowns 13 Apr nostr",
+    "metadata": "143"
+  },
+  {
+    "id": null,
+    "title": "110 sats \\ 7 comments \\ @LNRocks 13 Apr nostr",
+    "link": "144",
+    "metadata": "PLEBHY - Bitcoin & Nostr meme service (plebhy.com)"
+  },
+  {
+    "id": 2559,
+    "title": "145",
+    "link": "Nostrichat-extension a nostr live chat anywhere",
+    "metadata": "2678 sats \\ 7 comments \\ @gzuuus_ 12 Apr nostr"
+  },
+  {
+    "id": 146,
+    "title": "Nostr protocol let’s users earn bitcoin for content",
+    "link": "bitcoinnews.com/nostr-protocol-earn-bitcoin/",
+    "metadata": "35 sats \\ 1 comments \\ @BeardedSaintRef 12 Apr nostr"
+  },
+  {
+    "id": 147,
+    "title": "Announcing the GrowNostr Initiative – Epi-39 - The Bitcoin Breakout",
+    "link": "thebitcoinbreakout.com/announcing-the-grownostr-initiative-epi-39/",
+    "metadata": "120 sats \\ 0 comments \\ @beefbutterbaconeggsbitcoin 11 Apr nostr"
+  },
+  {
+    "id": 148,
+    "title": "Announcing the GrowNostr Initiative",
+    "link": "www.youtube.com/live/SonQ4cJHUrE?feature=share",
+    "metadata": "100 sats \\ 0 comments \\ @edblock 11 Apr nostr"
+  },
+  {
+    "id": 149,
+    "title": "Be ready for the new wave of Nostriches, Forbes is coming!",
+    "link": "www.forbes.com/sites/digital-assets/2023/04/11/how-to-get-started-with-nostr/?sh=2cc7eee0406b",
+    "metadata": "342 sats \\ 0 comments \\ @BeardedSaintRef 11 Apr nostr"
+  },
+  {
+    "id": 150,
+    "title": "Fedimint and Nostr with Eric Yakes and Don",
+    "link": "www.youtube.com/watch?v=KT_RzImyUqU",
+    "metadata": "210 sats \\ 0 comments \\ @TheWildHustle 11 Apr nostr"
+  },
+  {
+    "id": 151,
+    "title": "A quick guide on how to join nostr and start earning",
+    "link": "www.satoshipuzzles.com/nostr-on",
+    "metadata": "0 sats \\ 0 comments \\ @BeardedSaintRef 11 Apr nostr"
+  },
+  {
+    "id": 152,
+    "title": "Getting Zaps on Nostr to my own node",
+    "link": "twitter.com/gkrizek/status/1645497917120344064",
+    "metadata": "3490 sats \\ 10 comments \\ @gkrizek 10 Apr nostr"
+  },
+  {
+    "id": 153,
+    "title": "NOSTR for Kids!!",
+    "link": "www.boppow.com/coming-soon-01-2",
+    "metadata": "25 sats \\ 1 comments \\ @BeardedSaintRef 10 Apr nostr"
+  },
+  {
+    "id": 154,
+    "title": "Nostr: A Revolutionary Communication Protocol",
+    "link": "www.discreetlog.com/nostr/",
+    "metadata": "338 sats \\ 2 comments \\ @kr 10 Apr nostr"
+  },
+  {
+    "id": 155,
+    "title": "How To Put Your Lightning Address & Nostr NIP-05 Under Your Own Domain",
+    "link": "blog.xanny.family/post/lightning-address-nip05-nostr-identity-verification-custom-domain-cloudflare-easy-tutorial",
+    "metadata": "612 sats \\ 4 comments \\ @xanny 10 Apr nostr"
+  },
+  {
+    "id": 156,
+    "title": "Nostr for Arduino",
+    "link": "www.arduinolibraries.info/libraries/nostr",
+    "metadata": "0 sats \\ 0 comments \\ @astronaut 9 Apr nostr"
+  },
+  {
+    "id": 157,
+    "title": "Nostr in a nutshell, leave all other social media",
+    "link": "0 sats \\ 2 comments \\ @BeardedSaintRef 8 Apr nostr",
+    "metadata": "158"
+  },
+  {
+    "id": null,
+    "title": "205 sats \\ 0 comments \\ @anipy 8 Apr nostr",
+    "link": "159",
+    "metadata": "How to create a Nostr quotes bot (with barely any coding)"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @runningbitcoin 8 Apr nostr",
+    "link": "160",
+    "metadata": "Who Is Making Money on Nostr?"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @kr 8 Apr nostr",
+    "link": "161",
+    "metadata": "How To Create A Nostr Quotes Bot (With Barely Any Coding)"
+  },
+  {
+    "id": null,
+    "title": "40 sats \\ 0 comments \\ @xanny 8 Apr nostr",
+    "link": "162",
+    "metadata": "Jacks “Open Interview” On Nostr with Ben Schrekinger"
+  },
+  {
+    "id": 347,
+    "title": "163",
+    "link": "How Important is Censorship-Resistance on Nostr?",
+    "metadata": "www.youtube.com/watch?v=Co9g6nUL5tk"
+  },
+  {
+    "id": 0,
+    "title": "164",
+    "link": "Thoughts on relay browsing in Nostr",
+    "metadata": "blog.coracle.social/posts/2f375ecdcefa65f5d7d9ae5b74f3d276a6e2b2c9a4aafad50c48cc6be66407b2"
+  },
+  {
+    "id": 5142,
+    "title": "165",
+    "link": "Nostr relays bundle that brings zen",
+    "metadata": "habla.news/a/naddr1qqxnzd3cxqmrjvehxqenxv3nqyghwumn8ghj7mn0wd68ytnhd9hx2tcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpr9mhxue69uhkummnw3ezummhdeekxctvv5hx7un89uq3kamnwvaz7tmjv4kxz7fwdaexzmn8v4cxjmrv9ejx2a30qyt8wumn8ghj7mn0wd68ytndd9kx7afwd3hkctczypl4c26wfzswnlk2vwjxky7dhqjgnaqzqwvdvz3qwz5k3j4grrt46qcyqqq823cxums9a"
+  },
+  {
+    "id": 0,
+    "title": "166",
+    "link": "Nostr private messages",
+    "metadata": "0x46.net/thoughts/2023/03/27/nostr-private-messages/"
+  },
+  {
+    "id": 117,
+    "title": "167",
+    "link": "Published Nostr Tools Dart Package 🚀",
+    "metadata": "0 sats \\ 0 comments \\ @anipy 6 Apr nostr"
+  },
+  {
+    "id": 168,
+    "title": "WHY AREN’T YOU ON NOSTR YET?",
+    "link": "55 sats \\ 5 comments \\ @BeardedSaintRef 6 Apr nostr",
+    "metadata": "169"
+  },
+  {
+    "id": null,
+    "title": "25 sats \\ 4 comments \\ @halalmoney 5 Apr nostr",
+    "link": "170",
+    "metadata": "Fighting Spam & Abuse on Nostr"
+  },
+  {
+    "id": null,
+    "title": "130 sats \\ 1 comments \\ @kr 5 Apr nostr",
+    "link": "171",
+    "metadata": "Alby Buzz: Nostr Hackathon & Alby LNDhub"
+  },
+  {
+    "id": null,
+    "title": "20 sats \\ 0 comments \\ @astronaut 5 Apr nostr",
+    "link": "172",
+    "metadata": "Saifedean Ammous has finally joined Nostr"
+  },
+  {
+    "id": 60,
+    "title": "173",
+    "link": "NostrDevs #2 with Super Testnet & Captain Stacks",
+    "metadata": "youtu.be/i2eTulvnTKQ"
+  },
+  {
+    "id": 60,
+    "title": "174",
+    "link": "NostrDevs #2 with Super Testnet & Captain Stacks",
+    "metadata": "github.com/PlebLab/PlebLab_Workshops/issues/24"
+  },
+  {
+    "id": 240,
+    "title": "175",
+    "link": "Nostr p2p trading NIP",
+    "metadata": "github.com/nostr-protocol/nips/pull/405"
+  },
+  {
+    "id": 1,
+    "title": "176",
+    "link": "Gig: How nostr can benefit readers and writers",
+    "metadata": "dergigi.com/2023/04/04/purple-text-orange-highlights/"
+  },
+  {
+    "id": 1543,
+    "title": "177",
+    "link": "TLDR: Saylor buys bitcoin, Nostr over 82 BTC zapped, ATH in Lng Txns & More..",
+    "metadata": "wtfbitcoin.substack.com/p/wtfbitcoin-week-13-2023"
+  },
+  {
+    "id": 45,
+    "title": "178",
+    "link": "Why is NOSTR Important",
+    "metadata": "231 sats \\ 2 comments \\ @BeardedSaintRef 4 Apr nostr"
+  },
+  {
+    "id": 179,
+    "title": "Is there any nostr client having built in LN wallet?",
+    "link": "0 sats \\ 8 comments \\ @akhil 4 Apr nostr",
+    "metadata": "180"
+  },
+  {
+    "id": null,
+    "title": "blog.coracle.social/",
+    "link": "7910 sats \\ 2 comments \\ @dadbeef 3 Apr nostr",
+    "metadata": "181"
+  },
+  {
+    "id": null,
+    "title": "60 sats \\ 1 comments \\ @cstack 3 Apr nostr",
+    "link": "182",
+    "metadata": "Introducing Nostr Wallet Connect- Native Zapping in Amethyst"
+  },
+  {
+    "id": null,
+    "title": "10.6k sats \\ 10 comments \\ @Alby 3 Apr nostr",
+    "link": "183",
+    "metadata": "ONOSENDAI Cyberspace client for the one true metaverse: nostr"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @edblock 3 Apr nostr",
+    "link": "184",
+    "metadata": "NosDAV - A distributed cloud storage solution for Nostr based on WebDAV"
+  },
+  {
+    "id": null,
+    "title": "1220 sats \\ 0 comments \\ @nout 2 Apr nostr",
+    "link": "185",
+    "metadata": "Modify Tails and add your favorite BTC software & Nostr in less than 5 clicks"
+  },
+  {
+    "id": null,
+    "title": "30 sats \\ 0 comments \\ @libertad2cero 2 Apr nostr",
+    "link": "186",
+    "metadata": "Did You Just Take Both Pills? Nostr & Bitcoin - A Matrix Meme"
+  },
+  {
+    "id": null,
+    "title": "112 sats \\ 1 comments \\ @edblock 2 Apr nostr",
+    "link": "187",
+    "metadata": "How To Use Fiat-Denominated Nostr Zaps"
+  },
+  {
+    "id": null,
+    "title": "140 sats \\ 0 comments \\ @TheBTCManual 2 Apr nostr",
+    "link": "188",
+    "metadata": "Welcome to Nostrich.Land | High performance Nostr paid relay"
+  },
+  {
+    "id": null,
+    "title": "30 sats \\ 0 comments \\ @swmtr 1 Apr nostr",
+    "link": "189",
+    "metadata": "How To Migrate Your Blog To Nostr"
+  },
+  {
+    "id": null,
+    "title": "45 sats \\ 0 comments \\ @TheBTCManual 1 Apr nostr",
+    "link": "190",
+    "metadata": "NOSTR Relay written in Elixir!"
+  },
+  {
+    "id": 10,
+    "title": "191",
+    "link": "Nostr is the Social Layer of Bitcoin",
+    "metadata": "blog.xanny.family/post/nostr-bitcoin-social-layer"
+  },
+  {
+    "id": 30,
+    "title": "192",
+    "link": "Nostrica Recap with PabloF7z, GSovereignty, Max Webster and DK",
+    "metadata": "www.youtube.com/watch?v=0At8zPYSwQI"
+  },
+  {
+    "id": 0,
+    "title": "193",
+    "link": "Pablo F7Z on Building Nostr Projects, Why Open Networks Win, and Nostr Economics",
+    "metadata": "youtu.be/uhKRBo-U4Bk"
+  },
+  {
+    "id": 211,
+    "title": "194",
+    "link": "Embracing Nostr: My Journey from Skeptic to Advocate",
+    "metadata": "tonygiorgio.com/nostr/"
+  },
+  {
+    "id": 3115,
+    "title": "195",
+    "link": "Learning Bitcoin and Design: Nostr primer",
+    "metadata": "www.youtube.com/watch?v=EQCGFnhEdl4"
+  },
+  {
+    "id": 25,
+    "title": "196",
+    "link": "Outer Spaces for Curious Beings - Nostr client (and relay) coming soon™️",
+    "metadata": "outer.space"
+  },
+  {
+    "id": 3794,
+    "title": "197",
+    "link": "Idea: bot that forwards all tweets to Nostr",
+    "metadata": "0 sats \\ 7 comments \\ @nikicat 29 Mar nostr"
+  },
+  {
+    "id": 198,
+    "title": "Nostr Apps: Collection of Tools, Apps, client",
+    "link": "www.nostrapps.com/",
+    "metadata": "691 sats \\ 6 comments \\ @Rsync25 29 Mar nostr"
+  },
+  {
+    "id": 199,
+    "title": "THE NOSTR PRIVACY PARADOX",
+    "link": "bitcoinmagazine.com/technical/how-nostr-can-improve-bitcoin-privacy?utm_source=carrot&utm_medium=partner&utm_campaign=carrot_share",
+    "metadata": "25 sats \\ 0 comments \\ @BitcoinIsTheFuture 28 Mar nostr"
+  },
+  {
+    "id": 200,
+    "title": "Nostrovia (pod) story",
+    "link": "www.youtube.com/watch?v=V8wEv4aKwkI",
+    "metadata": "25 sats \\ 0 comments \\ @muteness11 28 Mar nostr"
+  },
+  {
+    "id": 201,
+    "title": "Seen this? Lightning.Pub Nostr accounts system for LN",
+    "link": "lightning.video/f0f64fa1fc3744fb6a3880e2bd8f6a254ceb3caee112d9708271f2d6a09a2f00",
+    "metadata": "336 sats \\ 1 comments \\ @02ad8239c2 28 Mar nostr"
+  },
+  {
+    "id": 202,
+    "title": "Why OSS matters to Free Speech, and how NOSTR....",
+    "link": "www.fountain.fm/episode/14385548051",
+    "metadata": "45 sats \\ 0 comments \\ @ChadHardbody 28 Mar nostr"
+  },
+  {
+    "id": 203,
+    "title": "Nostr, Inscriptions, And The Law w/ Aaron Daniel",
+    "link": "podcasts.apple.com/us/podcast/bitcoin-magazine-podcast/id1459884105?i=1000603637469",
+    "metadata": "0 sats \\ 0 comments \\ @BitcoinIsTheFuture 27 Mar nostr"
+  },
+  {
+    "id": 204,
+    "title": "nickmonad | Building a nostr client",
+    "link": "nickmonad.blog/2023/building-nostr-client-index-0/",
+    "metadata": "5 sats \\ 0 comments \\ @runningbitcoin 26 Mar nostr"
+  },
+  {
+    "id": 205,
+    "title": "R0ckstarDev reflects on organising Nostrica and other stuff",
+    "link": "youtu.be/HxUH-GNCmvs",
+    "metadata": "0 sats \\ 5 comments \\ @edblock 26 Mar nostr"
+  },
+  {
+    "id": 206,
+    "title": "DIDs<>Nostr",
+    "link": "github.com/TBD54566975/did-nostr",
+    "metadata": "591 sats \\ 1 comments \\ @Rsync25 26 Mar nostr"
+  },
+  {
+    "id": 207,
+    "title": "Music Video: Nostr & Bitcoin will free us all",
+    "link": "youtu.be/Kl3JddRBXZs",
+    "metadata": "233 sats \\ 1 comments \\ @tip_nz 24 Mar nostr"
+  },
+  {
+    "id": 208,
+    "title": "POW vs Micropayments on Nostr",
+    "link": "blog.coracle.social/pow-and-micropayments.html",
+    "metadata": "41 sats \\ 0 comments \\ @dadbeef 24 Mar nostr"
+  },
+  {
+    "id": 209,
+    "title": "🛍️ GoodStr @ 🟪Nostrica + 🏝️Hackatons Pitch",
+    "link": "makers.bolt.fun/story/goodstr-nostrica-hackatons-pitch--714",
+    "metadata": "6028 sats \\ 3 comments \\ @mo 24 Mar nostr"
+  },
+  {
+    "id": 210,
+    "title": "NotaBot - Reputation System for Nostr",
+    "link": "notabot.net/",
+    "metadata": "20 sats \\ 2 comments \\ @astronaut 24 Mar nostr"
+  },
+  {
+    "id": 211,
+    "title": "What Is A Nostr Signing Device?",
+    "link": "thebitcoinmanual.com/articles/what-is-a-nostr-signing-device/",
+    "metadata": "30 sats \\ 0 comments \\ @TheBTCManual 24 Mar nostr"
+  },
+  {
+    "id": 212,
+    "title": "Nostrica March 21 2023 Open Source",
+    "link": "www.youtube.com/watch?v=9GB7nGIhyCA",
+    "metadata": "21 sats \\ 0 comments \\ @TheWildHustle 23 Mar nostr"
+  },
+  {
+    "id": 213,
+    "title": "Nostrica Conference 2023 - We ask attendees!",
+    "link": "www.youtube.com/watch?v=IIpVcgM5_Y4",
+    "metadata": "0 sats \\ 0 comments \\ @TheWildHustle 23 Mar nostr"
+  },
+  {
+    "id": 214,
+    "title": "Launch coming Monday: Akawin nostr client",
+    "link": "www.akawin.io/about/",
+    "metadata": "20 sats \\ 1 comments \\ @moel 23 Mar nostr"
+  },
+  {
+    "id": 215,
+    "title": "Awesome Nostr: A Curated List Of Nostr Projects And Resources",
+    "link": "github.com/aljazceru/awesome-nostr",
+    "metadata": "417 sats \\ 1 comments \\ @zeus 23 Mar nostr"
+  },
+  {
+    "id": 216,
+    "title": "What Are Blinded Nostr Assets?",
+    "link": "thebitcoinmanual.com/articles/blinded-nostr-assets/",
+    "metadata": "61 sats \\ 0 comments \\ @TheBTCManual 23 Mar nostr"
+  },
+  {
+    "id": 217,
+    "title": "Which is the most stable #nostr web client?",
+    "link": "37 sats \\ 9 comments \\ @cyberleolao 23 Mar nostr",
+    "metadata": "218"
+  },
+  {
+    "id": null,
+    "title": "sebastix.nl/blog/ligess-your-personal-lightning-address-with-nostr-zaps-support/",
+    "link": "40 sats \\ 0 comments \\ @sebastix 22 Mar nostr",
+    "metadata": "219"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/delegated-event-signings-nostr/",
+    "link": "1 sats \\ 0 comments \\ @TheBTCManual 22 Mar nostr",
+    "metadata": "220"
+  },
+  {
+    "id": null,
+    "title": "fxtwitter.com/BitcoinNewsCom/status/1638196123184648194",
+    "link": "0 sats \\ 0 comments \\ @BitcoinNewsCom 21 Mar nostr",
+    "metadata": "221"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @quemadera 21 Mar nostr",
+    "link": "222",
+    "metadata": "Pivoting Protocols, from SSB to Nostr - Rabble"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @nout 21 Mar nostr",
+    "link": "223",
+    "metadata": "John Vallis : The Banking Crisis, $1M Bitcoin Bet, Nostr, The Future of Politics"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 0 comments \\ @Wumbo 21 Mar nostr",
+    "link": "224",
+    "metadata": "Hello people, how many of you have your eyes on Nostr?"
+  },
+  {
+    "id": 89,
+    "title": "225",
+    "link": "New Nostr iOS Client – Nos: The Human Network",
+    "metadata": "www.nos.social/"
+  },
+  {
+    "id": 65,
+    "title": "226",
+    "link": "Nuzzle, but for Nostr?",
+    "metadata": "snort.social/e/note1rsxyl4txjqxy4jacg5cy6adn7nadvf6k3cu8et9ach0rdqdkj8js8dxs3y"
+  },
+  {
+    "id": 0,
+    "title": "227",
+    "link": "Nostr relay query tool",
+    "metadata": "lightningk0ala.github.io/nostr-wtf/query"
+  },
+  {
+    "id": 131,
+    "title": "228",
+    "link": "Nostrica 2023 Livestreams",
+    "metadata": "www.youtube.com/@nostrica2023/streams"
+  },
+  {
+    "id": 1136,
+    "title": "229",
+    "link": "Why some NIP-05 verification on nostr are free while others are paid?",
+    "metadata": "0 sats \\ 0 comments \\ @blood 19 Mar nostr"
+  },
+  {
+    "id": 230,
+    "title": "Nostrica",
+    "link": "nostrica.com/discover/index.html",
+    "metadata": "0 sats \\ 2 comments \\ @edblock 19 Mar nostr"
+  },
+  {
+    "id": 231,
+    "title": "Nostrica Discussion Thread",
+    "link": "195 sats \\ 97 comments \\ @sn 19 Mar nostr",
+    "metadata": "232"
+  },
+  {
+    "id": null,
+    "title": "fountain.fm/episode/14225190893",
+    "link": "0 sats \\ 0 comments \\ @theswissroadtocrypto 19 Mar nostr",
+    "metadata": "233"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/live/y4H8jlpTVkg?feature=share",
+    "link": "1 sats \\ 0 comments \\ @Bestforyourlife 19 Mar nostr",
+    "metadata": "234"
+  },
+  {
+    "id": null,
+    "title": "162 sats \\ 7 comments \\ @mo 18 Mar nostr",
+    "link": "235",
+    "metadata": "Nostr, BNS, & the Decentralized Future with Larry Salibra - Built on Bitcoin pod"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @JakeBlockchain 18 Mar nostr",
+    "link": "236",
+    "metadata": "Twitter is now blocking all searches for \"Nostr\""
+  },
+  {
+    "id": 25,
+    "title": "237",
+    "link": "Would you use NOSTR without any connection to Bitcoin / LN ? ",
+    "metadata": "118 sats \\ 14 comments \\ @DarthCoin 18 Mar nostr"
+  },
+  {
+    "id": 238,
+    "title": "A Vision for Nostr - Coracle",
+    "link": "blog.coracle.social/a-vision-for-nostr.html",
+    "metadata": "2380 sats \\ 4 comments \\ @nout 17 Mar nostr"
+  },
+  {
+    "id": 239,
+    "title": "NostrLand - Nostr Goodies",
+    "link": "www.nostrland.com/",
+    "metadata": "0 sats \\ 0 comments \\ @Karnage 17 Mar nostr"
+  },
+  {
+    "id": 240,
+    "title": "Satellite - New Nostr web client",
+    "link": "satellite.earth",
+    "metadata": "12.4k sats \\ 14 comments \\ @nout 17 Mar nostr"
+  },
+  {
+    "id": 241,
+    "title": "Astro - Nostr Marketplace Design (work in progress)",
+    "link": "www.figma.com/file/JuV9uaAUpG4DVLjwRh98MP/Astro?node-id=0%3A1&t=Y0JAGAEuvhSdwYAl-1",
+    "metadata": "1644 sats \\ 18 comments \\ @Karnage 17 Mar nostr"
+  },
+  {
+    "id": 242,
+    "title": "#Nostr, drop your pubkey ⚡",
+    "link": "0 sats \\ 1 comments \\ @ugochukwubreakthrough1 17 Mar nostr",
+    "metadata": "243"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @tomlaies 16 Mar nostr",
+    "link": "244",
+    "metadata": "NostrDevs with Super Testnet & Captain Stacks · PlebLab/PlebLab_Workshops"
+  },
+  {
+    "id": null,
+    "title": "1050 sats \\ 0 comments \\ @PlebLab 16 Mar nostr",
+    "link": "245",
+    "metadata": "Devstr.org launches Nostr Jobs service 'built' in Nostr."
+  },
+  {
+    "id": 201,
+    "title": "246",
+    "link": "Iris (nostr client) on Start9 now",
+    "metadata": "iris.to/note1yt4sd90yvvuq4qldkt230yn552rvj2gtpmyxekfj5n0upcq6s4gqawn2ru"
+  },
+  {
+    "id": 10,
+    "title": "247",
+    "link": "Login with Nostr on SN?",
+    "metadata": "455 sats \\ 6 comments \\ @rltq20 16 Mar nostr freebie"
+  },
+  {
+    "id": 248,
+    "title": "German speaking users: The only Nostr account you should follow",
+    "link": "nostr.band/npub1mturmynk3dwsqpfh87p7xr2zq0qtw37pwpzfuqh75cg6pksjtmnqqxv6kw",
+    "metadata": "0 sats \\ 1 comments \\ @astronaut 16 Mar nostr"
+  },
+  {
+    "id": 249,
+    "title": "If there was a nostr emacs client, would you use it? ",
+    "link": "20 sats \\ 0 comments \\ @jopsel 16 Mar nostr",
+    "metadata": "250"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=aZsOUzUq3Qk",
+    "link": "31 sats \\ 0 comments \\ @boltfun_btc 16 Mar nostr",
+    "metadata": "251"
+  },
+  {
+    "id": null,
+    "title": "7421 sats \\ 10 comments \\ @nostal9000 16 Mar nostr freebie",
+    "link": "252",
+    "metadata": "How Big Is Nostr's Addressable Market?"
+  },
+  {
+    "id": null,
+    "title": "41 sats \\ 1 comments \\ @kr 16 Mar nostr",
+    "link": "253",
+    "metadata": "Nostr DIY Signing Device Launched by LNBits"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 0 comments \\ @0xV1nc3nt 16 Mar nostr",
+    "link": "254",
+    "metadata": "New Nostr Podcast: La Cosa Nostr. Second episode just dropped!"
+  },
+  {
+    "id": null,
+    "title": "15 sats \\ 0 comments \\ @Modus 15 Mar nostr",
+    "link": "255",
+    "metadata": "Kollider Unveils Subscription-Based Paid Nostr Relay"
+  },
+  {
+    "id": null,
+    "title": "154 sats \\ 3 comments \\ @kr 15 Mar nostr",
+    "link": "256",
+    "metadata": "Ghostr: Mirror Your Ghost Site to Nostr Using Nip-23"
+  },
+  {
+    "id": null,
+    "title": "51 sats \\ 1 comments \\ @djseeds 15 Mar nostr",
+    "link": "257",
+    "metadata": "Announcing 3 new Nostr extensions in LNBits!"
+  },
+  {
+    "id": null,
+    "title": "210 sats \\ 2 comments \\ @astronaut 15 Mar nostr",
+    "link": "258",
+    "metadata": "The Kevin Rooke Show - E100: Oscar Merry on Fountain's Evolution, Nostr, Value 4"
+  },
+  {
+    "id": null,
+    "title": "226 sats \\ 2 comments \\ @TNStacker 15 Mar nostr",
+    "link": "259",
+    "metadata": "Nostr Quickstart using React.js"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @edblock 15 Mar nostr",
+    "link": "260",
+    "metadata": "Welcome to Nostryfied"
+  },
+  {
+    "id": 20,
+    "title": "261",
+    "link": "Unveiling 3 new extensions in LNBits #NostrHack livestream on Wednesday @ 12 UTC",
+    "metadata": "twitter.com/boltfun_btc/status/1635809262545907714"
+  },
+  {
+    "id": 420,
+    "title": "262",
+    "link": "What Nostr is Bad At",
+    "metadata": "blog.coracle.social/what-nostr-is-bad-at.html"
+  },
+  {
+    "id": 51,
+    "title": "263",
+    "link": "Nostrium",
+    "metadata": "read.nostr.com/"
+  },
+  {
+    "id": 22,
+    "title": "264",
+    "link": "Devstr Launches A Dev Community for Nostr in Nostr",
+    "metadata": "181 sats \\ 5000 boost \\ 1 comments \\ @cstack 14 Mar nostr"
+  },
+  {
+    "id": 265,
+    "title": "Nostr film documentary continues moving forward",
+    "link": "300 sats \\ 2 comments \\ @nostrfilm 14 Mar nostr",
+    "metadata": "266"
+  },
+  {
+    "id": null,
+    "title": "Nostr.capital",
+    "link": "743 sats \\ 5000 boost \\ 2 comments \\ @maciek 14 Mar nostr",
+    "metadata": "267"
+  },
+  {
+    "id": null,
+    "title": "techcrunch.com/2023/03/13/wordpress-com-owner-automattic-acquires-an-activitypub-plugin-so-blogs-can-join-the-fediverse/",
+    "link": "131 sats \\ 0 comments \\ @sebastix 14 Mar nostr",
+    "metadata": "268"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/business/bitcoin-focused-social-media-app-zion-may-use-nostr?utm_source=carrot&utm_medium=partner&utm_campaign=carrot_share",
+    "link": "201 sats \\ 4 comments \\ @BitcoinIsTheFuture 14 Mar nostr",
+    "metadata": "269"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/business/bitcoin-focused-social-media-app-zion-may-use-nostr?utm_source=carrot&utm_medium=partner&utm_campaign=carrot_share",
+    "link": "210 sats \\ 0 comments \\ @nivek 14 Mar nostr",
+    "metadata": "270"
+  },
+  {
+    "id": null,
+    "title": "primal.net/",
+    "link": "403 sats \\ 6 comments \\ @And1 13 Mar nostr",
+    "metadata": "271"
+  },
+  {
+    "id": null,
+    "title": "habla.news/a/naddr1qqd5c6t8dp6xu6twvukkvctnwss92jfqvehhygzwdaehguszyrtp7w79k045gq80mtnpdxjuzl9t7vjxk52rv80f888y5xsd5mh55qcyqqq823cf39s98",
+    "link": "20 sats \\ 0 comments \\ @And1 13 Mar nostr",
+    "metadata": "272"
+  },
+  {
+    "id": null,
+    "title": "github.com/lnbits/nostr-signing-device",
+    "link": "301 sats \\ 1 comments \\ @kr 13 Mar nostr",
+    "metadata": "273"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=SD6OQPoNlzA",
+    "link": "5749 sats \\ 7 comments \\ @DarthCoin 13 Mar nostr",
+    "metadata": "274"
+  },
+  {
+    "id": null,
+    "title": "www.stacksats.how/podcasts/e100-oscar-merry-on-fountains-evolution-nostr-value-4-value-and-creator-monetization",
+    "link": "40 sats \\ 0 comments \\ @kr 13 Mar nostr",
+    "metadata": "275"
+  },
+  {
+    "id": null,
+    "title": "40 sats \\ 0 comments \\ @halalmoney 13 Mar nostr",
+    "link": "276",
+    "metadata": "Fountain's Evolution, Nostr, Value 4 Value, and Creator Monetization"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @edblock 13 Mar nostr",
+    "link": "277",
+    "metadata": "What Is A Nostr URL Handler?"
+  },
+  {
+    "id": null,
+    "title": "210 sats \\ 0 comments \\ @TheBTCManual 13 Mar nostr",
+    "link": "278",
+    "metadata": "Nostr Badges"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @fluidtrack 13 Mar nostr",
+    "link": "279",
+    "metadata": "Helpful Nostr Bots for Bitcoiners"
+  },
+  {
+    "id": 1,
+    "title": "280",
+    "link": "Dylan LeClair: Bitcoin, Nostr, Ordinals, Regulation, & The Fed",
+    "metadata": "youtu.be/bSyETtbViOk"
+  },
+  {
+    "id": 0,
+    "title": "281",
+    "link": "Lightning and Nostr weekly round up : Kollider's Twitter Thread",
+    "metadata": "twitter.com/kollider_trade/status/1634274787299139585"
+  },
+  {
+    "id": 90,
+    "title": "282",
+    "link": "Discovering Bitcoin - Have you heard about Nostr ? - Listen on Fountain",
+    "metadata": "fountain.fm/episode/13922384373"
+  },
+  {
+    "id": 0,
+    "title": "283",
+    "link": "Nostrañol - Viernes Hispano #Ñostr Primer en vivo hispanohablante 2:00PM CT",
+    "metadata": "nostrnests.com/louroom"
+  },
+  {
+    "id": 0,
+    "title": "284",
+    "link": "Nostr Needs Devs",
+    "metadata": "30 sats \\ 0 comments \\ @cstack 10 Mar nostr"
+  },
+  {
+    "id": 285,
+    "title": "Nostr Needs Devs",
+    "link": "0 sats \\ 0 comments \\ @cstack 10 Mar nostr",
+    "metadata": "286"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @simple 10 Mar nostr",
+    "link": "287",
+    "metadata": "WTF is Nostr and is it Unstoppable?"
+  },
+  {
+    "id": null,
+    "title": "55 sats \\ 0 comments \\ @edblock 10 Mar nostr",
+    "link": "288",
+    "metadata": "Is nostr the future of social media? What are everyone's thoughts?"
+  },
+  {
+    "id": 1081,
+    "title": "289",
+    "link": "WTF is Nostr - Epi-3265 with David Bennett from The Bitcoin And . . . Podcast",
+    "metadata": "www.thesurvivalpodcast.com/wtf-is-nostr"
+  },
+  {
+    "id": 200,
+    "title": "290",
+    "link": "What Is Nostr & How Does It Work? | E54",
+    "metadata": "youtu.be/QXd0vLTw6NA"
+  },
+  {
+    "id": 0,
+    "title": "291",
+    "link": "How To Use NOSTR - A Decentralized Censorship Resistant Social Layer",
+    "metadata": "youtu.be/qn-Zp491t4Y"
+  },
+  {
+    "id": 0,
+    "title": "292",
+    "link": "Nostr Explained Visually for Beginners",
+    "metadata": "youtu.be/yIccRIEr2gQ"
+  },
+  {
+    "id": 0,
+    "title": "293",
+    "link": "BTC111: Nostr Decentralized Social Media & Bitcoin w/ William Casarin",
+    "metadata": "youtu.be/8GhEezzto4Y"
+  },
+  {
+    "id": 0,
+    "title": "294",
+    "link": "Privacy on Nostr, a guide",
+    "metadata": "foundationdevices.com/2023/03/privacy-on-nostr/"
+  },
+  {
+    "id": 6292,
+    "title": "295",
+    "link": "Des Dickerson on THNDR Games, Competitive Leagues, & Cross-App Identiy on Nostr",
+    "metadata": "youtu.be/NVXAOOhWi-4"
+  },
+  {
+    "id": 20,
+    "title": "296",
+    "link": "WTF is Nostr and is it Unstoppable? – Epi-3264",
+    "metadata": "www.youtube.com/watch?v=JcwpoYYpTzg"
+  },
+  {
+    "id": 20,
+    "title": "297",
+    "link": "New THNDR Game + Nostr Goodies",
+    "metadata": "5840 sats \\ 5000 boost \\ 36 comments \\ @THNDRGAMES 9 Mar nostr"
+  },
+  {
+    "id": 298,
+    "title": "The Lightning Network' Does Not Exist - Nostr - Iris",
+    "link": "iris.to/note1egyhwwdxlcsn8wwma6xjdf075qwscd82hn4vetksmclh6z68hv7sscwu3q",
+    "metadata": "10 sats \\ 0 comments \\ @039e7a238d 9 Mar nostr"
+  },
+  {
+    "id": 299,
+    "title": "The Nostrverse EP2: Exploring the Nostrica System | #nomanssky",
+    "link": "youtu.be/YWlnNd0ZeQ0",
+    "metadata": "20 sats \\ 0 comments \\ @chickenmarinade 9 Mar nostr"
+  },
+  {
+    "id": 300,
+    "title": "Exploring the 🌌 in search for the #Nostrverse - EP01: The Arrival | #nomanssky",
+    "link": "youtu.be/PcUELyzS4HY",
+    "metadata": "20 sats \\ 0 comments \\ @chickenmarinade 9 Mar nostr"
+  },
+  {
+    "id": 301,
+    "title": "Nostrica Hackathon",
+    "link": "www.nos.social/nostropical-hackathon",
+    "metadata": "30 sats \\ 0 comments \\ @edblock 9 Mar nostr"
+  },
+  {
+    "id": 302,
+    "title": "Dilbert on nostr.",
+    "link": "30 sats \\ 1 comments \\ @taxd 9 Mar nostr",
+    "metadata": "303"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/nostr-badges/",
+    "link": "11 sats \\ 0 comments \\ @TheBTCManual 9 Mar nostr",
+    "metadata": "304"
+  },
+  {
+    "id": null,
+    "title": "61 sats \\ 0 comments \\ @number133 9 Mar nostr",
+    "link": "305",
+    "metadata": "New Nostr Clients"
+  },
+  {
+    "id": 40,
+    "title": "306",
+    "link": "Nostr-Based Video Hosting",
+    "metadata": "0 sats \\ 0 comments \\ @thatguymitchy 8 Mar nostr"
+  },
+  {
+    "id": 307,
+    "title": "Nostr Market based on Diagon Alley protocol",
+    "link": "github.com/lnbits/nostrmarket",
+    "metadata": "411 sats \\ 0 comments \\ @HiP0 8 Mar nostr"
+  },
+  {
+    "id": 308,
+    "title": "NostrDevs happening at PlebLab",
+    "link": "www.meetup.com/pleb-lab/events/292034122/",
+    "metadata": "201 sats \\ 1 comments \\ @PlebLab 8 Mar nostr"
+  },
+  {
+    "id": 309,
+    "title": "Zap Me, Mama - Nostr Song",
+    "link": "www.youtube.com/watch?v=5Uba9nQTxKM",
+    "metadata": "150 sats \\ 0 comments \\ @PlebLab 8 Mar nostr"
+  },
+  {
+    "id": 310,
+    "title": "Are There Risks Associated With Using Nostr For Your Identity",
+    "link": "plebunderground.substack.com/p/are-there-risks-associated-with-using",
+    "metadata": "45 sats \\ 1 comments \\ @runningbitcoin 8 Mar nostr"
+  },
+  {
+    "id": 311,
+    "title": "Identity verification, a trouble in Nostr paradise",
+    "link": "922 sats \\ 11 comments \\ @phygit 8 Mar nostr",
+    "metadata": "312"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/kerooke/status/1633148854689226752",
+    "link": "133 sats \\ 1 comments \\ @BitcoinIsTheFuture 8 Mar nostr",
+    "metadata": "313"
+  },
+  {
+    "id": null,
+    "title": "20 sats \\ 1 comments \\ @brudigga 7 Mar nostr",
+    "link": "314",
+    "metadata": "Nostr + Lightning Search on Kollider Wallet"
+  },
+  {
+    "id": null,
+    "title": "686 sats \\ 1 comments \\ @And1 7 Mar nostr",
+    "link": "315",
+    "metadata": "What bitcoin is for payments is what nostr+ligthning network is for social media"
+  },
+  {
+    "id": 0,
+    "title": "316",
+    "link": "Is Nostr Montessori for adults?",
+    "metadata": "3 sats \\ 0 comments \\ @halalmoney 7 Mar nostr"
+  },
+  {
+    "id": 317,
+    "title": "Nostr Dev Kit Documentation",
+    "link": "ndkit.com/hello-nostr/",
+    "metadata": "70 sats \\ 1 comments \\ @edblock 7 Mar nostr"
+  },
+  {
+    "id": 318,
+    "title": "Should Sphinx pivot to chat-over-nostr (be a DM client, basically) ?",
+    "link": "sphinx.chat/",
+    "metadata": "248 sats \\ 9 comments \\ @moel 6 Mar nostr"
+  },
+  {
+    "id": 319,
+    "title": "Nostr badges?",
+    "link": "10 sats \\ 1 comments \\ @blockguard 6 Mar nostr",
+    "metadata": "320"
+  },
+  {
+    "id": null,
+    "title": "523 sats \\ 3 comments \\ @Gridlock_permit_takeover 6 Mar nostr freebie",
+    "link": "321",
+    "metadata": "Which Nostr client do you use on Android?"
+  },
+  {
+    "id": 77,
+    "title": "322",
+    "link": "Is there a NOSTR client with a built-in lightning wallet?",
+    "metadata": "1 sats \\ 1 comments \\ @Scoresby 6 Mar nostr"
+  },
+  {
+    "id": 323,
+    "title": "Nostr hack and design tournament starts March 10th",
+    "link": "makers.bolt.fun/tournaments/2/overview",
+    "metadata": "110 sats \\ 5000 boost \\ 0 comments \\ @k00b 6 Mar nostr"
+  },
+  {
+    "id": 324,
+    "title": "Nostr badges",
+    "link": "125 sats \\ 1 comments \\ @halalmoney 6 Mar nostr",
+    "metadata": "325"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/nostr-blogging/",
+    "link": "769 sats \\ 7 comments \\ @TheBTCManual 6 Mar nostr",
+    "metadata": "326"
+  },
+  {
+    "id": null,
+    "title": "182 sats \\ 2 comments \\ @number133 6 Mar nostr freebie",
+    "link": "327",
+    "metadata": "BCB099_CK SNARKS & CHRIS ALAIMO: NOSTR, Ordinals & Bitcoin 2023 Preview"
+  },
+  {
+    "id": null,
+    "title": "101 sats \\ 0 comments \\ @BitcoinIsTheFuture 5 Mar nostr",
+    "link": "328",
+    "metadata": "NostrGit UI is up - based on Jack Dorseys 10 BTC bounty - 2 days back"
+  },
+  {
+    "id": null,
+    "title": "310 sats \\ 5 comments \\ @cryptofolyo 5 Mar nostr",
+    "link": "329",
+    "metadata": "How will legacy social media react to Nostr?"
+  },
+  {
+    "id": 141,
+    "title": "330",
+    "link": "News on Nostr ",
+    "metadata": "0 sats \\ 3 comments \\ @grayruby 5 Mar nostr"
+  },
+  {
+    "id": 331,
+    "title": "Problems caused by using Nostr as an identity : Level39's Twitter Thread",
+    "link": "twitter.com/level39/status/1632240495396044800",
+    "metadata": "290 sats \\ 5 comments \\ @utxo 5 Mar nostr"
+  },
+  {
+    "id": 332,
+    "title": "ELI5 Will Nostr deprecate Tor, Torrent, I2P, Mastodon, Gitetc??",
+    "link": "40 sats \\ 2 comments \\ @kilianbuhn 5 Mar nostr",
+    "metadata": "333"
+  },
+  {
+    "id": null,
+    "title": "31 sats \\ 4 comments \\ @Darkbulb 5 Mar nostr",
+    "link": "334",
+    "metadata": "Nostr It | Publish your nostr posts when something happens by @pablof7z"
+  },
+  {
+    "id": null,
+    "title": "1231 sats \\ 3 comments \\ @runningbitcoin 5 Mar nostr",
+    "link": "335",
+    "metadata": "Tinkering & Learning from scratch to deploy NOSTR clients - Part 2 - habla.news"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 0 comments \\ @cryptofolyo 4 Mar nostr",
+    "link": "336",
+    "metadata": "Badges on Nostr are 🗑🗑🗑"
+  },
+  {
+    "id": 22,
+    "title": "337",
+    "link": "Who is interested in learning how to deploy and tinker with NOSTR clients?",
+    "metadata": "21 sats \\ 2 comments \\ @cryptofolyo 4 Mar nostr"
+  },
+  {
+    "id": 338,
+    "title": "Jack offers 1billion sats bounty for a GitHub Nostr Version ⚡️",
+    "link": "bountsr.org/code/2023/01/19/nostr-based-github.html",
+    "metadata": "1488 sats \\ 6 comments \\ @davis 4 Mar nostr"
+  },
+  {
+    "id": 339,
+    "title": "Lopp on Nostr",
+    "link": "blog.lopp.net/why-nostr-matters/",
+    "metadata": "131 sats \\ 0 comments \\ @muteness11 4 Mar nostr"
+  },
+  {
+    "id": 340,
+    "title": "1 billion satoshi - 10 BTC bounty NOSTR based GitHub replacement",
+    "link": "bountsr.org/code/2023/01/19/nostr-based-github.html",
+    "metadata": "1 sats \\ 2 comments \\ @cryptofolyo 4 Mar nostr"
+  },
+  {
+    "id": 341,
+    "title": "Why Nostr Matters",
+    "link": "blog.lopp.net/why-nostr-matters/",
+    "metadata": "2471 sats \\ 5 comments \\ @soggycakes 4 Mar nostr"
+  },
+  {
+    "id": 342,
+    "title": "How i deployed a clone of blogstack.io a( NOSTR Client ) in 30 minutes",
+    "link": "www.youtube.com/watch?v=5bZgjavo__4",
+    "metadata": "5146 sats \\ 10 comments \\ @cryptofolyo 4 Mar nostr"
+  },
+  {
+    "id": 343,
+    "title": "Jack Dorsey has set a 10 btc bounty for Nostr based alternative to GitHub",
+    "link": "snort.social/e/note17gfm0k0ssw4qctpge32dp3nulu975mjpdl9nqmrs78msp622d90qvdral4",
+    "metadata": "272 sats \\ 0 comments \\ @soggycakes 4 Mar nostr"
+  },
+  {
+    "id": 344,
+    "title": "Nostr: First experience posting NIP-23 Long-form Content",
+    "link": "244 sats \\ 5 comments \\ @bataroot 4 Mar nostr",
+    "metadata": "345"
+  },
+  {
+    "id": null,
+    "title": "loveisbitcoin.com/what-the-fuck-is-nostr/",
+    "link": "30 sats \\ 0 comments \\ @saoulidisg 4 Mar nostr",
+    "metadata": "346"
+  },
+  {
+    "id": null,
+    "title": "657 sats \\ 9 comments \\ @cryptofolyo 4 Mar nostr",
+    "link": "347",
+    "metadata": "Lightning and Nostr weekly round up : Kollider's Twiter Thread"
+  },
+  {
+    "id": null,
+    "title": "210 sats \\ 0 comments \\ @utxo 4 Mar nostr",
+    "link": "348",
+    "metadata": "Bounty for Nostr-based GitHub replacement"
+  },
+  {
+    "id": null,
+    "title": "41 sats \\ 2 comments \\ @mrldotsh 4 Mar nostr",
+    "link": "349",
+    "metadata": "Fiatjaf: The web browser and its 3 separate use cases (nostr post)"
+  },
+  {
+    "id": null,
+    "title": "130 sats \\ 1 comments \\ @nout 4 Mar nostr",
+    "link": "350",
+    "metadata": "Voting on Nostr: New Poll Notes, NIP proposal RFC"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @satcat 4 Mar nostr",
+    "link": "351",
+    "metadata": "badges.page - a website for creating and managing nostr NIP-58 badges"
+  },
+  {
+    "id": null,
+    "title": "1093 sats \\ 8 comments \\ @verbiricha 3 Mar nostr",
+    "link": "352",
+    "metadata": "Nostr (art) at the Europian Parliament lmao"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @sebastix 3 Mar nostr",
+    "link": "353",
+    "metadata": "Nostr + StackerNews have been lifechanging"
+  },
+  {
+    "id": 13,
+    "title": "354",
+    "link": "The Latest On Bitcoin Ordinals, Nostr, & The Lightning Network",
+    "metadata": "youtu.be/tAf1fYS2hWY"
+  },
+  {
+    "id": 24,
+    "title": "355",
+    "link": "LNURL Over Nostr by Kukks",
+    "metadata": "github.com/lnurl/luds/pull/203"
+  },
+  {
+    "id": 188,
+    "title": "356",
+    "link": "nostr - store and run applications in a decentralized manner",
+    "metadata": "www.youtube.com/watch?v=h2h94RCynIo"
+  },
+  {
+    "id": 0,
+    "title": "357",
+    "link": "How To Find Nostr Accounts To Follow",
+    "metadata": "thebitcoinmanual.com/articles/find-nostr-accounts/"
+  },
+  {
+    "id": 200,
+    "title": "358",
+    "link": "Nostr Lightning Lottery Bot. Come join! ⚡️⚡️",
+    "metadata": "iris.to/npub1hlgjrgmhwd257thnarjjfc8rxlemlpfwk4wdjejw9jgp298sv0nsq3mr2u"
+  },
+  {
+    "id": 10,
+    "title": "359",
+    "link": "Nostr in 4 Minutes",
+    "metadata": "122 sats \\ 5000 boost \\ 1 comments \\ @cstack 2 Mar nostr"
+  },
+  {
+    "id": 360,
+    "title": "nostr is great but what about sociopaths?",
+    "link": "0 sats \\ 4 comments \\ @adolphweich 2 Mar nostr",
+    "metadata": "361"
+  },
+  {
+    "id": null,
+    "title": "habla.news/a/naddr1qqqqyg8u3n0mgcpeaqhw6d5e64hsky590cuzft39saewvdc92aaeet8c35psgqqqw4rsz77cfk",
+    "link": "0 sats \\ 0 comments \\ @weatherall 2 Mar nostr",
+    "metadata": "362"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/arcbtc/status/1631252194463830018",
+    "link": "1031 sats \\ 0 comments \\ @kr 2 Mar nostr",
+    "metadata": "363"
+  },
+  {
+    "id": null,
+    "title": "fountainpodcasts.substack.com/p/0-6-5",
+    "link": "52 sats \\ 1 comments \\ @kr 2 Mar nostr",
+    "metadata": "364"
+  },
+  {
+    "id": null,
+    "title": "www.producthunt.com/posts/anyone-4?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Dashboard+%28ID%3A+6059%29",
+    "link": "0 sats \\ 0 comments \\ @moel 2 Mar nostr",
+    "metadata": "365"
+  },
+  {
+    "id": null,
+    "title": "21 sats \\ 2 comments \\ @Distivboy_87 2 Mar nostr",
+    "link": "366",
+    "metadata": "Admission Fee Required - nostrelay.yeghro.site"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @edblock 2 Mar nostr",
+    "link": "367",
+    "metadata": "How To Setup A Nostr Account"
+  },
+  {
+    "id": null,
+    "title": "131 sats \\ 2 comments \\ @TheBTCManual 2 Mar nostr",
+    "link": "368",
+    "metadata": "Easiest way to set your self hosted NIP-05 ID on Nostr"
+  },
+  {
+    "id": 25,
+    "title": "369",
+    "link": "Side project around Nostr. What's your opinion?",
+    "metadata": "48 sats \\ 5 comments \\ @sea_monster 2 Mar nostr"
+  },
+  {
+    "id": 370,
+    "title": "Innovation & Value Capture on Nostr",
+    "link": "youtu.be/tHKUJQPXJUg",
+    "metadata": "100 sats \\ 0 comments \\ @kr 2 Mar nostr"
+  },
+  {
+    "id": 371,
+    "title": "Pura Vida Nostrnest Live Piano Concert by @jay. March 1st at 7pm UTC",
+    "link": "nostrnests.com/vv7kka",
+    "metadata": "22 sats \\ 0 comments \\ @Lou 1 Mar nostr"
+  },
+  {
+    "id": 372,
+    "title": "The Best Nostr Clients",
+    "link": "122 sats \\ 0 comments \\ @cstack 1 Mar nostr",
+    "metadata": "373"
+  },
+  {
+    "id": null,
+    "title": "506 sats \\ 18 comments \\ @felix 1 Mar nostr",
+    "link": "374",
+    "metadata": "Move to Mastodon... When will someone build this for Nostr?"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @moel 1 Mar nostr",
+    "link": "375",
+    "metadata": "Dylan LeClair On Bitcoin, Nostr, Ordinals, Regulation, & The Fed"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @Fezzy 1 Mar nostr",
+    "link": "376",
+    "metadata": "ANN: TERRA NOSTR, a NIP-05 verification / identity service for Nostr."
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @xavierfiechter 1 Mar nostr",
+    "link": "377",
+    "metadata": "🪶 Why Nostr is better than other popular social media services?"
+  },
+  {
+    "id": 20,
+    "title": "378",
+    "link": "Follow me on bitcoin nostr, and I will follow you back!",
+    "metadata": "0 sats \\ 2 comments \\ @thevivekpodcast 1 Mar nostr"
+  },
+  {
+    "id": 379,
+    "title": "Nostr, love at first sight | Dries Buytaert",
+    "link": "dri.es/nostr-love-at-first-sight",
+    "metadata": "1623 sats \\ 10 comments \\ @sebastix 28 Feb nostr"
+  },
+  {
+    "id": 380,
+    "title": "Assist with setting up habla.news nostr medium clone ?",
+    "link": "1 sats \\ 4 comments \\ @weatherall 28 Feb nostr",
+    "metadata": "381"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/sFjZ6kIJlCA",
+    "link": "0 sats \\ 0 comments \\ @kr 28 Feb nostr",
+    "metadata": "382"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/nostr-approach-nfts/",
+    "link": "210 sats \\ 0 comments \\ @TheBTCManual 28 Feb nostr",
+    "metadata": "383"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 2 comments \\ @bossrosschild 28 Feb nostr",
+    "link": "384",
+    "metadata": "Nostr is an echo chamber, sure, but it also isn't."
+  },
+  {
+    "id": 91,
+    "title": "385",
+    "link": "Who Will Fund Nostr Development?",
+    "metadata": "youtu.be/GTRMKdOdTLo"
+  },
+  {
+    "id": 21,
+    "title": "386",
+    "link": "Cashu Tutorial - Chaumian Ecash On Bitcoin & Lightning (+Nostr)",
+    "metadata": "www.youtube.com/watch?v=riTRD0BdMDI"
+  },
+  {
+    "id": 1407,
+    "title": "387",
+    "link": "Fediverse Nostr Bridge, Mostr - nostr just got spicier",
+    "metadata": "soapbox.pub/blog/mostr-fediverse-nostr-bridge/"
+  },
+  {
+    "id": 411,
+    "title": "388",
+    "link": "A vision for content discovery and relay usage for basic social-networking Nostr",
+    "metadata": "fiatjaf.com/3f106d31.html"
+  },
+  {
+    "id": 440,
+    "title": "389",
+    "link": "🟠[EN[TUTO]]How To Run A Private Nostr Relay - The Bitcoin Manual 💜",
+    "metadata": "thebitcoinmanual.com/articles/run-private-nostr-relay/"
+  },
+  {
+    "id": 10,
+    "title": "390",
+    "link": "New paid nostr relay online",
+    "metadata": "paid.nostrified.org"
+  },
+  {
+    "id": 30,
+    "title": "391",
+    "link": "Is Amethyst or Damus Better for using Nostr",
+    "metadata": "21 sats \\ 3 comments \\ @playbuttonscore 27 Feb nostr"
+  },
+  {
+    "id": 392,
+    "title": "(feedback appreciated) LN wallets overview - Nostr edition: a mini-guide",
+    "link": "101 sats \\ 5000 boost \\ 2 comments \\ @tats 27 Feb nostr",
+    "metadata": "393"
+  },
+  {
+    "id": null,
+    "title": "www.austrich.net/nostr/",
+    "link": "248 sats \\ 0 comments \\ @nout 27 Feb nostr",
+    "metadata": "394"
+  },
+  {
+    "id": null,
+    "title": "66 sats \\ 2 comments \\ @starbuilder 27 Feb nostr",
+    "link": "395",
+    "metadata": "Pricestr: The Nostr-based, decentralized inflation dashboard"
+  },
+  {
+    "id": null,
+    "title": "147 sats \\ 4 comments \\ @avg 26 Feb nostr",
+    "link": "396",
+    "metadata": "NOSTR integration of STACKER NEWS"
+  },
+  {
+    "id": 0,
+    "title": "397",
+    "link": "Watch zaps happening on Nostr in real-time",
+    "metadata": "zaplife.lol/"
+  },
+  {
+    "id": 132,
+    "title": "398",
+    "link": "Nostr Market: Simple Bitcoin classifieds for Nostr via the #nostrmarket hashtag",
+    "metadata": "nostr.bitejo.com"
+  },
+  {
+    "id": 112,
+    "title": "399",
+    "link": "What Are Nostr Zaps?",
+    "metadata": "thebitcoinmanual.com/articles/nostr-zaps/"
+  },
+  {
+    "id": 301,
+    "title": "400",
+    "link": "🟤[EN][TUTO] Product Stickiness How to Build Sticky Products 2023 About Nostr 💜",
+    "metadata": "whatfix.com/blog/product-stickiness/"
+  },
+  {
+    "id": 0,
+    "title": "401",
+    "link": "nostros v0.3.0.7-alpha · Most Zapped, Bookmarks & Profile tabs",
+    "metadata": "github.com/KoalaSat/nostros/releases/tag/v0.3.0.7-alpha"
+  },
+  {
+    "id": 40,
+    "title": "402",
+    "link": "nostr-irc: Command line based nostr client that simulates an IRC client",
+    "metadata": "github.com/ronaldstoner/nostr-irc"
+  },
+  {
+    "id": 214,
+    "title": "403",
+    "link": "Using Nostr with Paid Relays",
+    "metadata": "blog.kollider.xyz/using-nostr-with-paid-relay"
+  },
+  {
+    "id": 151,
+    "title": "404",
+    "link": "How a NOSTR client blogstack.io was built - 3 hours Live coding stream",
+    "metadata": "www.youtube.com/watch?v=diJW4p0btKA"
+  },
+  {
+    "id": 11,
+    "title": "405",
+    "link": "Where are we with Nostr rn?",
+    "metadata": "304 sats \\ 8 comments \\ @ThrillerX_ 25 Feb nostr"
+  },
+  {
+    "id": 406,
+    "title": "David King on Google & NOSTR’s Early Days and the Role of Lightning on Nostr",
+    "link": "www.youtube.com/watch?v=iOOu6SYbMxs",
+    "metadata": "54 sats \\ 0 comments \\ @SatoshiNakanodo 25 Feb nostr"
+  },
+  {
+    "id": 407,
+    "title": "What is your favourite lightning wallet for nostr?",
+    "link": "22 sats \\ 9 comments \\ @brudigga 25 Feb nostr freebie",
+    "metadata": "408"
+  },
+  {
+    "id": null,
+    "title": "22 sats \\ 0 comments \\ @nostrfilm 25 Feb nostr",
+    "link": "409",
+    "metadata": "🎉 Cashu 0.9.3 released with P2N (Pay-to-nostr) NIP-05 support."
+  },
+  {
+    "id": null,
+    "title": "571 sats \\ 6 comments \\ @runningbitcoin 25 Feb nostr",
+    "link": "410",
+    "metadata": "Bitcoin hackers built a new way to communicate: Nostr"
+  },
+  {
+    "id": null,
+    "title": "166 sats \\ 0 comments \\ @edblock 25 Feb nostr",
+    "link": "411",
+    "metadata": "How Nostr is evading Chinese censors"
+  },
+  {
+    "id": null,
+    "title": "156 sats \\ 0 comments \\ @edblock 25 Feb nostr",
+    "link": "412",
+    "metadata": "Zaps, now on ​Fountain... Latest beta version adds NIP-05 Nostr support"
+  },
+  {
+    "id": null,
+    "title": "389 sats \\ 4 comments \\ @SatoshiNakanodo 25 Feb nostr",
+    "link": "413",
+    "metadata": "​Impervious Chat app will combine P2P private group chats + Nostr social feed"
+  },
+  {
+    "id": null,
+    "title": "141 sats \\ 3 comments \\ @SatoshiNakanodo 25 Feb nostr",
+    "link": "414",
+    "metadata": "Wen Linux Desktop Nostr Client?"
+  },
+  {
+    "id": 40,
+    "title": "415",
+    "link": "What happened this week in the world of Lightning Network and Nostr! 🧵",
+    "metadata": "nitter.at/kollider_trade/status/1629253655059902464"
+  },
+  {
+    "id": 60,
+    "title": "416",
+    "link": "Why I got into Nostr..",
+    "metadata": "771 sats \\ 4 comments \\ @timechain 25 Feb nostr"
+  },
+  {
+    "id": 417,
+    "title": "LinkedNostrin?",
+    "link": "1 sats \\ 1 comments \\ @fedelang 25 Feb nostr",
+    "metadata": "418"
+  },
+  {
+    "id": null,
+    "title": "nostr.film/",
+    "link": "11 sats \\ 0 comments \\ @nostrfilm 25 Feb nostr",
+    "metadata": "419"
+  },
+  {
+    "id": null,
+    "title": "41 sats \\ 4 comments \\ @nostrfilm 25 Feb nostr freebie",
+    "link": "420",
+    "metadata": "Nostrgram Dev: Satoshi's WEALTH and The Importance of Bitcoin Mythology 📺"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 1 comments \\ @dad 24 Feb nostr",
+    "link": "421",
+    "metadata": "Damus For NOSTR - Full Tutorial"
+  },
+  {
+    "id": null,
+    "title": "1040 sats \\ 2 comments \\ @BTCsessions 24 Feb nostr",
+    "link": "422",
+    "metadata": "Nostr Users Have Zapped 54M Sats in February"
+  },
+  {
+    "id": 20,
+    "title": "423",
+    "link": "Best NOSTR clients/guides/resources to check out.",
+    "metadata": "0 sats \\ 5 comments \\ @Chep 24 Feb nostr"
+  },
+  {
+    "id": 424,
+    "title": "migstr - nostr relay migration",
+    "link": "github.com/patrkris/migstr",
+    "metadata": "41 sats \\ 3 comments \\ @tamstrup 24 Feb nostr"
+  },
+  {
+    "id": 425,
+    "title": "How to use Nostr in 30 minutes",
+    "link": "youtu.be/AiW1zttyblU",
+    "metadata": "0 sats \\ 0 comments \\ @edblock 24 Feb nostr"
+  },
+  {
+    "id": 426,
+    "title": "Nostr-powered embedded comments for your website",
+    "link": "398 sats \\ 8 comments \\ @SovrnBitcoiner 24 Feb nostr",
+    "metadata": "427"
+  },
+  {
+    "id": null,
+    "title": "27 sats \\ 11 comments \\ @Monotone 24 Feb nostr",
+    "link": "428",
+    "metadata": "Nostr: a funky decentralized protocol as the ultimate Bitcoin playground"
+  },
+  {
+    "id": null,
+    "title": "51 sats \\ 1 comments \\ @cicero 24 Feb nostr",
+    "link": "429",
+    "metadata": "Nostr questions"
+  },
+  {
+    "id": 0,
+    "title": "430",
+    "link": "Broadcstr Nostr and Bitcoin Talks",
+    "metadata": "www.broadcstr.com"
+  },
+  {
+    "id": 0,
+    "title": "431",
+    "link": "How to make a nostr client portal in react",
+    "metadata": "www.youtube.com/watch?v=L4LUD2j-asA"
+  },
+  {
+    "id": 0,
+    "title": "432",
+    "link": "Download your Nostr event history!",
+    "metadata": "nostrgraph.net/"
+  },
+  {
+    "id": 1,
+    "title": "433",
+    "link": "Using FIDO Passkeys for Nostr private key management",
+    "metadata": "makers.bolt.fun/story/using-fido-passkeys-for-nostr-private-key-management--598"
+  },
+  {
+    "id": 110,
+    "title": "434",
+    "link": "Paid Nostr Relay",
+    "metadata": "10 sats \\ 0 comments \\ @fluidtrack 24 Feb nostr"
+  },
+  {
+    "id": 435,
+    "title": "GH/http-nostr-publisher: Cloudflare worker to publish Nostr events through HTTP",
+    "link": "github.com/getAlby/http-nostr-publisher",
+    "metadata": "1582 sats \\ 12 comments \\ @bumi 24 Feb nostr"
+  },
+  {
+    "id": 436,
+    "title": "David King on Google’s Early Days, Lightning on Nostr, and Angel Investing",
+    "link": "www.youtube.com/watch?v=iOOu6SYbMxs",
+    "metadata": "33 sats \\ 1 comments \\ @kr 24 Feb nostr"
+  },
+  {
+    "id": 437,
+    "title": "Moving My Blog to Nostr",
+    "link": "blogstack.io/naddr1qqyrjd3sxvmxxepcqyv8wumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdspzqadlydf3460e333fjkaqwxg7fz82636ew5m36c7hml2xhhsml2y4qvzqqqr4guwstq7v",
+    "metadata": "32 sats \\ 1 comments \\ @BloggingBitcoin 23 Feb nostr"
+  },
+  {
+    "id": 438,
+    "title": "Stacker on Nostr?!",
+    "link": "21 sats \\ 1 comments \\ @suidoc 23 Feb nostr",
+    "metadata": "439"
+  },
+  {
+    "id": null,
+    "title": "650 sats \\ 35 comments \\ @brynrussell 23 Feb nostr",
+    "link": "440",
+    "metadata": "Nostr: The decentralized future of social media? @jb55 and @NVK live now"
+  },
+  {
+    "id": null,
+    "title": "181 sats \\ 0 comments \\ @joelklabo 23 Feb nostr",
+    "link": "441",
+    "metadata": "Reason TV - Nostr: The decentralized future of social media?"
+  },
+  {
+    "id": null,
+    "title": "232 sats \\ 2 comments \\ @Wumbo 23 Feb nostr",
+    "link": "442",
+    "metadata": "is nostr killing Mastodon?"
+  },
+  {
+    "id": 5,
+    "title": "443",
+    "link": "Could Nostr be used to inject code?",
+    "metadata": "25 sats \\ 3 comments \\ @Darkbulb 23 Feb nostr"
+  },
+  {
+    "id": 444,
+    "title": "Nostr.ly (a.k.a easyNostr) easily set up NIP-05, or use your own custom domain",
+    "link": "easynostr.com",
+    "metadata": "122 sats \\ 2 comments \\ @edblock 23 Feb nostr"
+  },
+  {
+    "id": 445,
+    "title": "NOSTR IT UP | EP #185",
+    "link": "www.youtube.com/live/YTqxKNpUDeA?feature=share",
+    "metadata": "0 sats \\ 0 comments \\ @edblock 23 Feb nostr"
+  },
+  {
+    "id": 446,
+    "title": "Nostr Idea: Kill Switch",
+    "link": "31 sats \\ 5 comments \\ @022fbc9cef 23 Feb nostr",
+    "metadata": "447"
+  },
+  {
+    "id": null,
+    "title": "coracle.social",
+    "link": "1 sats \\ 0 comments \\ @Gian 23 Feb nostr",
+    "metadata": "448"
+  },
+  {
+    "id": null,
+    "title": "332 sats \\ 4 comments \\ @halalmoney 23 Feb nostr",
+    "link": "449",
+    "metadata": "He said he asked Nostr and Twitter but no answer. Maybe SN can help"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @DopeCoinz 23 Feb nostr",
+    "link": "450",
+    "metadata": "Vida via nostr"
+  },
+  {
+    "id": 0,
+    "title": "451",
+    "link": "Nostr Paid Relays",
+    "metadata": "121 sats \\ 10 comments \\ @BoomerJones 22 Feb nostr"
+  },
+  {
+    "id": 452,
+    "title": "nostr for noobies - some links to help you get started on nostr",
+    "link": "11 sats \\ 1 comments \\ @cryptofolyo 22 Feb nostr",
+    "metadata": "453"
+  },
+  {
+    "id": null,
+    "title": "nostrstuff.com/",
+    "link": "360 sats \\ 10 comments \\ @cryptofolyo 22 Feb nostr",
+    "metadata": "454"
+  },
+  {
+    "id": null,
+    "title": "241 sats \\ 13 comments \\ @fedelang 22 Feb nostr",
+    "link": "455",
+    "metadata": "The Best Nostr resources for any noob/pro to get started in a secure way?"
+  },
+  {
+    "id": 0,
+    "title": "456",
+    "link": "Nostr (Plebs) Spaces",
+    "metadata": "spaces.nostrplebs.com"
+  },
+  {
+    "id": 30,
+    "title": "457",
+    "link": "Nostr private key",
+    "metadata": "0 sats \\ 2 comments \\ @millo 22 Feb nostr"
+  },
+  {
+    "id": 458,
+    "title": "Can you monetize Nostr relays on Umbrel and Start9 Embassy?",
+    "link": "10 sats \\ 1 comments \\ @Slartibartfast 22 Feb nostr freebie",
+    "metadata": "459"
+  },
+  {
+    "id": null,
+    "title": "445 sats \\ 21 comments \\ @andi5 22 Feb nostr",
+    "link": "460",
+    "metadata": "Nostr relay required capacity"
+  },
+  {
+    "id": 0,
+    "title": "461",
+    "link": "Nostr Hack & Design",
+    "metadata": "445 sats \\ 2 comments \\ @nostrdesign 22 Feb nostr freebie"
+  },
+  {
+    "id": 462,
+    "title": "An easy way to run your nostr relay in your home lab behind a cloudflared tunnel",
+    "link": "59 sats \\ 1 comments \\ @fluidtrack 22 Feb nostr",
+    "metadata": "463"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/send-ecash-tokens-nostr/",
+    "link": "171 sats \\ 0 comments \\ @TheBTCManual 22 Feb nostr",
+    "metadata": "464"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 4 comments \\ @nokey 22 Feb nostr",
+    "link": "465",
+    "metadata": "It stores your key so you don't have to expose your key to web clients on nostr"
+  },
+  {
+    "id": null,
+    "title": "31 sats \\ 4 comments \\ @DopeCoinz 22 Feb nostr",
+    "link": "466",
+    "metadata": "NOSTR - Trending in china"
+  },
+  {
+    "id": null,
+    "title": "22 sats \\ 0 comments \\ @cryptofolyo 21 Feb nostr",
+    "link": "467",
+    "metadata": "NOSTR on Yahoo Finance"
+  },
+  {
+    "id": null,
+    "title": "21 sats \\ 2 comments \\ @cryptofolyo 21 Feb nostr",
+    "link": "468",
+    "metadata": "Rip #397 Myles Snider - Nostr and Lightning Are The Real Web 3.0 | TFTC 📺"
+  },
+  {
+    "id": null,
+    "title": "196 sats \\ 1 comments \\ @cryptocoin 21 Feb nostr",
+    "link": "469",
+    "metadata": "First try on Habla.news: A long form content wrtting tool over Nostr Protocol."
+  },
+  {
+    "id": 822,
+    "title": "470",
+    "link": "Discord / Telegram on NOSTR",
+    "metadata": "1 sats \\ 2 comments \\ @Neo 21 Feb nostr"
+  },
+  {
+    "id": 471,
+    "title": "booger: A nostr relay",
+    "link": "github.com/huumn/booger",
+    "metadata": "2446 sats \\ 22 comments \\ @k00b 21 Feb nostr"
+  },
+  {
+    "id": 472,
+    "title": "Make https://write.nostr.com/ and https://read.nostr.com/ better",
+    "link": "342 sats \\ 5 comments \\ @fiatjaf8 21 Feb nostr",
+    "metadata": "473"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/6eeV6qJCP5Q",
+    "link": "0 sats \\ 0 comments \\ @edblock 21 Feb nostr",
+    "metadata": "474"
+  },
+  {
+    "id": null,
+    "title": "www.monstr.app/",
+    "link": "373 sats \\ 21 comments \\ @cryptofolyo 21 Feb nostr",
+    "metadata": "475"
+  },
+  {
+    "id": null,
+    "title": "31 sats \\ 10 comments \\ @Roll 20 Feb nostr",
+    "link": "476",
+    "metadata": "Did you find SN because of Nostr?"
+  },
+  {
+    "id": 345,
+    "title": "477",
+    "link": "Habla - medium/substack replacement built on nostr",
+    "metadata": "habla.news/"
+  },
+  {
+    "id": 829,
+    "title": "478",
+    "link": "What is NOSTR? And Why is It Important?",
+    "metadata": "youtu.be/528TEtylw_s"
+  },
+  {
+    "id": 126,
+    "title": "479",
+    "link": "Do you think that stacker/Nostr would had take place if Bitcoin didn’t exist?",
+    "metadata": "21 sats \\ 5 comments \\ @Lurusan 20 Feb nostr"
+  },
+  {
+    "id": 480,
+    "title": "Nostr/Alby/etc..: How to setup LNURL(P) Proxy using Github Pages",
+    "link": "nvk.org/alby-lnurlp",
+    "metadata": "301 sats \\ 9 comments \\ @nvk 20 Feb nostr"
+  },
+  {
+    "id": 481,
+    "title": "Nostr Verified: How to setup NIP5 verification using Github Pages",
+    "link": "nvk.org/n00b-nip5",
+    "metadata": "1443 sats \\ 5 comments \\ @nvk 20 Feb nostr"
+  },
+  {
+    "id": 482,
+    "title": "Nostr internet identifier NIP-05",
+    "link": "www.drupal.org/project/nostr_id_nip05",
+    "metadata": "0 sats \\ 0 comments \\ @edblock 20 Feb nostr"
+  },
+  {
+    "id": 483,
+    "title": "Release v0.3.0.3.1-alpha · KoalaSat/nostros",
+    "link": "github.com/KoalaSat/nostros/releases/tag/v0.3.0.3.1-alpha",
+    "metadata": "0 sats \\ 0 comments \\ @jpz 20 Feb nostr"
+  },
+  {
+    "id": 484,
+    "title": "Nostr NIP-05 verification with GitHub Pages",
+    "link": "mutatrum.com/nostr-verification-through-github-pages/",
+    "metadata": "3 sats \\ 0 comments \\ @edblock 20 Feb nostr"
+  },
+  {
+    "id": 485,
+    "title": "Nostr-Protocol",
+    "link": "lifeofjulio.substack.com/p/nostr-protocol",
+    "metadata": "10 sats \\ 0 comments \\ @JuLio_UtXO 20 Feb nostr freebie"
+  },
+  {
+    "id": 486,
+    "title": "What Is A NIP (Nostr Implementation Possibilities)?",
+    "link": "thebitcoinmanual.com/articles/nostr-implementation-possibilities/",
+    "metadata": "30 sats \\ 0 comments \\ @TheBTCManual 20 Feb nostr"
+  },
+  {
+    "id": 487,
+    "title": "Nostr en Español",
+    "link": "0 sats \\ 1 comments \\ @daxsosa10 20 Feb nostr",
+    "metadata": "488"
+  },
+  {
+    "id": null,
+    "title": "nitter.at/LN_Capital/status/1627338727247814657",
+    "link": "784 sats \\ 7 comments \\ @cryptocoin 20 Feb nostr",
+    "metadata": "489"
+  },
+  {
+    "id": null,
+    "title": "verifiedhuman.net",
+    "link": "202 sats \\ 9 comments \\ @edblock 20 Feb nostr",
+    "metadata": "490"
+  },
+  {
+    "id": null,
+    "title": "11 sats \\ 4 comments \\ @cryptofolyo 19 Feb nostr",
+    "link": "491",
+    "metadata": "zappr - a nostr bot to zap active pubkeys"
+  },
+  {
+    "id": null,
+    "title": "51 sats \\ 4 comments \\ @Semisol 19 Feb nostr",
+    "link": "492",
+    "metadata": "Will Nostr disrupt everything? Should Apple, Google, Meta be scared? "
+  },
+  {
+    "id": 73,
+    "title": "493",
+    "link": "Relay question for Nostr. Send Help!",
+    "metadata": "3 sats \\ 1 comments \\ @Damson4real 19 Feb nostr"
+  },
+  {
+    "id": 494,
+    "title": "Video/gif for Nostr banners/avatars",
+    "link": "0 sats \\ 3 comments \\ @gfy 19 Feb nostr",
+    "metadata": "495"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @ugochukwubreakthrough1 19 Feb nostr",
+    "link": "496",
+    "metadata": "Gif Banner/Avatar in Nostr?"
+  },
+  {
+    "id": 0,
+    "title": "497",
+    "link": "Can everything be done over nostr?",
+    "metadata": "2 sats \\ 3 comments \\ @taxd 19 Feb nostr"
+  },
+  {
+    "id": 498,
+    "title": "Someone explain to me Nostr please",
+    "link": "1 sats \\ 4 comments \\ @Bebop 19 Feb nostr",
+    "metadata": "499"
+  },
+  {
+    "id": null,
+    "title": "21 sats \\ 2 comments \\ @cryptofolyo 19 Feb nostr",
+    "link": "500",
+    "metadata": "How To Run A Private Nostr Relay"
+  },
+  {
+    "id": null,
+    "title": "66 sats \\ 0 comments \\ @TheBTCManual 19 Feb nostr",
+    "link": "501",
+    "metadata": "Follow me on Nostr for satoshi contents!"
+  },
+  {
+    "id": 3,
+    "title": "502",
+    "link": "How Will Nostr Scale?",
+    "metadata": "youtu.be/judsO5820hE"
+  },
+  {
+    "id": 42,
+    "title": "503",
+    "link": "Nostr.build is an excellent resource for media URLs",
+    "metadata": "102 sats \\ 0 comments \\ @Anonomoto 19 Feb nostr"
+  },
+  {
+    "id": 504,
+    "title": "I just posted an offer for the delivery of a physical object on Nostr? Who else?",
+    "link": "61 sats \\ 4 comments \\ @DiracDelta 18 Feb nostr",
+    "metadata": "505"
+  },
+  {
+    "id": null,
+    "title": "github.com/MutinyWallet/blastr",
+    "link": "35.2k sats \\ 28 comments \\ @TonyGiorgio 18 Feb nostr",
+    "metadata": "506"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 2 comments \\ @kepford 18 Feb nostr",
+    "link": "507",
+    "metadata": "NOSTR based global protocol to connect demand with supply"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @cryptofolyo 18 Feb nostr",
+    "link": "508",
+    "metadata": "Noteon Nostr"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @edblock 18 Feb nostr",
+    "link": "509",
+    "metadata": "About Nostr"
+  },
+  {
+    "id": 0,
+    "title": "510",
+    "link": "Wallet of Satoshi #Nostr",
+    "metadata": "0 sats \\ 0 comments \\ @yutaro 18 Feb nostr"
+  },
+  {
+    "id": 511,
+    "title": "blogstack.io: blogging on nostr with lightning tips",
+    "link": "blogstack.io/",
+    "metadata": "592 sats \\ 16 comments \\ @chrisatmachine 18 Feb nostr"
+  },
+  {
+    "id": 512,
+    "title": "Who is writing software for Bit-torrents over nostr?",
+    "link": "0 sats \\ 1 comments \\ @taxd 18 Feb nostr",
+    "metadata": "513"
+  },
+  {
+    "id": null,
+    "title": "nostrgram.co/#thread:9af7ed8d8dc952a9b5830d492820eb555809a2b76e34b9e1af8c4da0386d03c5:9af7ed8d8dc952a9b5830d492820eb555809a2b76e34b9e1af8c4da0386d03c5",
+    "link": "1 sats \\ 2 comments \\ @DopeCoinz 18 Feb nostr",
+    "metadata": "514"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 4 comments \\ @Bebop 18 Feb nostr",
+    "link": "515",
+    "metadata": "Nostrends | What's trending on Nostr?"
+  },
+  {
+    "id": null,
+    "title": "51 sats \\ 0 comments \\ @akiomik 18 Feb nostr",
+    "link": "516",
+    "metadata": "Block 777,777 Smash Buy SN/Nostr Community"
+  },
+  {
+    "id": 10,
+    "title": "517",
+    "link": "Drop your Nostr Pubk!",
+    "metadata": "1231 sats \\ 112 comments new \\ @equilibriumbtc 17 Feb nostr"
+  },
+  {
+    "id": 518,
+    "title": "Dark markets over nostr?",
+    "link": "0 sats \\ 1 comments \\ @taxd 17 Feb nostr",
+    "metadata": "519"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/lynaldencontact/status/1626672094485307420",
+    "link": "43 sats \\ 2 comments \\ @BitcoinIsTheFuture 17 Feb nostr",
+    "metadata": "520"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @runningbitcoin 17 Feb nostr",
+    "link": "521",
+    "metadata": "Can anybody give a short tl;dr on what Zaps are on Nostr?"
+  },
+  {
+    "id": 953,
+    "title": "522",
+    "link": "[ES] Introducción a nostr",
+    "metadata": "2316 sats \\ 5 comments \\ @gzuuus_ 17 Feb nostr"
+  },
+  {
+    "id": 523,
+    "title": "BTCRants265 - My Amazing Life! / Nostr / Gensler vs Crypto / Where's Vitalik?",
+    "link": "www.youtube.com/watch?v=7PML00v_6jQ",
+    "metadata": "1 sats \\ 0 comments \\ @SantaNotSanta 17 Feb nostr"
+  },
+  {
+    "id": 524,
+    "title": "Are you using Twitter less after using Nostr (whatever client you use) ",
+    "link": "145 sats \\ 10 comments \\ @joelklabo 17 Feb nostr",
+    "metadata": "525"
+  },
+  {
+    "id": null,
+    "title": "www.zerohedge.com/crypto/bitcoin-integration-nostr-could-redefine-social-media",
+    "link": "41 sats \\ 1 comments \\ @runningbitcoin 16 Feb nostr",
+    "metadata": "526"
+  },
+  {
+    "id": null,
+    "title": "soundcloud.com/bitcoin-and/nostrgrams-jonathan-leger-ep673",
+    "link": "420 sats \\ 0 comments \\ @NunyaBidness 16 Feb nostr",
+    "metadata": "527"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=dDAtp9mfZWE",
+    "link": "10 sats \\ 0 comments \\ @edblock 16 Feb nostr",
+    "metadata": "528"
+  },
+  {
+    "id": null,
+    "title": "toolkit.nostring.stream/",
+    "link": "162 sats \\ 2 comments \\ @edblock 16 Feb nostr",
+    "metadata": "529"
+  },
+  {
+    "id": null,
+    "title": "nproxy.zerologin.co",
+    "link": "5 sats \\ 0 comments \\ @HiP0 16 Feb nostr freebie",
+    "metadata": "530"
+  },
+  {
+    "id": null,
+    "title": "link.medium.com/YJZvF5aatxb",
+    "link": "113 sats \\ 7 comments \\ @Broletariat 16 Feb nostr",
+    "metadata": "531"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/culture/nostr-and-bitcoin-can-change-social-media?utm_source=carrot&utm_medium=partner&utm_campaign=carrot_share",
+    "link": "10 sats \\ 7 comments \\ @BitcoinIsTheFuture 16 Feb nostr",
+    "metadata": "532"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/culture/nostr-and-bitcoin-can-change-social-media",
+    "link": "294 sats \\ 7 comments \\ @sgtapple 16 Feb nostr",
+    "metadata": "533"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/paid-nostr-relay/",
+    "link": "116 sats \\ 0 comments \\ @TheBTCManual 16 Feb nostr",
+    "metadata": "534"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/SovrynM/status/1625823563704827910",
+    "link": "1 sats \\ 0 comments \\ @lunanto 16 Feb nostr",
+    "metadata": "535"
+  },
+  {
+    "id": null,
+    "title": "github.com/mattn/algia",
+    "link": "237 sats \\ 2 comments \\ @mattn 16 Feb nostr",
+    "metadata": "536"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/RSync25/status/1625808468362858498",
+    "link": "255 sats \\ 7 comments \\ @taxd 15 Feb nostr",
+    "metadata": "537"
+  },
+  {
+    "id": null,
+    "title": "bitcoinerjobs.com/job/836879-nostr-dev",
+    "link": "20 sats \\ 0 comments \\ @edblock 15 Feb nostr",
+    "metadata": "538"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 9 comments \\ @SatoshiNakanodo 15 Feb nostr",
+    "link": "539",
+    "metadata": "What is the best Nostr Client you are using? "
+  },
+  {
+    "id": 1,
+    "title": "540",
+    "link": "Get a NIP-05 identifier for Nostr",
+    "metadata": "nip05.nostrprotocol.net"
+  },
+  {
+    "id": 1,
+    "title": "541",
+    "link": "Git Nostr DeveloperWeek hackathon",
+    "metadata": "www.youtube.com/watch?v=v7bbF18886g"
+  },
+  {
+    "id": 0,
+    "title": "542",
+    "link": "Nostr will be the economy of Bitcoin",
+    "metadata": "111 sats \\ 2 comments \\ @halalmoney 14 Feb nostr"
+  },
+  {
+    "id": 543,
+    "title": "Double and Triple check to make sure you post your PUBLIC Nostr domain 😂",
+    "link": "twitter.com/BTCGandalf/status/1625540929821065247",
+    "metadata": "141 sats \\ 1 comments \\ @equilibriumbtc 14 Feb nostr"
+  },
+  {
+    "id": 544,
+    "title": "Nostr Relays",
+    "link": "2 sats \\ 0 comments \\ @nostr 14 Feb nostr",
+    "metadata": "545"
+  },
+  {
+    "id": null,
+    "title": "2440 sats \\ 23 comments \\ @sn 14 Feb nostr",
+    "link": "546",
+    "metadata": "SN release: NIP-57 nostr zap support"
+  },
+  {
+    "id": 14,
+    "title": "547",
+    "link": "You can now Zap individual posts on the Nostr client, Iris",
+    "metadata": "iris.to/post/note1d4v8n2tl4j42n6sa5y364jxy50zgrzdct9rs9403yrun0545jltqthylfj"
+  },
+  {
+    "id": 10,
+    "title": "548",
+    "link": "Figma on Nostr - check out the project in progress",
+    "metadata": "www.figma.com/file/6GFXf0GZ94CNEjdkpqt6jb/nostr?node-id=0%3A1&t=UMknRquVxSqWvrpg-1"
+  },
+  {
+    "id": 0,
+    "title": "549",
+    "link": "Nostr-follow-recovery: Simple tool to recover lost follows on Nostr",
+    "metadata": "github.com/mutatrum/nostr-follow-recovery"
+  },
+  {
+    "id": 41,
+    "title": "550",
+    "link": "The Direct Link to Bitcoin News on Nostr ⚡️⚡️⚡️",
+    "metadata": "nostrplebs.com/s/bitcoinnews"
+  },
+  {
+    "id": 20,
+    "title": "551",
+    "link": "Nostr light client in StackerNews",
+    "metadata": "8 sats \\ 2 comments \\ @bataroot 14 Feb nostr"
+  },
+  {
+    "id": 552,
+    "title": "Sign up for the Mutiny Wallet Waitlist via Email or Nostr",
+    "link": "mutinywallet.com/",
+    "metadata": "2214 sats \\ 5000 boost \\ 8 comments \\ @TonyGiorgio 14 Feb nostr"
+  },
+  {
+    "id": 553,
+    "title": "nostrum: sign transactions and messages with your Nostr keys",
+    "link": "github.com/nostr-connect/nostrum",
+    "metadata": "10 sats \\ 0 comments \\ @mf 14 Feb nostr"
+  },
+  {
+    "id": 554,
+    "title": "GitHub - lapulpeta/Nostrid a client for windows",
+    "link": "github.com/lapulpeta/Nostrid",
+    "metadata": "0 sats \\ 1 comments \\ @sgtapple 14 Feb nostr"
+  },
+  {
+    "id": 555,
+    "title": "Embed Nostr notes anywhere on the web",
+    "link": "github.com/nostrband/nostr-embed",
+    "metadata": "94 sats \\ 5 comments \\ @erskingardner 14 Feb nostr"
+  },
+  {
+    "id": 556,
+    "title": "💰 Help me fix my Nostr Relay",
+    "link": "89 sats \\ 11 comments \\ @Syturio 14 Feb nostr",
+    "metadata": "557"
+  },
+  {
+    "id": null,
+    "title": "20 sats \\ 1 comments \\ @muteness11 14 Feb nostr",
+    "link": "558",
+    "metadata": "Nostr relay: Homeserver"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 0 comments \\ @edblock 14 Feb nostr",
+    "link": "559",
+    "metadata": "My experience with nostr so far!"
+  },
+  {
+    "id": 243,
+    "title": "560",
+    "link": "Bitcoin and Nostr",
+    "metadata": "20 sats \\ 2 comments \\ @Bestforyourlife 13 Feb nostr"
+  },
+  {
+    "id": 561,
+    "title": "Current - Nostr App coming to iOS App store or Android play store near you...!",
+    "link": "6561 sats \\ 31 comments \\ @starbuilder 13 Feb nostr",
+    "metadata": "562"
+  },
+  {
+    "id": null,
+    "title": "30 sats \\ 6 comments \\ @andi5 13 Feb nostr",
+    "link": "563",
+    "metadata": "Nostrovia - The Nostr Podcast: Mike Dilger - NIP65 Episode"
+  },
+  {
+    "id": null,
+    "title": "40 sats \\ 3 comments \\ @edblock 13 Feb nostr",
+    "link": "564",
+    "metadata": "More Sovereign and Trust-free on Nostr Client"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 2 comments \\ @edblock 13 Feb nostr",
+    "link": "565",
+    "metadata": "Nostr Vanity Address Generator (Windows, Linux and macOS)"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 1 comments \\ @nullama 13 Feb nostr",
+    "link": "566",
+    "metadata": "Follow Bitcoin News on Nostr"
+  },
+  {
+    "id": null,
+    "title": "15 sats \\ 0 comments \\ @BitcoinNewsCom 13 Feb nostr",
+    "link": "567",
+    "metadata": "The Weekly Close #15: Taking back control with Nostr"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @MekongMonkey 13 Feb nostr",
+    "link": "568",
+    "metadata": "Sunday Survey: Are you on nostr? "
+  },
+  {
+    "id": 594,
+    "title": "569",
+    "link": "Room IDs and Event IDs On Matrix for Nostr",
+    "metadata": "spec.matrix.org/v1.5/appendices/#room-ids-and-event-ids"
+  },
+  {
+    "id": 1,
+    "title": "570",
+    "link": "Admission Fee Required - nostr.slothy.win",
+    "metadata": "nostr.slothy.win/invoices"
+  },
+  {
+    "id": 0,
+    "title": "571",
+    "link": "Bitcoin Audible - #699 -What is Nostr? How Does it Work? And Why Does it Matter?",
+    "metadata": "fountain.fm/episode/13359322375"
+  },
+  {
+    "id": 20,
+    "title": "572",
+    "link": "Trending posts on Nostr | Nostr.Band",
+    "metadata": "nostr.band"
+  },
+  {
+    "id": 45,
+    "title": "573",
+    "link": "Why don’t NOSTR relays compare notes? 📝",
+    "metadata": "234 sats \\ 23 comments \\ @SatoshiNakanodo 11 Feb nostr"
+  },
+  {
+    "id": 574,
+    "title": "Nostr predicate account",
+    "link": "w3id.org/user#nostr",
+    "metadata": "1 sats \\ 0 comments \\ @edblock 11 Feb nostr"
+  },
+  {
+    "id": 575,
+    "title": "Nostr Nips / 06.md at master · Nostr-protocol",
+    "link": "nips.be/06",
+    "metadata": "117 sats \\ 0 comments \\ @edblock 11 Feb nostr"
+  },
+  {
+    "id": 576,
+    "title": "Project Nostr NFT Collection - UNIFT PROTOCOL",
+    "link": "doc.unift.xyz/demos-and-how-to/project-nostr-nft-collection",
+    "metadata": "1 sats \\ 0 comments \\ @edblock 11 Feb nostr"
+  },
+  {
+    "id": 577,
+    "title": "Bitcoiner Directory - Find Bitcoiners on Nostr",
+    "link": "bitcoinnostr.com/directory/",
+    "metadata": "58 sats \\ 0 comments \\ @Memehound 11 Feb nostr"
+  },
+  {
+    "id": 578,
+    "title": "Announcing Nostr Proxy",
+    "link": "makers.bolt.fun/story/announcing-nostr-proxy--581",
+    "metadata": "653 sats \\ 8 comments \\ @dolu 10 Feb nostr"
+  },
+  {
+    "id": 579,
+    "title": "Nostrcheck.me nostr hosting and NIP-05 identifier server",
+    "link": "nostrcheck.me/",
+    "metadata": "10 sats \\ 0 comments \\ @edblock 10 Feb nostr"
+  },
+  {
+    "id": 580,
+    "title": "Nostr relay: Social Network",
+    "link": "code.pobblelabs.org/fossil/nostr_relay/doc/tip/docs/foaf.md",
+    "metadata": "0 sats \\ 0 comments \\ @edblock 10 Feb nostr"
+  },
+  {
+    "id": 581,
+    "title": "Friday round up of the Lightning Network (+ Nostr) ecosystem! 🧵",
+    "link": "nitter.at/kollider_trade/status/1624148796824252416",
+    "metadata": "50 sats \\ 1 comments \\ @cryptocoin 10 Feb nostr"
+  },
+  {
+    "id": 582,
+    "title": "Possible bug in settings - nostrPubkey can not be blank",
+    "link": "0 sats \\ 3 comments \\ @Wumbo 10 Feb nostr",
+    "metadata": "583"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/LlYKHVf4ao4",
+    "link": "0 sats \\ 0 comments \\ @edblock 10 Feb nostr",
+    "metadata": "584"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @muteness11 10 Feb nostr",
+    "link": "585",
+    "metadata": "Much greater signal on SN then Nostr IMO"
+  },
+  {
+    "id": 42,
+    "title": "586",
+    "link": "Censorship-resistant open source on Nostr",
+    "metadata": "docs.google.com/document/d/1z96XpTtrUvrFZYPjMzlT5JuE41HF6X5vI99lvImVCvU/edit#"
+  },
+  {
+    "id": 131,
+    "title": "587",
+    "link": "Nostr relays by latency, address, country, version, NIP, payment and price",
+    "metadata": "relays.xport.top/"
+  },
+  {
+    "id": 50,
+    "title": "588",
+    "link": "Jester, Chess over Nostr",
+    "metadata": "jesterui.github.io/#/lobby"
+  },
+  {
+    "id": 103,
+    "title": "589",
+    "link": "How add reactivity to nostr-tools",
+    "metadata": "www.solidjs.com/guides/reactivity"
+  },
+  {
+    "id": 11,
+    "title": "590",
+    "link": "How NOSTR Will Change the World of Privacy",
+    "metadata": "eraoflight.com/2023/02/09/how-nostr-will-change-the-world-of-privacy/"
+  },
+  {
+    "id": 41,
+    "title": "591",
+    "link": "Nostr public keys of Twitter Accounts",
+    "metadata": "nostr.directory/"
+  },
+  {
+    "id": 6,
+    "title": "592",
+    "link": "nostr",
+    "metadata": "damus.io/note1g9925ht960x3nd8cvft6f0gvwa5xtqkya7zlt7mrsyqkxsaj78ssfxq6nc"
+  },
+  {
+    "id": 0,
+    "title": "593",
+    "link": "My first thoughts on Nostr",
+    "metadata": "11 sats \\ 4 comments \\ @equilibriumbtc 9 Feb nostr"
+  },
+  {
+    "id": 594,
+    "title": "NOSTR on NOSTR",
+    "link": "0 sats \\ 8 comments \\ @grayruby 9 Feb nostr",
+    "metadata": "595"
+  },
+  {
+    "id": null,
+    "title": "stackerstan.org/index.html#home",
+    "link": "30 sats \\ 1 comments \\ @edblock 9 Feb nostr",
+    "metadata": "596"
+  },
+  {
+    "id": null,
+    "title": "github.com/aljazceru/awesome-nostr",
+    "link": "0 sats \\ 0 comments \\ @equilibriumbtc 9 Feb nostr",
+    "metadata": "597"
+  },
+  {
+    "id": null,
+    "title": "cowdle.gg/",
+    "link": "25 sats \\ 2 comments \\ @equilibriumbtc 9 Feb nostr",
+    "metadata": "598"
+  },
+  {
+    "id": null,
+    "title": "cowdle.gg/",
+    "link": "21.9k sats \\ 22 comments \\ @edblock 9 Feb nostr",
+    "metadata": "599"
+  },
+  {
+    "id": null,
+    "title": "www.zerohedge.com/technology/how-nostr-will-change-world-privacy",
+    "link": "571 sats \\ 6 comments \\ @lpop4254 8 Feb nostr",
+    "metadata": "600"
+  },
+  {
+    "id": null,
+    "title": "60 sats \\ 1 comments \\ @cstack 8 Feb nostr",
+    "link": "601",
+    "metadata": "Fetch, backup and broadcast your Nostr events"
+  },
+  {
+    "id": 0,
+    "title": "602",
+    "link": "Nostr Scam",
+    "metadata": "110 sats \\ 11 comments \\ @muteness11 8 Feb nostr"
+  },
+  {
+    "id": 603,
+    "title": "Nostr - Paid Relay filtering added",
+    "link": "0 sats \\ 0 comments \\ @Oxjogir 8 Feb nostr",
+    "metadata": "604"
+  },
+  {
+    "id": null,
+    "title": "159 sats \\ 16 comments \\ @nullama 8 Feb nostr",
+    "link": "605",
+    "metadata": "Your guide to the world of Nostr, everything you need to know. Intuitive guy ⚡"
+  },
+  {
+    "id": null,
+    "title": "31 sats \\ 0 comments \\ @Intuitive_Guy 8 Feb nostr freebie",
+    "link": "606",
+    "metadata": "Nostrovia Podcast @ https://nostrovia.org"
+  },
+  {
+    "id": 15,
+    "title": "607",
+    "link": "Admission Fee Required - nostr.bitcoinplebs.de",
+    "metadata": "nostr.bitcoinplebs.de"
+  },
+  {
+    "id": 12,
+    "title": "608",
+    "link": "Current – Nostr + BITCOIN",
+    "metadata": "app.getcurrent.io"
+  },
+  {
+    "id": 11,
+    "title": "609",
+    "link": "Hamstr and more on Nostr",
+    "metadata": "hamstr.to"
+  },
+  {
+    "id": 22,
+    "title": "610",
+    "link": "NostrGram and the News Relays Nostr",
+    "metadata": "nostrgram.co/"
+  },
+  {
+    "id": 12,
+    "title": "611",
+    "link": "Do You Know Nostr Carte Clip?",
+    "metadata": "carteclip.com/nostr/"
+  },
+  {
+    "id": 0,
+    "title": "612",
+    "link": "Nostr View - searching Home",
+    "metadata": "nostrview.com"
+  },
+  {
+    "id": 5,
+    "title": "613",
+    "link": "Any Stackers who are on NOSTR... I want to follow you. Is that creepy?",
+    "metadata": "210 sats \\ 14 comments \\ @SatoshiNakanodo 6 Feb nostr"
+  },
+  {
+    "id": 614,
+    "title": "Make Nostr Relay have the functionality of Smart Contract and More",
+    "link": "forum.dfinity.org/t/make-nostr-relay-have-the-functionality-of-smart-contract-and-more-win-win-cooperation/18385",
+    "metadata": "10 sats \\ 1 comments \\ @edblock 6 Feb nostr"
+  },
+  {
+    "id": 615,
+    "title": "Intro to Bitcoin & Nostr - Barcelona Bitcoin Only Meetup - 15/2/23",
+    "link": "bitcoinbarcelona.cat/2023/02/06/introduccion-a-bitcoin-y-al-protocolo-nostr-notes-and-other-stuff-transmitted-by-relays/",
+    "metadata": "0 sats \\ 0 comments \\ @pillar 6 Feb nostr"
+  },
+  {
+    "id": 616,
+    "title": "Handy little NOSTR tool for migrating notes between relays...",
+    "link": "115 sats \\ 0 comments \\ @SatoshiNakanodo 6 Feb nostr",
+    "metadata": "617"
+  },
+  {
+    "id": null,
+    "title": "sideways.com/cstack/my-nostr-journey-1/",
+    "link": "10 sats \\ 0 comments \\ @nostr 6 Feb nostr",
+    "metadata": "618"
+  },
+  {
+    "id": null,
+    "title": "orangepill.dev/nostr-guides/guide-nostr-key-generation-and-management/",
+    "link": "53 sats \\ 0 comments \\ @edblock 6 Feb nostr",
+    "metadata": "619"
+  },
+  {
+    "id": null,
+    "title": "anchor.fm/nostrovia/episodes/Coracle-e1ugcbh",
+    "link": "45 sats \\ 0 comments \\ @edblock 6 Feb nostr",
+    "metadata": "620"
+  },
+  {
+    "id": null,
+    "title": "x1xu4r.csb.app/#room=70014279e06fd675cad4dac66235413f5bcda49d778edacaef36532843ac9d80&relay=wss%3A%2F%2Fnos.lol",
+    "link": "230 sats \\ 1 comments \\ @edblock 6 Feb nostr",
+    "metadata": "621"
+  },
+  {
+    "id": null,
+    "title": "bitcoinnews.com/what-is-nostr/",
+    "link": "104 sats \\ 0 comments \\ @plebpoet 6 Feb nostr",
+    "metadata": "622"
+  },
+  {
+    "id": null,
+    "title": "blindsigs.utxo.club/",
+    "link": "407 sats \\ 5 comments \\ @utxoclub 6 Feb nostr",
+    "metadata": "623"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=YjNa1MKvdrs",
+    "link": "310 sats \\ 5 comments \\ @Syturio 6 Feb nostr",
+    "metadata": "624"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/umbrel/status/1622591145481236480",
+    "link": "688 sats \\ 9 comments \\ @cryptocoin 6 Feb nostr",
+    "metadata": "625"
+  },
+  {
+    "id": null,
+    "title": "2 sats \\ 0 comments \\ @mallardshead 6 Feb nostr",
+    "link": "626",
+    "metadata": "Nostrich.fun Directory - Explore the nostr ecosystem"
+  },
+  {
+    "id": null,
+    "title": "201 sats \\ 0 comments \\ @earnbitcoin 6 Feb nostr",
+    "link": "627",
+    "metadata": "Bitcoin on Nostr Blogstack as New Blog Comunity"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 4 comments \\ @edblock 6 Feb nostr",
+    "link": "628",
+    "metadata": "Understanding Decentralized Social Media Project Nostr's Damus"
+  },
+  {
+    "id": null,
+    "title": "22 sats \\ 3 comments \\ @ignacio 6 Feb nostr",
+    "link": "629",
+    "metadata": "Ottr - Private messenger app based on Nostr"
+  },
+  {
+    "id": 326,
+    "title": "630",
+    "link": "Relay Exchange - Find Paid Relays on Nostr",
+    "metadata": "relay.exchange/"
+  },
+  {
+    "id": 57,
+    "title": "631",
+    "link": "NOSTR vs Twitter: What's the Difference? | The Crypto Couple 📺",
+    "metadata": "www.youtube.com/watch?v=HrZE4kj9ZhY"
+  },
+  {
+    "id": 92,
+    "title": "632",
+    "link": "What Is Nostr, and Why Do Bitcoin Enthusiasts Love It?",
+    "metadata": "watcher.guru/news/what-is-nostr-and-why-do-bitcoin-enthusiasts-love-it#:~:text=Nostr%20is%20an%20alternative%20social,2022%2C%20further%20pushing%20its%20acclaim."
+  },
+  {
+    "id": 0,
+    "title": "633",
+    "link": "What Are Nostr Key Management Tools?",
+    "metadata": "thebitcoinmanual.com/articles/nostr-key-management-tools/"
+  },
+  {
+    "id": 52,
+    "title": "634",
+    "link": "NOSTR vs Twitter: What's the Difference?",
+    "metadata": "0 sats \\ 0 comments \\ @Jbana 6 Feb nostr"
+  },
+  {
+    "id": 635,
+    "title": "The Bitcoin and Nostr with Fiatjaf",
+    "link": "youtu.be/tg9S5KMQqBY",
+    "metadata": "22 sats \\ 0 comments \\ @edblock 6 Feb nostr"
+  },
+  {
+    "id": 636,
+    "title": "[ES] L177 - Nostr ¿y ahora qué? con Cameri, Negrunch, KoalaSat y Verbiricha",
+    "link": "twitter.com/lunaticoin/status/1622343436153094147",
+    "metadata": "10 sats \\ 2 comments \\ @lunaticoin 5 Feb nostr"
+  },
+  {
+    "id": 637,
+    "title": "why would you use nostr?",
+    "link": "0 sats \\ 4 comments \\ @lazurus 5 Feb nostr",
+    "metadata": "638"
+  },
+  {
+    "id": null,
+    "title": "bountsr.org/",
+    "link": "1 sats \\ 0 comments \\ @edblock 5 Feb nostr",
+    "metadata": "639"
+  },
+  {
+    "id": null,
+    "title": "www.getflamingo.org/",
+    "link": "172 sats \\ 2 comments \\ @leonardo 5 Feb nostr",
+    "metadata": "640"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 3 comments \\ @Lurusan 5 Feb nostr",
+    "link": "641",
+    "metadata": "Nostr sucks: A contrarian viewpoint"
+  },
+  {
+    "id": 870,
+    "title": "642",
+    "link": "Global nwsf on Nostr (Damus) on paid relays, no spambots and no fight videos :)",
+    "metadata": "twitter.com/luruzan/status/1621984752784838656"
+  },
+  {
+    "id": 50,
+    "title": "643",
+    "link": "Nostr and Damus is trending on Github",
+    "metadata": "github.com/trending"
+  },
+  {
+    "id": 347,
+    "title": "644",
+    "link": "For all the new Nostr users, get verified badge here",
+    "metadata": "lnbits.klabo.blog/nostrnip5/signup/bHkhhSQdNE7ntZuYEPBVuL"
+  },
+  {
+    "id": 0,
+    "title": "645",
+    "link": "What Is A Nostr Client?",
+    "metadata": "thebitcoinmanual.com/articles/nostr-client/"
+  },
+  {
+    "id": 63,
+    "title": "646",
+    "link": "Nostr is a gamechanger.",
+    "metadata": "21 sats \\ 3 comments \\ @nobody 5 Feb nostr"
+  },
+  {
+    "id": 647,
+    "title": "The Nostr Movement is just Starting",
+    "link": "twitter.com/TheBitSignal/status/1621924037529333760",
+    "metadata": "15 sats \\ 0 comments \\ @lunanto 5 Feb nostr"
+  },
+  {
+    "id": 648,
+    "title": "Who do you follow on nostr?",
+    "link": "21 sats \\ 7 comments \\ @NorthKoreanHostage 5 Feb nostr",
+    "metadata": "649"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 2 comments \\ @lazurus 5 Feb nostr",
+    "link": "650",
+    "metadata": "The fiatjaf Nostr fund"
+  },
+  {
+    "id": null,
+    "title": "101 sats \\ 0 comments \\ @cryptocoin 5 Feb nostr",
+    "link": "651",
+    "metadata": "Astral Babes - Ordinals minted with Lightning integrated with nostr"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 5 comments \\ @k00b 5 Feb nostr",
+    "link": "652",
+    "metadata": "Nostr Watch - A Map of Nostr Relays"
+  },
+  {
+    "id": null,
+    "title": "322 sats \\ 4 comments \\ @slatheredloss 4 Feb nostr",
+    "link": "653",
+    "metadata": "How to Setup a Paid Nostr Relay"
+  },
+  {
+    "id": null,
+    "title": "36 sats \\ 3 comments \\ @runningbitcoin 4 Feb nostr",
+    "link": "654",
+    "metadata": "nostrified.org - register a free NIP-05 identifier for nostr profiles"
+  },
+  {
+    "id": null,
+    "title": "62 sats \\ 1 comments \\ @Anathos 4 Feb nostr",
+    "link": "655",
+    "metadata": "I love Nostr, Why do you hate it so much?"
+  },
+  {
+    "id": 193,
+    "title": "656",
+    "link": "Twitter is dead. Long live #Nostr",
+    "metadata": "10 sats \\ 6 comments \\ @NunyaBidness 4 Feb nostr"
+  },
+  {
+    "id": 657,
+    "title": "Nostr is slower than ISDN",
+    "link": "twitter.com/BitcoinNewsCom/status/1621306418237251584",
+    "metadata": "0 sats \\ 2 comments \\ @BitcoinNewsCom 4 Feb nostr"
+  },
+  {
+    "id": 658,
+    "title": "WuBlockchain Weekly: The Fed announced a rate hike of 25 bps, Nostr-based ...",
+    "link": "wublock.substack.com/p/wublockchain-weeklythe-fed-announced",
+    "metadata": "52 sats \\ 0 comments \\ @cryptocoin 3 Feb nostr"
+  },
+  {
+    "id": 659,
+    "title": "Nostr.how - A complete guide to Nostr",
+    "link": "www.nostr.how/",
+    "metadata": "971 sats \\ 5 comments \\ @k00b 3 Feb nostr"
+  },
+  {
+    "id": 660,
+    "title": "What happened this week in the world of Bitcoin, Lightning Network, and Nostr 🧵",
+    "link": "nitter.at/kollider_trade/status/1621564874433204224",
+    "metadata": "52 sats \\ 1 comments \\ @cryptocoin 3 Feb nostr"
+  },
+  {
+    "id": 661,
+    "title": "After installing Amethyst (android nostr client) and seeing the wechat link spam",
+    "link": "www.youtube.com/watch?v=KFOYfXKX1HI",
+    "metadata": "21 sats \\ 0 comments \\ @theindranetworkprotocol 3 Feb nostr"
+  },
+  {
+    "id": 662,
+    "title": "Amethyst nostr app",
+    "link": "1 sats \\ 2 comments \\ @andi5 3 Feb nostr",
+    "metadata": "663"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 2 comments \\ @AlexEmidio 3 Feb nostr",
+    "link": "664",
+    "metadata": "Unofficial Stacker News Nostr feed (event source is RSS)"
+  },
+  {
+    "id": null,
+    "title": "421 sats \\ 9 comments \\ @kristapsk 3 Feb nostr",
+    "link": "665",
+    "metadata": "Set Up A Nostr Relay Server In Under 5 Minutes"
+  },
+  {
+    "id": null,
+    "title": "6 sats \\ 1 comments \\ @BitcoinNewsCom 2 Feb nostr",
+    "link": "666",
+    "metadata": "Improve Nostr performance in a quick minute with paid relays"
+  },
+  {
+    "id": 41,
+    "title": "667",
+    "link": "Refactor and improve this Nostr Relay Scala class",
+    "metadata": "456 sats \\ 8 comments \\ @fiatjaf8 2 Feb nostr"
+  },
+  {
+    "id": 668,
+    "title": "The Sovereign Bitcoiner is on nostr",
+    "link": "10 sats \\ 1 comments \\ @SovrnBitcoiner 2 Feb nostr",
+    "metadata": "669"
+  },
+  {
+    "id": null,
+    "title": "iris.to/#/post/note1n4ve0az8gaa5e88zygfhhvs3sv94ge582d59l6ya93dkksng8ghqa97ets",
+    "link": "0 sats \\ 0 comments \\ @mf 2 Feb nostr",
+    "metadata": "670"
+  },
+  {
+    "id": null,
+    "title": "blog.getalby.com/alby-buzz-tbd",
+    "link": "31 sats \\ 0 comments \\ @cryptocoin 2 Feb nostr",
+    "metadata": "671"
+  },
+  {
+    "id": null,
+    "title": "andreneves.xyz/p/the-rise-of-paid-nostr-relays",
+    "link": "641 sats \\ 22 comments \\ @kr 2 Feb nostr",
+    "metadata": "672"
+  },
+  {
+    "id": null,
+    "title": "bitcoinnews.com/what-is-nostr/",
+    "link": "10 sats \\ 0 comments \\ @ashazqk 2 Feb nostr",
+    "metadata": "673"
+  },
+  {
+    "id": null,
+    "title": "beincrypto.com/dorsey-backed-bitcoin-tipping-enabled-twitter-killer-damus-live/",
+    "link": "102 sats \\ 8 comments \\ @Gian 2 Feb nostr",
+    "metadata": "674"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/culture/can-nostr-grow-to-twitter-size",
+    "link": "231 sats \\ 6 comments \\ @pablo 2 Feb nostr freebie",
+    "metadata": "675"
+  },
+  {
+    "id": null,
+    "title": "www.btctimes.com/news/what-is-nostr-how-does-it-work-why-does-it-matter",
+    "link": "112 sats \\ 0 comments \\ @lpop4254 1 Feb nostr",
+    "metadata": "676"
+  },
+  {
+    "id": null,
+    "title": "soundcloud.com/bitcoin-and/ordinals-inscriptions-and-nostr-oh-my-ep665",
+    "link": "72 sats \\ 3 comments \\ @NunyaBidness 1 Feb nostr",
+    "metadata": "677"
+  },
+  {
+    "id": null,
+    "title": "soundcloud.com/bitcoin-and/ordinals-inscriptions-and-nostr-oh-my-ep665",
+    "link": "14 sats \\ 0 comments \\ @david_bennett_c 1 Feb nostr freebie",
+    "metadata": "678"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/matthew_d_green/status/1620832280955719681",
+    "link": "1 sats \\ 6 comments \\ @shyfire131 1 Feb nostr",
+    "metadata": "679"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/culture/twitter-killer-nostr-apple-app-store",
+    "link": "50 sats \\ 2 comments \\ @ebeddor 1 Feb nostr",
+    "metadata": "680"
+  },
+  {
+    "id": null,
+    "title": "apps.apple.com/ca/app/damus/id1628663131",
+    "link": "2623 sats \\ 25 comments \\ @k00b 31 Jan nostr",
+    "metadata": "681"
+  },
+  {
+    "id": null,
+    "title": "tftc.io/martys-bent/issue-1310-the-potential-power-of-nostr/",
+    "link": "118 sats \\ 3 comments \\ @Relight_Motion 31 Jan nostr",
+    "metadata": "682"
+  },
+  {
+    "id": null,
+    "title": "1297 sats \\ 1 comments \\ @claytantor 31 Jan nostr",
+    "link": "683",
+    "metadata": "Show SN: sms2nostr - Post to Nostr via SMS"
+  },
+  {
+    "id": 398,
+    "title": "684",
+    "link": "What is Nostr? Basic Concepts Explained",
+    "metadata": "bitcoinnews.com/what-is-nostr/"
+  },
+  {
+    "id": 22,
+    "title": "685",
+    "link": "Relay-centric Social Nostr app design",
+    "metadata": "bountsr.org/design/2023/01/26/relay-based-design.html"
+  },
+  {
+    "id": 207,
+    "title": "686",
+    "link": "Still no NOSTR app for iPhone?",
+    "metadata": "0 sats \\ 4 comments \\ @Btckittykat 30 Jan nostr"
+  },
+  {
+    "id": 687,
+    "title": "How Nostr Could Reshape Paid Groups",
+    "link": "thebitcoinmanual.com/articles/nostr-reshape-paid-groups/",
+    "metadata": "30 sats \\ 0 comments \\ @TheBTCManual 30 Jan nostr"
+  },
+  {
+    "id": 688,
+    "title": "Cashabi - private, censorship resistant, nostr-native ecash system w/ WabiSabi",
+    "link": "lontivero.github.io/Wiki/html/cashabi.html",
+    "metadata": "568 sats \\ 9 comments \\ @nout 29 Jan nostr"
+  },
+  {
+    "id": 689,
+    "title": "Private DMs Over Nostr",
+    "link": "excalidraw.com/#json=a3QchmPVJTwUmnGRdgWAE,ruanCZyI0JqggZlZOrLm_A",
+    "metadata": "159 sats \\ 4 comments \\ @SebasWouters 29 Jan nostr"
+  },
+  {
+    "id": 690,
+    "title": "Seed Signer + Nostr nip-26 delegation",
+    "link": "mobile.twitter.com/KeithMukai/status/1619534558529228800",
+    "metadata": "164 sats \\ 0 comments \\ @Gian 29 Jan nostr"
+  },
+  {
+    "id": 691,
+    "title": "Find me and the Bitcoin And . . . Podcast on nostr!",
+    "link": "120 sats \\ 0 comments \\ @Bennd77 29 Jan nostr",
+    "metadata": "692"
+  },
+  {
+    "id": null,
+    "title": "github.com/fiatjaf/nocomment",
+    "link": "1282 sats \\ 3 comments \\ @cryptocoin 28 Jan nostr",
+    "metadata": "693"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/MrKukks/status/1619294492854747138",
+    "link": "2730 sats \\ 5 comments \\ @nout 28 Jan nostr",
+    "metadata": "694"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/getAlby/status/1618567490103312384",
+    "link": "302 sats \\ 2 comments \\ @Alby 27 Jan nostr",
+    "metadata": "695"
+  },
+  {
+    "id": null,
+    "title": "protos.com/what-is-nostr-and-why-do-bitcoiners-love-it/",
+    "link": "383 sats \\ 6 comments \\ @rujgev 27 Jan nostr",
+    "metadata": "696"
+  },
+  {
+    "id": null,
+    "title": "gist.github.com/nopara73/bb17e89d7dc9af536ca41f50f705d329",
+    "link": "68 sats \\ 2 comments \\ @cryptocoin 27 Jan nostr",
+    "metadata": "697"
+  },
+  {
+    "id": null,
+    "title": "133 sats \\ 0 comments \\ @WordForm 26 Jan nostr",
+    "link": "698",
+    "metadata": "Got onto nostr this morning... running into issues, then got led here"
+  },
+  {
+    "id": 301,
+    "title": "699",
+    "link": "Nostr Metadata",
+    "metadata": "metadata.nostr.com/"
+  },
+  {
+    "id": 0,
+    "title": "700",
+    "link": "Nostr private key stolen of verified account",
+    "metadata": "0 sats \\ 2 comments \\ @Gian 26 Jan nostr"
+  },
+  {
+    "id": 701,
+    "title": "Monetisation Within The Nostr Ecosystem",
+    "link": "thebitcoinmanual.com/articles/monetisation-nostr-ecosystem/",
+    "metadata": "124 sats \\ 0 comments \\ @TheBTCManual 26 Jan nostr"
+  },
+  {
+    "id": 702,
+    "title": "Notebin | Lightning Tips on Nostr using Alby Wallet | Demo",
+    "link": "www.youtube.com/watch?v=2Ju235eZr5Q",
+    "metadata": "145 sats \\ 1 comments \\ @chrisatmachine 26 Jan nostr freebie"
+  },
+  {
+    "id": 703,
+    "title": "Nostr in Breez: call for Nostr devs",
+    "link": "2794 sats \\ 10k boost \\ 23 comments \\ @roy 25 Jan nostr",
+    "metadata": "704"
+  },
+  {
+    "id": null,
+    "title": "hitony.com/nostrogen/",
+    "link": "170 sats \\ 0 comments \\ @nym 25 Jan nostr",
+    "metadata": "705"
+  },
+  {
+    "id": null,
+    "title": "hitony.com/nostrogen/",
+    "link": "244 sats \\ 0 comments \\ @Glasgow 25 Jan nostr",
+    "metadata": "706"
+  },
+  {
+    "id": null,
+    "title": "www.nostrica.com/",
+    "link": "1134 sats \\ 11 comments \\ @n3po 24 Jan nostr",
+    "metadata": "707"
+  },
+  {
+    "id": null,
+    "title": "20 sats \\ 0 comments \\ @nostr 24 Jan nostr",
+    "link": "708",
+    "metadata": "Quick Start Guide for Nostr"
+  },
+  {
+    "id": 5,
+    "title": "709",
+    "link": "@nostr's bio",
+    "metadata": "28 sats \\ 1 comments \\ @nostr 24 Jan nostr"
+  },
+  {
+    "id": 710,
+    "title": "Snowden on Bitcoin, LN and Nostr",
+    "link": "0 sats \\ 1 comments \\ @dtonon 24 Jan nostr",
+    "metadata": "711"
+  },
+  {
+    "id": null,
+    "title": "15 sats \\ 8 comments \\ @Syturio 24 Jan nostr",
+    "link": "712",
+    "metadata": "Snowden on the Lightning Network on Nostr"
+  },
+  {
+    "id": null,
+    "title": "441 sats \\ 7 comments \\ @ama 24 Jan nostr",
+    "link": "713",
+    "metadata": "What are the best Nostr Web and Android clients with LN support?"
+  },
+  {
+    "id": 803,
+    "title": "714",
+    "link": "Who came up with the name Nostr and what does it mean?",
+    "metadata": "5 sats \\ 1 comments \\ @SantaNotSanta 24 Jan nostr"
+  },
+  {
+    "id": 715,
+    "title": "Edward Snowden on Nostr!",
+    "link": "snort.social/e/note1qmdvmgxv0wpstkc7lq23kysnz77qkxkcum0969e83xjdtgs3ujlsmcmdqr",
+    "metadata": "1042 sats \\ 21 comments \\ @dtonon 23 Jan nostr"
+  },
+  {
+    "id": 716,
+    "title": "The ICANN Domain Problem, Solved With Nostr?",
+    "link": "434 sats \\ 14 comments \\ @freakoverse 23 Jan nostr freebie",
+    "metadata": "717"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/brands-should-add-nostr-support/",
+    "link": "227 sats \\ 0 comments \\ @TheBTCManual 23 Jan nostr",
+    "metadata": "718"
+  },
+  {
+    "id": null,
+    "title": "youtube.com/shorts/UhVljTntsPo?feature=share",
+    "link": "138 sats \\ 0 comments \\ @edblock 22 Jan nostr",
+    "metadata": "719"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/sash__mit/status/1616796579108892677",
+    "link": "1 sats \\ 1 comments \\ @moel 22 Jan nostr",
+    "metadata": "720"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/nostr-needs-reputation-management/",
+    "link": "365 sats \\ 6 comments \\ @TheBTCManual 22 Jan nostr",
+    "metadata": "721"
+  },
+  {
+    "id": null,
+    "title": "645 sats \\ 6 comments \\ @DiracDelta 21 Jan nostr",
+    "link": "722",
+    "metadata": "Shitcoiners are also starting to use #Nostr"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 2 comments \\ @moel 21 Jan nostr",
+    "link": "723",
+    "metadata": "Will Nostr put people back in control of their data?"
+  },
+  {
+    "id": 1531,
+    "title": "724",
+    "link": "Nostr - 10 hypotheses",
+    "metadata": "www.youtube.com/watch?v=tClZkGVLvVs"
+  },
+  {
+    "id": 714,
+    "title": "725",
+    "link": "emon: encrypted messaging over nostr with lightning integration ⚡",
+    "metadata": "emon.chat"
+  },
+  {
+    "id": 489,
+    "title": "726",
+    "link": "Jack Planning nostrica - a Nostr conference in Costa Rica",
+    "metadata": "docs.google.com/document/d/1Gsv09gfuwhqhQerIkxeYQ7iOTjOHUC5oTnL2KKyHpR8/edit#"
+  },
+  {
+    "id": 2076,
+    "title": "727",
+    "link": "Jack paying 1.2+ BTC bounty for best github clone on nostr",
+    "metadata": "snort.social/e/note1pvny9lsv7j3ufkhnzkld65uzyen50wfdjzwxpa6nlytqew3ay86s4d60js"
+  },
+  {
+    "id": 1101,
+    "title": "728",
+    "link": "Sending Cashu over nostr",
+    "metadata": "twitter.com/CashuBTC/status/1616063616150634498"
+  },
+  {
+    "id": 41,
+    "title": "729",
+    "link": "What the Fuck is Nostr? - Love is Bitcoin",
+    "metadata": "loveisbitcoin.com/what-the-fuck-is-nostr/"
+  },
+  {
+    "id": 0,
+    "title": "730",
+    "link": "NOSTR Ostrich or Blue Bird? ",
+    "metadata": "112 sats \\ 10k boost \\ 4 comments \\ @omen 19 Jan nostr"
+  },
+  {
+    "id": 731,
+    "title": "How To Use NOSTR - A Decentralized Censorship Resistant Social Layer",
+    "link": "youtu.be/qn-Zp491t4Y",
+    "metadata": "5338 sats \\ 6 comments \\ @BTCsessions 18 Jan nostr"
+  },
+  {
+    "id": 732,
+    "title": "How To Use NOSTR - A Decentralized Censorship Resistant Social Layer",
+    "link": "www.youtube.com/watch?v=qn-Zp491t4Y",
+    "metadata": "111 sats \\ 3 comments \\ @Wumbo 18 Jan nostr"
+  },
+  {
+    "id": 733,
+    "title": "Nostr (Poll) ",
+    "link": "299 sats \\ 9 comments \\ @muteness11 18 Jan nostr",
+    "metadata": "734"
+  },
+  {
+    "id": null,
+    "title": "substack.com/inbox/post/97392126",
+    "link": "402 sats \\ 1 comments \\ @dk 18 Jan nostr",
+    "metadata": "735"
+  },
+  {
+    "id": null,
+    "title": "snort.social/",
+    "link": "113 sats \\ 0 comments \\ @verbiricha 18 Jan nostr",
+    "metadata": "736"
+  },
+  {
+    "id": null,
+    "title": "github.com/Cameri/nostream",
+    "link": "708 sats \\ 2 comments \\ @cameri 18 Jan nostr",
+    "metadata": "737"
+  },
+  {
+    "id": null,
+    "title": "www.curiousdk.com/p/whats-new-with-stackernews-and-nostr",
+    "link": "5983 sats \\ 6 comments \\ @dk 17 Jan nostr",
+    "metadata": "738"
+  },
+  {
+    "id": null,
+    "title": "blog.getalby.com/how-to-use-nostr-with-the-alby-extension/",
+    "link": "497 sats \\ 2 comments \\ @Alby 17 Jan nostr",
+    "metadata": "739"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/LbS5hjWobyE",
+    "link": "60 sats \\ 0 comments \\ @edblock 17 Jan nostr",
+    "metadata": "740"
+  },
+  {
+    "id": null,
+    "title": "bitcoinmagazine.com/technical/solving-nostr-key-management-issues",
+    "link": "1133 sats \\ 5 comments \\ @cryptocoin 17 Jan nostr",
+    "metadata": "741"
+  },
+  {
+    "id": null,
+    "title": "nostr-dex.vercel.app/",
+    "link": "0 sats \\ 0 comments \\ @moel 16 Jan nostr",
+    "metadata": "742"
+  },
+  {
+    "id": null,
+    "title": "blog.getalby.com/how-to-use-nostr-with-the-alby-extension/",
+    "link": "31 sats \\ 0 comments \\ @DogFac3 16 Jan nostr",
+    "metadata": "743"
+  },
+  {
+    "id": null,
+    "title": "nostr-resources.com/",
+    "link": "219 sats \\ 3 comments \\ @lpop4254 16 Jan nostr",
+    "metadata": "744"
+  },
+  {
+    "id": null,
+    "title": "12 sats \\ 4 comments \\ @pony 16 Jan nostr",
+    "link": "745",
+    "metadata": "Coin join over nostr?"
+  },
+  {
+    "id": 10,
+    "title": "746",
+    "link": "Nostr vs. Session",
+    "metadata": "0 sats \\ 5 comments \\ @weatherall 15 Jan nostr"
+  },
+  {
+    "id": 747,
+    "title": "8 Reasons Why Content Creators Should Be Using Nostr",
+    "link": "thebitcoinmanual.com/articles/8-reasons-why-content-creators-should-be-using-nostr/",
+    "metadata": "43 sats \\ 0 comments \\ @TheBTCManual 15 Jan nostr"
+  },
+  {
+    "id": 748,
+    "title": "Adding tipping LN address to Nostr account?",
+    "link": "0 sats \\ 6 comments \\ @satcat 14 Jan nostr",
+    "metadata": "749"
+  },
+  {
+    "id": null,
+    "title": "t.co/q9NCP5WrZt",
+    "link": "10 sats \\ 0 comments \\ @RealCoachAndy 14 Jan nostr",
+    "metadata": "750"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=yRlW3rJTVmU",
+    "link": "10.5k sats \\ 3 comments \\ @bumi 14 Jan nostr",
+    "metadata": "751"
+  },
+  {
+    "id": null,
+    "title": "606 sats \\ 10 comments \\ @pi 14 Jan nostr",
+    "link": "752",
+    "metadata": "Why I'm Betting Big on Nostr"
+  },
+  {
+    "id": null,
+    "title": "2417 sats \\ 10k boost \\ 29 comments \\ @MaxAWebster 13 Jan nostr",
+    "link": "753",
+    "metadata": "For Android, try Alby with Kiwi Browser for sleek Nostr and WebLN usage ⚡"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 5 comments \\ @Badmadbrad 13 Jan nostr",
+    "link": "754",
+    "metadata": "5 Types Of Nostr Relays"
+  },
+  {
+    "id": null,
+    "title": "269 sats \\ 4 comments \\ @TheBTCManual 13 Jan nostr",
+    "link": "755",
+    "metadata": "BR018 - Nostr Deep Dive Panel with NVK ft Jack Dorsey, Fiatjaf & William Casarin"
+  },
+  {
+    "id": null,
+    "title": "24 sats \\ 1 comments \\ @runningbitcoin 13 Jan nostr",
+    "link": "756",
+    "metadata": "Nostr protocol"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @ashazqk 12 Jan nostr",
+    "link": "757",
+    "metadata": "Free Speech, nostr, and the rust language | Mike Dilger 🎧"
+  },
+  {
+    "id": null,
+    "title": "36 sats \\ 0 comments \\ @cryptocoin 12 Jan nostr",
+    "link": "758",
+    "metadata": "What is Nostr, and how to start using Nostr"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @ashazqk 12 Jan nostr",
+    "link": "759",
+    "metadata": "Ads on Nostr "
+  },
+  {
+    "id": 440,
+    "title": "760",
+    "link": "What nostr client do you use? ",
+    "metadata": "899 sats \\ 21 comments \\ @joelklabo 12 Jan nostr"
+  },
+  {
+    "id": 761,
+    "title": "Nostr: A censorship-resistant messaging protocol · Issue #196 · net4people/bbs",
+    "link": "github.com/net4people/bbs/issues/196#issuecomment-1379713057",
+    "metadata": "166 sats \\ 0 comments \\ @satup 12 Jan nostr"
+  },
+  {
+    "id": 762,
+    "title": "So how do you say NOSTR??",
+    "link": "1 sats \\ 8 comments \\ @newnym 12 Jan nostr",
+    "metadata": "763"
+  },
+  {
+    "id": null,
+    "title": "254 sats \\ 0 comments \\ @lukeonchain 12 Jan nostr",
+    "link": "764",
+    "metadata": "The Nostr Protocol is a New Vision for Online Communications"
+  },
+  {
+    "id": null,
+    "title": "111 sats \\ 1 comments \\ @husseinb 11 Jan nostr",
+    "link": "765",
+    "metadata": "The Nostr Protocol is a New Vision for Online Communications"
+  },
+  {
+    "id": null,
+    "title": "10 sats \\ 0 comments \\ @nym 11 Jan nostr",
+    "link": "766",
+    "metadata": "The Nostr Protocol is a New Vision for Online Communications"
+  },
+  {
+    "id": null,
+    "title": "35 sats \\ 0 comments \\ @k00b 11 Jan nostr",
+    "link": "767",
+    "metadata": "Search Bots for Nostr"
+  },
+  {
+    "id": 1560,
+    "title": "768",
+    "link": "NIP-47: BIP-47 payment code notification via Nostr DM",
+    "metadata": "github.com/nostr-protocol/nips/pull/165"
+  },
+  {
+    "id": 0,
+    "title": "769",
+    "link": "Nostr Plebs / much better than Twitter spaces",
+    "metadata": "spaces.nostrplebs.com/general"
+  },
+  {
+    "id": 2,
+    "title": "770",
+    "link": "Bitcoiners Are Flocking To Nostr, But What Makes It Different Than Twitter?",
+    "metadata": "bitcoinmagazine.com/technical/what-makes-nostr-a-different-social-platform?utm_source=carrot&utm_medium=partner&utm_campaign=carrot_share"
+  },
+  {
+    "id": 256,
+    "title": "771",
+    "link": "Is it appropriate to share my NOSTR public key over here?",
+    "metadata": "15 sats \\ 2 comments \\ @leafophonist 10 Jan nostr"
+  },
+  {
+    "id": 772,
+    "title": "Nostr lately is everywhere: LNbits Marketplace coming soon!",
+    "link": "127 sats \\ 0 comments \\ @dtonon 10 Jan nostr",
+    "metadata": "773"
+  },
+  {
+    "id": null,
+    "title": "bitcoin.review/podcast/episode-18/",
+    "link": "576 sats \\ 13 comments \\ @cypher_funk 10 Jan nostr",
+    "metadata": "774"
+  },
+  {
+    "id": null,
+    "title": "uselessshit.co/resources/nostr/",
+    "link": "0 sats \\ 0 comments \\ @pitiunited 10 Jan nostr",
+    "metadata": "775"
+  },
+  {
+    "id": null,
+    "title": "secretgnome.prose.sh/first-post",
+    "link": "0 sats \\ 1 comments \\ @secretgnome 10 Jan nostr",
+    "metadata": "776"
+  },
+  {
+    "id": null,
+    "title": "40 sats \\ 0 comments \\ @starbuilder 10 Jan nostr",
+    "link": "777",
+    "metadata": "Nostr Relays-As-A-Service launched"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @edblock 10 Jan nostr",
+    "link": "778",
+    "metadata": "Money & Trust in Digital Society: Bitcoin, Nostr and digital objects in B2B"
+  },
+  {
+    "id": null,
+    "title": "48 sats \\ 2 comments \\ @edblock 10 Jan nostr",
+    "link": "779",
+    "metadata": "Announcing Relay.Farm - 1-Click Nostr Relays"
+  },
+  {
+    "id": null,
+    "title": "283 sats \\ 1 comments \\ @BitcoinNewsCom 10 Jan nostr",
+    "link": "780",
+    "metadata": "Why Nostr > Twitter?"
+  },
+  {
+    "id": 116,
+    "title": "781",
+    "link": "hoytech/strfry: a nostr relay written in C++",
+    "metadata": "github.com/hoytech/strfry"
+  },
+  {
+    "id": 80,
+    "title": "782",
+    "link": "Startr for nostr a secure way to keystore your keys in desktop",
+    "metadata": "1471 sats \\ 4 comments \\ @gzuuus_ 9 Jan nostr"
+  },
+  {
+    "id": 783,
+    "title": "ChatGPT summaries of all Nostr Improvement Proposals",
+    "link": "770 sats \\ 8 comments new \\ @k00b 9 Jan nostr",
+    "metadata": "784"
+  },
+  {
+    "id": null,
+    "title": "1563 sats \\ 11 comments \\ @kc_hodl 9 Jan nostr",
+    "link": "785",
+    "metadata": "NOSTR - NOFX inspired T-shirt (Proceeds go to Damus development @jb55)"
+  },
+  {
+    "id": null,
+    "title": "132 sats \\ 8 comments \\ @BrandonNakamoto 9 Jan nostr",
+    "link": "786",
+    "metadata": "I started a fight - nostr relay on LN/btc node?"
+  },
+  {
+    "id": 26,
+    "title": "787",
+    "link": "Nostr Bushido.Guide",
+    "metadata": "bushido.guide/explorer/nostr"
+  },
+  {
+    "id": 1,
+    "title": "788",
+    "link": "Nostrum Search Relays Open | Nostr",
+    "metadata": "nostrum.pro/search/#relays"
+  },
+  {
+    "id": 21,
+    "title": "789",
+    "link": "Will p2p markets for services over nostr replace Uber, Fiverr, DoorDash, etc?",
+    "metadata": "285 sats \\ 6 comments \\ @DiracDelta 8 Jan nostr"
+  },
+  {
+    "id": 790,
+    "title": "Nostrovia Podcast",
+    "link": "nostrovia.org",
+    "metadata": "0 sats \\ 2 comments \\ @edblock 8 Jan nostr"
+  },
+  {
+    "id": 791,
+    "title": "nos2x: nostr signer extension",
+    "link": "github.com/fiatjaf/nos2x",
+    "metadata": "24 sats \\ 0 comments \\ @ama 8 Jan nostr"
+  },
+  {
+    "id": 792,
+    "title": "Millions of Twitter user email addresses 'stolen' - #FuckTheBird and use #Nostr",
+    "link": "www.bbc.com/news/technology-64153381.amp",
+    "metadata": "0 sats \\ 2 comments \\ @ama 8 Jan nostr"
+  },
+  {
+    "id": 793,
+    "title": "Getting started with Nostr",
+    "link": "claytantor.wordpress.com/2023/01/07/my-nostr-101/",
+    "metadata": "20 sats \\ 1 comments \\ @nym 8 Jan nostr"
+  },
+  {
+    "id": 794,
+    "title": "nostr 101 with astral.ninja - getting started guide",
+    "link": "63 sats \\ 2 comments \\ @claytantor 8 Jan nostr",
+    "metadata": "795"
+  },
+  {
+    "id": null,
+    "title": "37 sats \\ 5 comments \\ @starbuilder 7 Jan nostr",
+    "link": "796",
+    "metadata": "Nostr History Plus (PT)"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @edblock 7 Jan nostr",
+    "link": "797",
+    "metadata": "Login with Nostr · Issue #154 · nostr-protocol/nips"
+  },
+  {
+    "id": null,
+    "title": "478 sats \\ 3 comments \\ @027b62d3d0 7 Jan nostr",
+    "link": "798",
+    "metadata": "KoalaSat/nostros: A NOSTR mobile client"
+  },
+  {
+    "id": null,
+    "title": "45 sats \\ 3 comments \\ @nym 7 Jan nostr",
+    "link": "799",
+    "metadata": "MostroP2P/mostro: Lightning Network peer-to-peer nostr platform"
+  },
+  {
+    "id": null,
+    "title": "1232 sats \\ 4 comments \\ @nym 7 Jan nostr",
+    "link": "800",
+    "metadata": "Nostr Verification for Bitcoiners Users"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 3 comments \\ @edblock 7 Jan nostr",
+    "link": "801",
+    "metadata": "nostr and anonymity"
+  },
+  {
+    "id": 279,
+    "title": "802",
+    "link": "nosbin - The decentralized pasting platform, built on nostr - Simply amazing!",
+    "metadata": "nosbin.com/"
+  },
+  {
+    "id": 273,
+    "title": "803",
+    "link": "If you're not trying out nostr then you're missing out.",
+    "metadata": "73 sats \\ 12 comments \\ @Bennd77 7 Jan nostr"
+  },
+  {
+    "id": 804,
+    "title": "Adding Nostr NIP-05 Verification to Your Blog (Jekyll)",
+    "link": "klabo.blog/nostr/damus/2023/01/04/adding-nip-05-verification-to-your-blog.html",
+    "metadata": "0 sats \\ 0 comments \\ @joelklabo 7 Jan nostr"
+  },
+  {
+    "id": 805,
+    "title": "nostr test",
+    "link": "0 sats \\ 5 comments \\ @Bennd77 7 Jan nostr",
+    "metadata": "806"
+  },
+  {
+    "id": null,
+    "title": "7610 sats \\ 54 comments \\ @k00b 7 Jan nostr",
+    "link": "807",
+    "metadata": "LNBits has a new Nostr NIP-5 Verification Extension"
+  },
+  {
+    "id": null,
+    "title": "1562 sats \\ 3 comments \\ @BitcoinJungleCR 6 Jan nostr",
+    "link": "808",
+    "metadata": "For the Nostr crowd: please develop a Podping to Nostr repeater"
+  },
+  {
+    "id": 1,
+    "title": "809",
+    "link": "Bitcoin And Nostr - The Real Decentralized Social Network",
+    "metadata": "fountain.fm/clip/5Lg545aeZkGStryxmT2h"
+  },
+  {
+    "id": 51,
+    "title": "810",
+    "link": "NOSTR Newcomers Most Common Questions and Answers",
+    "metadata": "uselessshit.co/resources/nostr/"
+  },
+  {
+    "id": 33,
+    "title": "811",
+    "link": "Does SN have a nostr strategy?",
+    "metadata": "1427 sats \\ 25 comments \\ @pi 6 Jan nostr"
+  },
+  {
+    "id": 812,
+    "title": "Introduction Nostr",
+    "link": "www.youtube.com/watch?v=RfdBU4i6jKw",
+    "metadata": "10 sats \\ 0 comments \\ @edblock 6 Jan nostr"
+  },
+  {
+    "id": 813,
+    "title": "Jordan Peterson Needs Nostr (and Bitcoin) - EP 647 | Simply Bitcoin 📺",
+    "link": "www.youtube.com/watch?v=4zVdxWT-eEg",
+    "metadata": "1057 sats \\ 15 comments \\ @cryptocoin 5 Jan nostr"
+  },
+  {
+    "id": 814,
+    "title": "Peach Bitcoin integrating with Nostr???",
+    "link": "1 sats \\ 3 comments \\ @BrandonNakamoto 5 Jan nostr",
+    "metadata": "815"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @edblock 5 Jan nostr",
+    "link": "816",
+    "metadata": "My SN tips helped buy my nostr handle 🙏🏼"
+  },
+  {
+    "id": 25,
+    "title": "817",
+    "link": "Nostr 2.0: Layer 2 Off-Chain Data Storage. Syncing Relays and Paying them...",
+    "metadata": "medium.com/coinmonks/nostr-2-0-layer-2-off-chain-data-storage-b7d299078c60"
+  },
+  {
+    "id": 152,
+    "title": "818",
+    "link": "cash.app has jack's pubkey in nostr.json",
+    "metadata": "cash.app/.well-known/nostr.json"
+  },
+  {
+    "id": 137,
+    "title": "819",
+    "link": "Nostr Verified : NIP-05 Verification",
+    "metadata": "nostrverified.com/"
+  },
+  {
+    "id": 22,
+    "title": "820",
+    "link": "Nostr 2.0: Layer 2 Off-Chain Data Storage",
+    "metadata": "medium.com/@colbyserpa/nostr-2-0-layer-2-off-chain-data-storage-b7d299078c60"
+  },
+  {
+    "id": 272,
+    "title": "821",
+    "link": "Nostr - Decentralized Social Media & Bitcoin w/ William Casarin",
+    "metadata": "www.youtube.com/watch?v=8GhEezzto4Y"
+  },
+  {
+    "id": 2212,
+    "title": "822",
+    "link": "Just a quick no BS guide to get on Nostr for lazy people",
+    "metadata": "0billionuplink.substack.com/p/fast-and-simple-nostr-setup"
+  },
+  {
+    "id": 30,
+    "title": "823",
+    "link": "Can nostr scale to 1 billion users?",
+    "metadata": "520 sats \\ 15 comments \\ @taxd 3 Jan nostr"
+  },
+  {
+    "id": 824,
+    "title": "Looking for Nostr for Dummies",
+    "link": "11 sats \\ 2 comments \\ @brxyz 3 Jan nostr",
+    "metadata": "825"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/TheArcApp/status/1609817044463017984",
+    "link": "0 sats \\ 0 comments \\ @edblock 2 Jan nostr",
+    "metadata": "826"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/nostr-relay/",
+    "link": "187 sats \\ 7 comments \\ @TheBTCManual 2 Jan nostr",
+    "metadata": "827"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/patrickluberus/status/1607729969597190144?s=20&t=3GEyRDlYPKL0l5xQQQkAGQ",
+    "link": "1 sats \\ 0 comments \\ @weatherall 2 Jan nostr",
+    "metadata": "828"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/1mdg6mDMedc",
+    "link": "1 sats \\ 0 comments \\ @ama 1 Jan nostr",
+    "metadata": "829"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/i/spaces/1zqJVPplpXDKB",
+    "link": "0 sats \\ 0 comments \\ @edblock 31 Dec 2022 nostr",
+    "metadata": "830"
+  },
+  {
+    "id": null,
+    "title": "member.cash/p/b31b9ebb3f",
+    "link": "5 sats \\ 3 comments \\ @edblock 31 Dec 2022 nostr",
+    "metadata": "831"
+  },
+  {
+    "id": null,
+    "title": "thebitcoinmanual.com/articles/nostr-account-nip-05-verified/",
+    "link": "40 sats \\ 2 comments \\ @TheBTCManual 31 Dec 2022 nostr",
+    "metadata": "832"
+  },
+  {
+    "id": null,
+    "title": "lightning.store/product/nostr/",
+    "link": "20 sats \\ 2 comments \\ @ltngstore 31 Dec 2022 nostr",
+    "metadata": "833"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/andreneves/status/1608915310048051200",
+    "link": "170 sats \\ 5000 boost \\ 2 comments \\ @andreneves 30 Dec 2022 nostr",
+    "metadata": "834"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 1 comments \\ @ln123 30 Dec 2022 nostr",
+    "link": "835",
+    "metadata": "Updated list of Nostr resources for newcomers"
+  },
+  {
+    "id": 256,
+    "title": "836",
+    "link": "Nostr image uploader and viewer",
+    "metadata": "nostr.build/"
+  },
+  {
+    "id": 62,
+    "title": "837",
+    "link": "Nostr Introdution",
+    "metadata": "medium.com/@ValentinNagacevschi/nosrt-an-introduction-ab946879a727"
+  },
+  {
+    "id": 0,
+    "title": "838",
+    "link": "Nostr Is Solution For Hack and Twitter Dates",
+    "metadata": "cybernews.com/news/twitter-data-leaked-400-million-user-details-up-for-sale/"
+  },
+  {
+    "id": 0,
+    "title": "839",
+    "link": "NOSTR.SUCKS",
+    "metadata": "nostr.sucks"
+  },
+  {
+    "id": 419,
+    "title": "840",
+    "link": "Nostr Security and Privacy Tips",
+    "metadata": "ron.stoner.com/nostr_Security_and_Privacy/"
+  },
+  {
+    "id": 32,
+    "title": "841",
+    "link": "Nostr Is The Decentralized Protocol That Might Replace Elon Musk’s Twitter",
+    "metadata": "www.forbes.com/sites/rogerhuang/2022/12/29/nostr-is-the-decentralized-protocol-that-might-replace-elon-musks-twitter/"
+  },
+  {
+    "id": 1573,
+    "title": "842",
+    "link": "Is NOSTR re-inventing USENET?",
+    "metadata": "news.ycombinator.com/item?id=34170447"
+  },
+  {
+    "id": 163,
+    "title": "843",
+    "link": "BTC/LN and NOSTR client and relay in webAssembly?",
+    "metadata": "21 sats \\ 5 comments \\ @moel 29 Dec 2022 nostr"
+  },
+  {
+    "id": 844,
+    "title": "What I Have Learned About Nostr So Far (free for 72 hours, before LN Paywall)",
+    "link": "narrativerry.xyz/blog/2022/12/28/what-i-have-learned-about-nostr-so-far/",
+    "metadata": "202 sats \\ 22 comments \\ @demitasse 28 Dec 2022 nostr"
+  },
+  {
+    "id": 845,
+    "title": "SN nostr public key directory?",
+    "link": "10 sats \\ 0 comments \\ @siggy47 28 Dec 2022 nostr",
+    "metadata": "846"
+  },
+  {
+    "id": null,
+    "title": "1363 sats \\ 2 comments \\ @bitgould 28 Dec 2022 nostr",
+    "link": "847",
+    "metadata": "BTC110: Japanese Credit Markets, Bitcoin, & Nostr w/ James Lavish"
+  },
+  {
+    "id": null,
+    "title": "136 sats \\ 1 comments \\ @soggycakes 28 Dec 2022 nostr",
+    "link": "848",
+    "metadata": "What Is Nostr?"
+  },
+  {
+    "id": null,
+    "title": "11 sats \\ 6 comments \\ @TheBTCManual 28 Dec 2022 nostr",
+    "link": "849",
+    "metadata": "@nostrkey's bio"
+  },
+  {
+    "id": 11,
+    "title": "850",
+    "link": "Stacker News <> Nostr Integration",
+    "metadata": "1958 sats \\ 55 comments \\ @kr 28 Dec 2022 nostr"
+  },
+  {
+    "id": 851,
+    "title": "Nostr Android client (alpha)",
+    "link": "bitcoinhackers.org/@derekross/109583591134180153",
+    "metadata": "60 sats \\ 0 comments \\ @030f10e68b 27 Dec 2022 nostr"
+  },
+  {
+    "id": 852,
+    "title": "NOSTR Resources",
+    "link": "757 sats \\ 8 comments \\ @beefbutterbaconeggsbitcoin 27 Dec 2022 nostr",
+    "metadata": "853"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/CashuBTC/status/1607423255681318914",
+    "link": "478 sats \\ 17 comments \\ @Pine 27 Dec 2022 nostr",
+    "metadata": "854"
+  },
+  {
+    "id": null,
+    "title": "44 sats \\ 2 comments \\ @tats 27 Dec 2022 nostr freebie",
+    "link": "855",
+    "metadata": "Lightning Network invoices in Nostr's astral.ninja client look fantastic!"
+  },
+  {
+    "id": 455,
+    "title": "856",
+    "link": "What do you think of this flow for tipping Nostr notes?",
+    "metadata": "www.twitter.com/fiatjaf/status/1606801393574084608"
+  },
+  {
+    "id": 1,
+    "title": "857",
+    "link": "Welcome to Nostr Plebs!",
+    "metadata": "nostrplebs.com/"
+  },
+  {
+    "id": 1,
+    "title": "858",
+    "link": "Nostr will Decentralize the web? : Pippellia's Twitter Thread",
+    "metadata": "twitter.com/pippellia/status/1605970256807206912?s=20&t=VUSVdPBDUtu68JQsLiUcTQ"
+  },
+  {
+    "id": 4045,
+    "title": "859",
+    "link": "What are your thoughts on Nostr project",
+    "metadata": "80 sats \\ 8 comments \\ @playbuttonscore 24 Dec 2022 nostr"
+  },
+  {
+    "id": 860,
+    "title": "NostrPlebs.com Nostr NIP-05 ID registration and hosting service",
+    "link": "3253 sats \\ 9 comments \\ @derekross 24 Dec 2022 nostr",
+    "metadata": "861"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/watch?v=lR3dH5J1cyw",
+    "link": "2 sats \\ 0 comments \\ @TheWildHustle 22 Dec 2022 nostr",
+    "metadata": "862"
+  },
+  {
+    "id": null,
+    "title": "github.com/cryptoquick/nostr-guide/blob/main/README.md",
+    "link": "134 sats \\ 5000 boost \\ 0 comments \\ @cryptoquick 22 Dec 2022 nostr",
+    "metadata": "863"
+  },
+  {
+    "id": 6,
+    "title": "110 sats \\ 14 comments \\ @cryotosensei 22 Dec 2022 nostr",
+    "link": "864",
+    "metadata": "Consent | Nostr Privacy"
+  },
+  {
+    "id": null,
+    "title": "3804 sats \\ 8 comments \\ @Valley_D0g 22 Dec 2022 nostr",
+    "link": "865",
+    "metadata": "Bitcoin and Nostr Protocol Revolution"
+  },
+  {
+    "id": 1,
+    "title": "866",
+    "link": "Nostr with Bitcoin and Lightning Network will change the world.",
+    "metadata": "30 sats \\ 1 comments \\ @PiyasPual 22 Dec 2022 nostr"
+  },
+  {
+    "id": 867,
+    "title": "Story of Nostr Freedom",
+    "link": "81 sats \\ 0 comments \\ @harambe 22 Dec 2022 nostr",
+    "metadata": "868"
+  },
+  {
+    "id": null,
+    "title": "www.bitcoinminimalist.com/p/bitcoin-minimalist-week-19-grayscale",
+    "link": "126 sats \\ 0 comments \\ @utxo 22 Dec 2022 nostr",
+    "metadata": "869"
+  },
+  {
+    "id": null,
+    "title": "nostrspaces.com/",
+    "link": "38 sats \\ 6 comments \\ @02425e252d 22 Dec 2022 nostr",
+    "metadata": "870"
+  },
+  {
+    "id": null,
+    "title": "nostr.net/",
+    "link": "1 sats \\ 0 comments \\ @nym 22 Dec 2022 nostr",
+    "metadata": "871"
+  },
+  {
+    "id": null,
+    "title": "5199 sats \\ 35 comments \\ @guyfawkes 22 Dec 2022 nostr",
+    "link": "872",
+    "metadata": "What is the best way to secure a Nostr private Key?"
+  },
+  {
+    "id": 574,
+    "title": "873",
+    "link": "Could/should Stacker.News be rebuilt with nostr?",
+    "metadata": "20 sats \\ 2 comments \\ @decentmoney2009 21 Dec 2022 nostr"
+  },
+  {
+    "id": 874,
+    "title": "What Is Nostr and How Do I Use It?",
+    "link": "www.btctimes.com/news/what-is-nostr-and-how-do-i-use-it",
+    "metadata": "133 sats \\ 0 comments \\ @Roll 21 Dec 2022 nostr"
+  },
+  {
+    "id": 875,
+    "title": "3100+ nostr pubkeys of twitter accounts",
+    "link": "www.nostr.directory",
+    "metadata": "227 sats \\ 7 comments \\ @031b519e5d 21 Dec 2022 nostr"
+  },
+  {
+    "id": 876,
+    "title": "Anigma (NOSTR)",
+    "link": "anigma.io/",
+    "metadata": "21 sats \\ 1 comments \\ @TheWildHustle 21 Dec 2022 nostr"
+  },
+  {
+    "id": 877,
+    "title": "Great Nostr Discussion on Marty Bent's Podcast",
+    "link": "1 sats \\ 0 comments \\ @siggy47 20 Dec 2022 nostr",
+    "metadata": "878"
+  },
+  {
+    "id": null,
+    "title": "nvote.co",
+    "link": "32 sats \\ 3 comments \\ @ski 19 Dec 2022 nostr",
+    "metadata": "879"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/NC1e9Nvq9Xg",
+    "link": "13 sats \\ 0 comments \\ @Bestforyourlife 19 Dec 2022 nostr",
+    "metadata": "880"
+  },
+  {
+    "id": null,
+    "title": "www.youtube.com/live/SxkYxuIY1HU?feature=share",
+    "link": "0 sats \\ 0 comments \\ @User21000000 19 Dec 2022 nostr",
+    "metadata": "881"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/SxkYxuIY1HU",
+    "link": "11 sats \\ 2 comments \\ @edblock 19 Dec 2022 nostr",
+    "metadata": "882"
+  },
+  {
+    "id": null,
+    "title": "843 sats \\ 17 comments \\ @brugeman 19 Dec 2022 nostr",
+    "link": "883",
+    "metadata": "Stacker News Live | SNL #46: Nostr is funded"
+  },
+  {
+    "id": null,
+    "title": "115 sats \\ 1 comments \\ @ThrillerX_ 19 Dec 2022 nostr",
+    "link": "884",
+    "metadata": "Coordinate Bitcoin collaborative JoinMarkets transactions over Nostr"
+  },
+  {
+    "id": null,
+    "title": "216 sats \\ 0 comments \\ @moel 19 Dec 2022 nostr",
+    "link": "885",
+    "metadata": "Bitcoin And Nostr and Other Stuff Transmitted by Relays"
+  },
+  {
+    "id": null,
+    "title": "131 sats \\ 7 comments \\ @edblock 19 Dec 2022 nostr",
+    "link": "886",
+    "metadata": "Twitter Support deleted their Tweets about links to Mastodon, Nostr, etc. 🧵"
+  },
+  {
+    "id": null,
+    "title": "65 sats \\ 3 comments \\ @cointastical 19 Dec 2022 nostr",
+    "link": "887",
+    "metadata": "Twitter bans links, free promo of Nostr two days after Jack Dorsey tweets key"
+  },
+  {
+    "id": null,
+    "title": "565 sats \\ 11 comments \\ @howard 18 Dec 2022 nostr",
+    "link": "888",
+    "metadata": "Nostr account promo to be banned from Twitter, Along with Mastadoon & others"
+  },
+  {
+    "id": null,
+    "title": "274 sats \\ 7 comments \\ @ncryppt 18 Dec 2022 nostr",
+    "link": "889",
+    "metadata": "How to create a memorable Nostr private key"
+  },
+  {
+    "id": null,
+    "title": "67 sats \\ 9 comments \\ @cryptocoin 18 Dec 2022 nostr",
+    "link": "890",
+    "metadata": "Set up a Nostr Relay server in under 5 minutes [quickest getting started guide]"
+  },
+  {
+    "id": null,
+    "title": "586 sats \\ 5000 boost \\ 12 comments \\ @andreneves 17 Dec 2022 nostr",
+    "link": "891",
+    "metadata": "Stackerstan: A DAO built on Bitcoin and Nostr"
+  },
+  {
+    "id": null,
+    "title": "280 sats \\ 6 comments \\ @gsovereignty 17 Dec 2022 nostr",
+    "link": "892",
+    "metadata": "Nostr: Solucionando la censura de una vez por todas - Estudio Bitcoin"
+  },
+  {
+    "id": null,
+    "title": "11 sats \\ 0 comments \\ @agux 17 Dec 2022 nostr",
+    "link": "893",
+    "metadata": "A very complete and full list of Nostr things, not very curated"
+  },
+  {
+    "id": null,
+    "title": "22 sats \\ 0 comments \\ @agux 17 Dec 2022 nostr",
+    "link": "894",
+    "metadata": "ZBD rolls out new Nostr Relay - nostr.zebedee.cloud"
+  },
+  {
+    "id": null,
+    "title": "607 sats \\ 10k boost \\ 6 comments \\ @andreneves 16 Dec 2022 nostr",
+    "link": "895",
+    "metadata": "Jack Dorsey Gives Decentralized Social Network Nostr 14 BTC in Funding"
+  },
+  {
+    "id": null,
+    "title": "0 sats \\ 0 comments \\ @lpop4254 16 Dec 2022 nostr",
+    "link": "896",
+    "metadata": "Nostr Clients - Which do you use and why?"
+  },
+  {
+    "id": 512,
+    "title": "897",
+    "link": "@fiatjaf.com Jack Dorsey has sent me money to fund Nostr development.",
+    "metadata": "5 sats \\ 2 comments \\ @weatherall 16 Dec 2022 nostr"
+  },
+  {
+    "id": 898,
+    "title": "Jack Dorsey Provides 14 Bitcoin Grant to 'Nostr'",
+    "link": "www.nobsbitcoin.com/jack-dorsey-provides-14-bitcoin-grant/",
+    "metadata": "32 sats \\ 0 comments \\ @mf 16 Dec 2022 nostr"
+  },
+  {
+    "id": 899,
+    "title": "🤯 Jack funds the Nostr community with 14BTC!",
+    "link": "www.thrillerbitcoin.com/jack-funds-nostr/",
+    "metadata": "2 sats \\ 0 comments \\ @ama 15 Dec 2022 nostr"
+  },
+  {
+    "id": 900,
+    "title": "A curated list of nostr projects and resources",
+    "link": "www.nostr.net/",
+    "metadata": "1771 sats \\ 5 comments \\ @aljaz 15 Dec 2022 nostr"
+  },
+  {
+    "id": 901,
+    "title": "14 Bitcoin for Nostr from Jack",
+    "link": "twitter.com/jb55/status/1603404721913753600?s=46&t=vGcx_j7BWZYFXZ7bDGGHeg",
+    "metadata": "1211 sats \\ 15 comments \\ @ThrillerX_ 15 Dec 2022 nostr"
+  },
+  {
+    "id": 902,
+    "title": "MOSTRO - p2p LN exchange running on Nostr, by the author of Telegram @lnp2pbot",
+    "link": "mostro.network/",
+    "metadata": "351 sats \\ 4 comments \\ @ama 15 Dec 2022 nostr"
+  },
+  {
+    "id": 903,
+    "title": "Jack Dorsey funding Nostr (?!)",
+    "link": "617 sats \\ 25 comments \\ @dtonon 14 Dec 2022 nostr",
+    "metadata": "904"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/jack/status/1602853632512516096",
+    "link": "581 sats \\ 14 comments \\ @dtonon 14 Dec 2022 nostr",
+    "metadata": "905"
+  },
+  {
+    "id": null,
+    "title": "188 sats \\ 7 comments \\ @CheezeGrater 9 Dec 2022 nostr",
+    "link": "906",
+    "metadata": "nostr.info What is going on in nostr. Stats, Charts, Live Monitors, Resources..."
+  },
+  {
+    "id": null,
+    "title": "379 sats \\ 6 comments \\ @ama 6 Dec 2022 nostr",
+    "link": "907",
+    "metadata": "Minds, Nostr and the future of decentralized social networking"
+  },
+  {
+    "id": null,
+    "title": "196 sats \\ 5 comments \\ @nout 4 Dec 2022 nostr",
+    "link": "908",
+    "metadata": "My new coinjoin wallet is powered by nostr and built for a mobile-first world"
+  },
+  {
+    "id": null,
+    "title": "38k sats \\ 31 comments \\ @super_testnet 1 Dec 2022 nostr",
+    "link": "909",
+    "metadata": "Pitch: Lightning Wallets and WebApps over NOSTR"
+  },
+  {
+    "id": null,
+    "title": "217 sats \\ 0 comments \\ @0330830bf9 24 Nov 2022 nostr",
+    "link": "910",
+    "metadata": "GitHub - grunch/rana: Nostr Public key mining tool"
+  },
+  {
+    "id": null,
+    "title": "26 sats \\ 1 comments \\ @JohnOnchain 20 Nov 2022 nostr",
+    "link": "911",
+    "metadata": "French ELI5 about Nostr"
+  },
+  {
+    "id": null,
+    "title": "100 sats \\ 0 comments \\ @JohnOnchain 17 Nov 2022 nostr",
+    "link": "912",
+    "metadata": "Nunchuk Wallet is amazing, but should use NOSTR"
+  },
+  {
+    "id": 11,
+    "title": "913",
+    "link": "Damus Web: Nostr client",
+    "metadata": "damus.io/web/"
+  },
+  {
+    "id": 550,
+    "title": "914",
+    "link": "GitHub - grunch/rana: Nostr Public key mining tool",
+    "metadata": "github.com/grunch/rana"
+  },
+  {
+    "id": 122,
+    "title": "915",
+    "link": "RFC: P2P protocol to buy/sell Nostr vanity pubkey mining",
+    "metadata": "476 sats \\ 3 comments \\ @02a9caab98 12 Nov 2022 nostr"
+  },
+  {
+    "id": 916,
+    "title": "Alby Buzz: Nostr integration and conference season",
+    "link": "blog.getalby.com/alby-buzz-nostr-integration/",
+    "metadata": "41 sats \\ 0 comments \\ @Alby 1 Nov 2022 nostr"
+  },
+  {
+    "id": 917,
+    "title": "Active nostr channels past week",
+    "link": "damus.io/channels/",
+    "metadata": "67 sats \\ 1 comments \\ @Victory 31 Oct 2022 nostr"
+  },
+  {
+    "id": 918,
+    "title": "Are you participating in #NostrNovember ? ",
+    "link": "305 sats \\ 21 comments \\ @ThrillerX_ 30 Oct 2022 nostr",
+    "metadata": "919"
+  },
+  {
+    "id": null,
+    "title": "github.com/getAlby/lightning-browser-extension/releases/tag/v1.18.0",
+    "link": "549 sats \\ 1 comments \\ @Alby 21 Oct 2022 nostr",
+    "metadata": "920"
+  },
+  {
+    "id": null,
+    "title": "github.com/unclebob/more-speech",
+    "link": "295 sats \\ 0 comments \\ @cryptocoin 18 Oct 2022 nostr",
+    "metadata": "921"
+  },
+  {
+    "id": null,
+    "title": "twitter.com/macieklaskus/status/1580888608822525954",
+    "link": "553 sats \\ 5 comments \\ @kr 14 Oct 2022 nostr",
+    "metadata": "922"
+  },
+  {
+    "id": null,
+    "title": "nitter.it/MaciekLaskus/status/1579793811739328512",
+    "link": "365 sats \\ 18 comments \\ @cryptocoin 12 Oct 2022 nostr",
+    "metadata": "923"
+  },
+  {
+    "id": null,
+    "title": "1237 sats \\ 11 comments \\ @leonardo 8 Oct 2022 nostr",
+    "link": "924",
+    "metadata": "[ES] Nostr: Solucionando la censura de una vez por todas - Estudio Bitcoin"
+  },
+  {
+    "id": null,
+    "title": "169 sats \\ 1 comments \\ @cameri 6 Oct 2022 nostr",
+    "link": "925",
+    "metadata": "[ES] L164 - Nostr: Solucionando la censura de una vez por todas con @cameri"
+  },
+  {
+    "id": null,
+    "title": "479 sats \\ 2 comments \\ @lunaticoin 4 Oct 2022 nostr",
+    "link": "926",
+    "metadata": "List of Nostr clients and NIP support"
+  },
+  {
+    "id": null,
+    "title": "104 sats \\ 1 comments \\ @k00b 1 Oct 2022 nostr",
+    "link": "927",
+    "metadata": "DALLE2 text-to-image AI on Nostr"
+  },
+  {
+    "id": 513,
+    "title": "928",
+    "link": "Nostr Search is Here! 🔍",
+    "metadata": "www.thrillerbitcoin.com/nostrsearchishere/"
+  },
+  {
+    "id": 44,
+    "title": "929",
+    "link": "Have You Tried Nostr Yet?",
+    "metadata": "1210 sats \\ 17 comments \\ @BloggingBitcoin 13 Sep 2022 nostr"
+  },
+  {
+    "id": 930,
+    "title": "Anigma (Nostr client) integrate LNbits wallet",
+    "link": "nitter.net/melvincarvalho/status/1568830527267897344",
+    "metadata": "2522 sats \\ 6 comments \\ @DarthCoin 12 Sep 2022 nostr"
+  },
+  {
+    "id": 931,
+    "title": "ShowSN: Nostr Fzf - A Nostr Directory for users and channels",
+    "link": "nostr-fzf.netlify.app/",
+    "metadata": "642 sats \\ 3 comments new \\ @cameri 12 Sep 2022 nostr"
+  },
+  {
+    "id": 932,
+    "title": "Mining Sats with Nostr !",
+    "link": "101 sats \\ 8 comments \\ @04b3ceda2a 29 Aug 2022 nostr",
+    "metadata": "933"
+  },
+  {
+    "id": null,
+    "title": "435 sats \\ 1 comments \\ @leonardo 27 Aug 2022 nostr",
+    "link": "934",
+    "metadata": "An experimental protocol to buy and sell Nostr PoW"
+  },
+  {
+    "id": null,
+    "title": "561 sats \\ 13 comments \\ @02a9caab98 27 Aug 2022 nostr",
+    "link": "935",
+    "metadata": "Fiatjaf on LNURL, Nostr, LNTXBot, Pancho, P2P Apps, Value 4 Value, and More"
+  },
+  {
+    "id": null,
+    "title": "328 sats \\ 6 comments \\ @TheWildHustle 24 Aug 2022 nostr",
+    "link": "936",
+    "metadata": "Nostrgram: a telegram clone built on nostr"
+  },
+  {
+    "id": null,
+    "title": "1150 sats \\ 14 comments \\ @super_testnet 24 Aug 2022 nostr",
+    "link": "937",
+    "metadata": "joinstr: Coinjoin implementation using nostr"
+  },
+  {
+    "id": null,
+    "title": "762 sats \\ 5 comments \\ @CypherPoet 20 Aug 2022 nostr",
+    "link": "938",
+    "metadata": "📺 Nostr Workshop with Super Testnet - YouTube link"
+  },
+  {
+    "id": null,
+    "title": "1687 sats \\ 1 comments \\ @ThrillerX_ 20 Aug 2022 nostr",
+    "link": "939",
+    "metadata": "Super Testnet Nostr workshop"
+  },
+  {
+    "id": null,
+    "title": "385 sats \\ 2 comments \\ @ThrillerX_ 20 Aug 2022 nostr",
+    "link": "940",
+    "metadata": "Pow on nostr to prevent spam and irrelevant message"
+  },
+  {
+    "id": 403,
+    "title": "941",
+    "link": "ShowSN: nostr-ts-relay: A Nostr Relay written in TypeScript",
+    "metadata": "github.com/Cameri/nostr-ts-relay"
+  },
+  {
+    "id": 1137,
+    "title": "942",
+    "link": "When stacker news on nostr ?",
+    "metadata": "168 sats \\ 10 comments \\ @JohnOnchain 11 Aug 2022 nostr"
+  },
+  {
+    "id": 943,
+    "title": "A Nostr network dashboard",
+    "link": "nashboard.space/",
+    "metadata": "1636 sats \\ 8 comments \\ @k00b 9 Aug 2022 nostr"
+  },
+  {
+    "id": 944,
+    "title": "Damus on TFTC rip 348: Building \"Web 3.0\" the right way on Nostr with jb55",
+    "link": "youtu.be/_Y_Mlk__KR0",
+    "metadata": "153 sats \\ 3 comments \\ @ThrillerX_ 26 Jul 2022 nostr"
+  },
+  {
+    "id": 945,
+    "title": "Federated ecash, scalabilité de LN et Nostr - Entonnoir du Bitcoin",
+    "link": "www.youtube.com/watch?v=e9zKDJhIlxU",
+    "metadata": "101 sats \\ 0 comments \\ @JohnOnchain 25 Jul 2022 nostr"
+  },
+  {
+    "id": 946,
+    "title": "Nostr - Les bases",
+    "link": "21bitcoin.fr/post/nostr-les-bases/",
+    "metadata": "101 sats \\ 0 comments \\ @JohnOnchain 25 Jul 2022 nostr"
+  },
+  {
+    "id": 947,
+    "title": "NIP-21: Non-public encrypted messages · nostr-protocol/nips",
+    "link": "github.com/nostr-protocol/nips/blob/nip-21-non-public-dms/21.md",
+    "metadata": "226 sats \\ 3 comments \\ @moon 21 Jul 2022 nostr"
+  },
+  {
+    "id": 948,
+    "title": "joinstr - coin join on nostr",
+    "link": "gist.github.com/1440000bytes/1c305097b070c8374cc3b91f50314a45",
+    "metadata": "213 sats \\ 0 comments \\ @k00b 20 Jul 2022 nostr"
+  },
+  {
+    "id": 949,
+    "title": "ArcadeCity/bullrun: An open protocol for P2P services powered by Bitcoin & Nostr",
+    "link": "github.com/ArcadeCity/bullrun",
+    "metadata": "859 sats \\ 3 comments \\ @moon 20 Jul 2022 nostr"
+  },
+  {
+    "id": 950,
+    "title": "P2P Uber via Lightning & Nostr",
+    "link": "1272 sats \\ 1000 boost \\ 9 comments \\ @f321x 19 Jul 2022 nostr",
+    "metadata": "951"
+  },
+  {
+    "id": null,
+    "title": "github.com/vishalxl/nostr_console",
+    "link": "100 sats \\ 1 comments \\ @moon 11 Jul 2022 nostr",
+    "metadata": "952"
+  },
+  {
+    "id": null,
+    "title": "www.kevinrooke.com/podcasts/e54-william-casarin-on-lightning-as-a-communications-layer-for-bitcoin-lnlink-nostr-and-damus",
+    "link": "365 sats \\ 1 comments \\ @plntmls 9 Jul 2022 nostr",
+    "metadata": "953"
+  },
+  {
+    "id": null,
+    "title": "youtu.be/QXd0vLTw6NA",
+    "link": "743 sats \\ 16 comments \\ @kr 8 Jul 2022 nostr",
+    "metadata": "954"
+  },
+  {
+    "id": null,
+    "title": "github.com/slaninas/tostr",
+    "link": "21 sats \\ 0 comments \\ @k00b 1 Jul 2022 nostr",
+    "metadata": "955"
+  },
+  {
+    "id": null,
+    "title": "damus.io/",
+    "link": "400 sats \\ 28 comments \\ @moel 1 Jul 2022 nostr",
+    "metadata": "956"
+  },
+  {
+    "id": null,
+    "title": "github.com/nostr-protocol/nostr",
+    "link": "35 sats \\ 1 comments \\ @moon 30 Jun 2022 nostr",
+    "metadata": "957"
+  },
+  {
+    "id": null,
+    "title": "testflight.apple.com/join/CLwjLxWl",
+    "link": "186 sats \\ 5 comments \\ @k00b 10 Jun 2022 nostr",
+    "metadata": "958"
+  },
+  {
+    "id": null,
+    "title": "jesterui.github.io/",
+    "link": "3 sats \\ 0 comments \\ @tbk 2 Jun 2022 nostr",
+    "metadata": "959"
+  },
+  {
+    "id": null,
+    "title": "jesterui.github.io/",
+    "link": "101 sats \\ 0 comments \\ @fiatjaf 24 May 2022 nostr",
+    "metadata": "960"
+  },
+  {
+    "id": null,
+    "title": "1 sats \\ 8 comments \\ @farbod 21 May 2022 nostr",
+    "link": "961",
+    "metadata": "Will Stacker News implement Nostr protocol?"
+  },
+  {
+    "id": 2,
+    "title": "962",
+    "link": "NIP-13: proof of work spec for nostr",
+    "metadata": "github.com/nostr-protocol/nips/blob/ba01cc1015a928dcbd2adafaa2c624be586080da/13.md"
+  },
+  {
+    "id": 3,
+    "title": "963",
+    "link": "🎧 Nostr brings decentralization to Social Media - Fiatjaf - EP023 | Connect The World",
+    "metadata": "www.youtube.com/watch?v=ASGvNflolz0"
+  },
+  {
+    "id": 190,
+    "title": "964",
+    "link": "Citadel Dispatch e63 - building nostr, a censorship resistant alternative to twitter with @fiatjaf, @jb55, and @MrKukks",
+    "metadata": "www.podpage.com/citadeldispatch/cd63-building-nostr-a-censorship-resistant-alternative-to-twitter-with-fiatjaf-jb55-and-mrkukks/"
+  },
+  {
+    "id": 1012,
+    "title": "965",
+    "link": "🎧 CD63: building nostr, a censorship resistant alternative to twitter with @fiatjaf, @jb55, and @MrKukks | Citadel Dispatch",
+    "metadata": "bitcointv.com/w/3uDQAViaQShdphUzY4mmtC"
+  },
+  {
+    "id": 8,
+    "title": "966",
+    "link": "nostr-desk, a client that makes threads great again",
+    "metadata": "twitter.com/fiatjaf/status/1508044526761480194"
+  },
+  {
+    "id": 2274,
+    "title": "967",
+    "link": "I'm fiatjaf of nostr, lnurl, and zebedee, AMA",
+    "metadata": "63.4k sats \\ 113 comments \\ @fiatjaf 1 Mar 2022 nostr"
+  },
+  {
+    "id": 968,
+    "title": "New #nostr desktop client, nostr-desk, started | @melvincarvalho",
+    "link": "twitter.com/melvincarvalho/status/1496508098919505929",
+    "metadata": "50 sats \\ 5 boost \\ 3 comments \\ @cointastical 23 Feb 2022 nostr"
+  },
+  {
+    "id": 969,
+    "title": "Nostr, an Introduction",
+    "link": "wiki.wellorder.net/post/nostr-intro/",
+    "metadata": "50 sats \\ 5 boost \\ 4 comments \\ @cointastical 16 Feb 2022 nostr"
+  },
+  {
+    "id": 970,
+    "title": "Nvote, a Reddit like service using nostr protocol and lightning to avoid spam abuse",
+    "link": "nvote.co/",
+    "metadata": "30 sats \\ 6 comments \\ @0264ae5b32 6 Feb 2022 nostr"
+  },
+  {
+    "id": 971,
+    "title": "Introducing Nostr: A lightweight open protocol that can potentially facilitate a decentralized social media platform",
+    "link": "github.com/rajarshimaitra/rust-nostr/blob/main/VISION.md",
+    "metadata": "71 sats \\ 3 comments \\ @CypherPoet 22 Jan 2022 nostr"
+  },
+  {
+    "id": 972,
+    "title": "Subscribe to youtube feeds on nostr",
+    "link": "139 sats \\ 3 comments \\ @supertestnet 31 Dec 2021 nostr",
+    "metadata": "973"
+  },
+  {
+    "id": null,
+    "title": "rsslay.fiatjaf.com/",
+    "link": "4 sats \\ 1 comments \\ @melvincarvalho 28 Dec 2021 nostr",
+    "metadata": "974"
+  },
+  {
+    "id": null,
+    "title": "branle.fiatjaf.com/",
+    "link": "139 sats \\ 29 comments \\ @k00b 28 Dec 2021 nostr"
+  }
+]
